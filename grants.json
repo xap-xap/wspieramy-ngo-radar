@@ -1,8 +1,8 @@
 {
   "schema_version": "2.1.0",
-  "last_updated": "2026-11-21T19:45:13+01:00",
-  "generated_at": "2026-11-21T19:45:13+01:00",
-  "count": 181,
+  "last_updated": "2026-11-21T21:01:42+01:00",
+  "generated_at": "2026-11-21T21:01:42+01:00",
+  "count": 193,
   "voivodeships": [
     {
       "code": "dolnoslaskie",
@@ -1485,6 +1485,69 @@
       ]
     },
     {
+      "id": "g_286b412456cefe81",
+      "title": "Punkty nieodpłatnej pomocy prawnej i nieodpłatnego poradnictwa obywatelskiego w Łodzi w 2027 r.",
+      "funder": "Miasto Łódź",
+      "source": "Urząd Miasta Łodzi",
+      "description": "Łódź powierzy organizacjom prowadzenie punktów bezpłatnych porad prawnych (453 052,08 zł) oraz poradnictwa obywatelskiego (528 560,76 zł) w 2027 r.; na jeden punkt przypada 75 508,68 zł wraz z edukacją prawną. Startować mogą organizacje z listy Wojewody Łódzkiego. Oferty w ciągu 21 dni od ogłoszenia z 6.11.2026.",
+      "voivodeships": [
+        "lodzkie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [],
+      "amount_min": null,
+      "amount_max": 75508.68,
+      "amount_text": null,
+      "total_budget": 981612.84,
+      "currency": "PLN",
+      "own_contribution": "nie wymagany (forma powierzenia)",
+      "deadline": "2026-11-27",
+      "start_date": "2026-11-06",
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.uml.lodz.pl/urzad-miasta/ogloszenia-i-zawiadomienia/ogloszenia-urzedu-miasta-lodzi/ogloszenie/otwarty-konkurs-ofert-w-formie-powierzenia-realizacji-zadania-publicznego-w-zakresie-prowadzenia-punktu-nieodplatnej-pomocy-prawnej-lub-punktu-nieodplatnego-poradnictwa-obywatelskiego-na-terenie-lodzi-w-2027-roku-id184702/2026/11/6/",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "nieodpłatna pomoc prawna",
+        "nieodpłatne poradnictwo obywatelskie"
+      ],
+      "target_groups": [
+        "ogół mieszkańców"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "01.01.2027–31.12.2027",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "ogłoszenie Prezydenta Miasta Łodzi z 6.11.2026 (PDF z BIP UMŁ, pdftotext) 2026-11-21; termin WYLICZONY: ogłoszenie podaje '21 dni od dnia ukazania się ogłoszenia' – od 6.11.2026 daje 27.11.2026; wymagany wpis na listę Wojewody Łódzkiego (art. 11d ustawy o NPP)",
+      "voivodeship": [
+        "lodzkie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "do 75 509 zł",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Łódź"
+        }
+      ]
+    },
+    {
       "id": "g_a795525c7f6b6621",
       "title": "Wspieranie samotnych matek i rodzin ubogich w Gdyni oraz pomoc obywatelom Ukrainy",
       "funder": "Miasto Gdynia",
@@ -2103,6 +2166,69 @@
         {
           "type": "gmina",
           "name": "Poznań"
+        }
+      ]
+    },
+    {
+      "id": "g_d62bf14f4bd3db2c",
+      "title": "Rozwój sportu w Gminie Ozimek – I tura 2027",
+      "funder": "Gmina Ozimek",
+      "source": "Urząd Gminy i Miasta w Ozimku",
+      "description": "Dotacje dla klubów sportowych z gminy Ozimek na szkolenie, udział w rozgrywkach i organizację zawodów w pierwszym półroczu 2027 r. Pula 350 000 zł; gmina pokrywa do 90% kosztów, więc wymagany jest wkład własny co najmniej 10%. Wnioski papierowe do 01.12.2026.",
+      "voivodeships": [
+        "opolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie"
+      ],
+      "other_recipients": [
+        "kluby sportowe działające w innej formie prawnej"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 350000,
+      "currency": "PLN",
+      "own_contribution": "min. 10% kosztów (dotacja do 90%)",
+      "deadline": "2026-12-01",
+      "start_date": "2026-11-16",
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://ozimek.pl/50068-ogloszenia-50068/90-konkursy-ofert/54203-zarzadzenie-or00502262026-burmistrza-ozimka-z-dnia-16-listopada-2026-r-w-sprawie-ogloszenia-otwartego-konkursu-wnioskow-na-wspieranie-realizacji-zadan-publicznych-z-zakresu-rozwoju.html",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "kultura fizyczna i sport"
+      ],
+      "target_groups": [
+        "sportowcy",
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "01.01.2027–30.06.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 10
+      },
+      "extraction_notes": "zarządzenie nr OR.0050.226.2026 Burmistrza Ozimka z 16.11.2026 (PDF ze strony urzędu, pdftotext) 2026-11-21; tryb ustawy o sporcie – wnioskodawcami są kluby sportowe; oznaczono 'stowarzyszenie', bo kluby działają zwykle jako stowarzyszenia, kluby w innej formie prawnej w other_recipients; o terminie decyduje złożenie wersji papierowej w kancelarii urzędu",
+      "voivodeship": [
+        "opolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Ozimek"
         }
       ]
     },
@@ -7904,6 +8030,71 @@
       ]
     },
     {
+      "id": "g_f15f0c4fefa2b4d1",
+      "title": "Prowadzenie Środowiskowego Domu Samopomocy dla osób z zaburzeniami psychicznymi w Brzegu w latach 2027–2030",
+      "funder": "Gmina Brzeg",
+      "source": "Urząd Miasta w Brzegu",
+      "description": "Brzeg powierzy organizacji prowadzenie dziennego ośrodka wsparcia (Środowiskowego Domu Samopomocy) dla osób z zaburzeniami psychicznymi na cztery lata. Na 2027 r. zaplanowano 1 042 011 zł z budżetu państwa (w tym 57 867 zł na dodatki motywacyjne). Oferty osobiście lub pocztą do 09.12.2026, godz. 15:15.",
+      "voivodeships": [
+        "opolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 1042011,
+      "currency": "PLN",
+      "own_contribution": "nie wymagany (forma powierzenia)",
+      "deadline": "2026-12-09",
+      "start_date": "2026-11-18",
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.brzeg.pl/dokumenty,5_2298",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027–2030",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "ogłoszenie i zarządzenie Burmistrza Brzegu (PDF z BIP Gminy Brzeg, pdftotext) 2026-11-21; kwota 1 042 011 zł dotyczy 2027 r. (na kolejne lata wg dotacji celowej); forma: powierzenie",
+      "voivodeship": [
+        "opolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Brzeg"
+        }
+      ]
+    },
+    {
       "id": "g_6c8be27324e46b02",
       "title": "Upamiętnianie historii wrocławskich kombatantów i osób represjonowanych 2027 (Wrocław, otwarty konkurs ofert)",
       "funder": "Miasto Wrocław",
@@ -8506,6 +8697,72 @@
       ]
     },
     {
+      "id": "g_351389897772f5f7",
+      "title": "IV otwarty konkurs ofert Bełchatowa na 2027 r. – przeciwdziałanie uzależnieniom i patologiom społecznym",
+      "funder": "Miasto Bełchatów",
+      "source": "Urząd Miasta Bełchatowa",
+      "description": "Pięć zadań na 2027 r. dla Bełchatowa: klub abstynencki, placówka wsparcia dziennego z programem profilaktyki, specjalistyczne poradnictwo (prawne, psychologiczne, rodzinne, przeciwdziałanie przemocy), terapia i socjoterapia dla młodzieży używającej substancji oraz punkt konsultacyjny dla osób uzależnionych od narkotyków. Łącznie 495 000 zł (25 000–175 000 zł na zadanie), pełne finansowanie przez miasto, bez wkładu własnego. Oferty papierowe do 11.12.2026, godz. 15:00.",
+      "voivodeships": [
+        "lodzkie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 495000,
+      "currency": "PLN",
+      "own_contribution": "nie wymagany (powierzenie do 100%)",
+      "deadline": "2026-12-11",
+      "start_date": "2026-11-19",
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://belchatow.bip.gov.pl/ogloszenia/zarz-dzenie-nr-501-2026-prezydenta-miasta-be-chatowa-z-dnia-19-listopada-2026-r-w-sprawie-og-oszenia-iv-otwartego-konkursu-ofert-na-realizacj-zada-publicznych-w-2027-roku-w-zakresie-przeciwdzia-anie-uzale-nieniom-i-patologiom-spo-ecznym.html",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "przeciwdziałanie uzależnieniom i patologiom"
+      ],
+      "target_groups": [
+        "osoby uzależnione i zagrożone uzależnieniem",
+        "dzieci i młodzież",
+        "rodziny"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "w 2027 r.",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "zarządzenie nr 501/2026 Prezydenta Miasta Bełchatowa z 19.11.2026 (PDF z BIP, wersja dostępna cyfrowo, pdftotext) 2026-11-21; 5 zadań: 100 000, 175 000, 90 000, 105 000 i 25 000 zł; termin 11.12.2026 godz. 15:00 – liczy się wpływ; koszty administracyjne do 15% dotacji",
+      "voivodeship": [
+        "lodzkie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Bełchatów"
+        }
+      ]
+    },
+    {
       "id": "g_56256824dc3e90eb",
       "title": "Kontynuacja działań w ramach Wrocławskiego Centrum Olgi Tokarczuk (Wrocław, otwarty konkurs ofert 2027)",
       "funder": "Miasto Wrocław",
@@ -8628,6 +8885,64 @@
           "name": "Starogard Gdański"
         }
       ]
+    },
+    {
+      "id": "g_473cc8bab98dfe34",
+      "title": "Prowadzenie niepublicznego ośrodka adopcyjnego na terenie powiatu żagańskiego i powiatu żarskiego w latach 2027–2031",
+      "funder": "Województwo Lubuskie",
+      "source": "Regionalny Ośrodek Polityki Społecznej w Zielonej Górze",
+      "description": "Samorząd województwa wesprze organizację, która poprowadzi niepubliczny ośrodek adopcyjny dla powiatów żagańskiego i żarskiego przez pięć lat (2027–2031). Na cały okres zaplanowano 250 000 zł z budżetu państwa. Oferta musi wskazać wyceniony wkład osobowy i rzeczowy; koszty administracyjne mogą stanowić najwyżej 15% wartości zadania. Oferty do 11.12.2026, godz. 15:30.",
+      "voivodeships": [
+        "lubuskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 250000,
+      "currency": "PLN",
+      "own_contribution": "wymagany wkład osobowy i rzeczowy (wyceniony, bez minimalnego %); można go zastąpić środkami finansowymi",
+      "deadline": "2026-12-11",
+      "start_date": "2026-11-20",
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.rops.lubuskie.pl/44/464/Ogloszenie_otwartego_konkursu_ofert_na_wsparcie_ze_srodkow_z_budzetu_panstwa_w_latach_2027-2031_realizacji_zadania_publicznego_pn___E2_80_9EProwadzenie_niepublicznego_osrodka_adopcyjnego_na_terenie_powiatu_zaganskiego_i_powiatu_zarskiego_E2_80_9D/",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "wspieranie rodziny i piecza zastępcza",
+        "rodzina i prawa dziecka"
+      ],
+      "target_groups": [
+        "rodziny",
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "01.01.2027–31.12.2031",
+      "own_contribution_required": true,
+      "min_own_contribution": null,
+      "extraction_notes": "ogłoszenie Zarządu Województwa Lubuskiego (PDF z BIP ROPS Zielona Góra, pdftotext) 2026-11-21; forma: wsparcie; termin 21 dni od ostatniej publikacji = 11.12.2026, wersja elektroniczna do 15:30 ostatniego dnia, papierowa – liczy się wpływ; koszty administracyjne max 15%",
+      "voivodeship": [
+        "lubuskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_29ed79998577797b",
@@ -8952,6 +9267,137 @@
       ]
     },
     {
+      "id": "g_33fcee7bcd916176",
+      "title": "Działania dla mieszkańców Oleśnicy w wieku emerytalnym – 2027",
+      "funder": "Miasto Oleśnica",
+      "source": "Urząd Miasta Oleśnicy",
+      "description": "Oleśnica przeznacza 240 000 zł na zajęcia, spotkania i aktywizację seniorów mieszkających w mieście w 2027 r. Zadanie można realizować w formie powierzenia lub wsparcia. Oferty do 14.12.2026, godz. 16:00.",
+      "voivodeships": [
+        "dolnoslaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 240000,
+      "currency": "PLN",
+      "own_contribution": "nie wymagany (powierzenie); przy wykazaniu środków własnych – wsparcie",
+      "deadline": "2026-12-14",
+      "start_date": "2026-11-20",
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://idumolesnica.bip.gov.pl/ngo-otwarte-konkursy-ofert/og-oszenie-o-konkursie.html",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "seniorzy (osoby w wieku emerytalnym)"
+      ],
+      "target_groups": [
+        "seniorzy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "od podpisania umowy do 31.12.2027",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "ogłoszenie Burmistrza Miasta Oleśnicy z 20.11.2026 (DOC z BIP UM Oleśnica, antiword) 2026-11-21; oferty do 14.12.2026 godz. 16:00 – liczy się wpływ wersji papierowej do Punktu Informacyjnego UM; to samo ogłoszenie obejmuje też zadanie zdrowotne dla dzieci (osobny rekord)",
+      "voivodeship": [
+        "dolnoslaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Oleśnica"
+        }
+      ]
+    },
+    {
+      "id": "g_a52bad53a255912f",
+      "title": "Festiwal artystyczno-cyrkowy i centrum wsparcia organizacji pozarządowych w Oleśnicy – 2027",
+      "funder": "Miasto Oleśnica",
+      "source": "Urząd Miasta Oleśnicy",
+      "description": "Oleśnica zleci organizacji przygotowanie festiwalu sztuki cyrkowej oraz prowadzenie centrum wspierającego lokalne organizacje pozarządowe. Na 2027 r. przewidziano 522 000 zł. Możliwe powierzenie (pełne finansowanie) lub wsparcie. Oferty do 14.12.2026, godz. 16:00.",
+      "voivodeships": [
+        "dolnoslaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 522000,
+      "currency": "PLN",
+      "own_contribution": "nie wymagany (powierzenie); przy wykazaniu środków własnych – wsparcie",
+      "deadline": "2026-12-14",
+      "start_date": "2026-11-20",
+      "status": "aktywny",
+      "category": [
+        "kultura",
+        "rozwoj_ngo"
+      ],
+      "source_url": "https://idumolesnica.bip.gov.pl/ngo-otwarte-konkursy-ofert/1430870_og-oszenie-o-konkursie.html",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "kultura, sztuka, dziedzictwo narodowe",
+        "wsparcie organizacji pozarządowych"
+      ],
+      "target_groups": [
+        "ogół mieszkańców",
+        "organizacje pozarządowe"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "od podpisania umowy do 31.12.2027",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "ogłoszenie Burmistrza Miasta Oleśnicy z 20.11.2026 (DOC z BIP UM Oleśnica, antiword) 2026-11-21; oferty do 14.12.2026 godz. 16:00 – liczy się wpływ wersji papierowej do Punktu Informacyjnego UM",
+      "voivodeship": [
+        "dolnoslaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Oleśnica"
+        }
+      ]
+    },
+    {
       "id": "g_bcda23ad5884861a",
       "title": "Klub Rodzica dla rodzin z dziećmi do 3 lat o specjalnych potrzebach rozwojowych (Kraków, 2027–2028)",
       "funder": "Gmina Miejska Kraków",
@@ -9082,6 +9528,71 @@
       ]
     },
     {
+      "id": "g_1640cefa77f5ab77",
+      "title": "Profilaktyka i rehabilitacja dzieci z wadami postawy i uszkodzeniami narządu ruchu w Oleśnicy – 2027",
+      "funder": "Miasto Oleśnica",
+      "source": "Urząd Miasta Oleśnicy",
+      "description": "Dotacja na zajęcia profilaktyczne i rehabilitacyjne dla dzieci z Oleśnicy z wadami postawy lub uszkodzeniami narządu ruchu. Pula 300 000 zł na 2027 r., powierzenie lub wsparcie. Oferty do 14.12.2026, godz. 16:00.",
+      "voivodeships": [
+        "dolnoslaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 300000,
+      "currency": "PLN",
+      "own_contribution": "nie wymagany (powierzenie); przy wykazaniu środków własnych – wsparcie",
+      "deadline": "2026-12-14",
+      "start_date": "2026-11-20",
+      "status": "aktywny",
+      "category": [
+        "inne"
+      ],
+      "source_url": "https://idumolesnica.bip.gov.pl/ngo-otwarte-konkursy-ofert/og-oszenie-o-konkursie.html",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "ochrona i promocja zdrowia",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "od podpisania umowy do 31.12.2027",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "ogłoszenie Burmistrza Miasta Oleśnicy z 20.11.2026 (DOC z BIP UM Oleśnica, antiword) 2026-11-21; oferty do 14.12.2026 godz. 16:00 – liczy się wpływ wersji papierowej do Punktu Informacyjnego UM; to samo ogłoszenie obejmuje też zadanie dla seniorów (osobny rekord)",
+      "voivodeship": [
+        "dolnoslaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Oleśnica"
+        }
+      ]
+    },
+    {
       "id": "g_4f871aa54da7afa1",
       "title": "Prowadzenie centrum integracji na osiedlu Nadodrze (Wrocław, otwarty konkurs ofert 2027)",
       "funder": "Miasto Wrocław",
@@ -9144,6 +9655,266 @@
         {
           "type": "gmina",
           "name": "Wrocław"
+        }
+      ]
+    },
+    {
+      "id": "g_e53dc3082ead2da0",
+      "title": "Prowadzenie ogrzewalni dla osób potrzebujących, w tym bezdomnych, w Oleśnicy – zima 2027",
+      "funder": "Miasto Oleśnica",
+      "source": "Urząd Miasta Oleśnicy",
+      "description": "Dotacja na prowadzenie ogrzewalni, w której osoby w kryzysie bezdomności i inne potrzebujące mogą przeczekać zimowe miesiące. 150 000 zł na okres 1.01–30.04.2027, powierzenie lub wsparcie. Oferty do 14.12.2026, godz. 16:00.",
+      "voivodeships": [
+        "dolnoslaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 150000,
+      "currency": "PLN",
+      "own_contribution": "nie wymagany (powierzenie); przy wykazaniu środków własnych – wsparcie",
+      "deadline": "2026-12-14",
+      "start_date": "2026-11-20",
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://idumolesnica.bip.gov.pl/ngo-otwarte-konkursy-ofert/1430890_og-oszenie-o-konkursie.html",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "pomoc społeczna"
+      ],
+      "target_groups": [
+        "osoby w kryzysie bezdomności"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "01.01.2027–30.04.2027",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "ogłoszenie Burmistrza Miasta Oleśnicy z 20.11.2026 (DOC z BIP UM Oleśnica, antiword) 2026-11-21; oferty do 14.12.2026 godz. 16:00 – liczy się wpływ wersji papierowej do Punktu Informacyjnego UM",
+      "voivodeship": [
+        "dolnoslaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Oleśnica"
+        }
+      ]
+    },
+    {
+      "id": "g_894767d417e50eba",
+      "title": "Sport osób z niepełnosprawnościami w Lublinie – 2027",
+      "funder": "Miasto Lublin",
+      "source": "Urząd Miasta Lublin – Wydział Sportu i Turystyki",
+      "description": "Dotacje dla organizacji prowadzących szkolenie sportowe i udział w zawodach osób z niepełnosprawnościami w Lublinie przez cały 2027 r. Pula 100 000 zł. Wymagany wkład własny co najmniej 10% kosztów (osobowy lub rzeczowy, można go zastąpić pieniędzmi). Oferty do 14.12.2026, godz. 15:30.",
+      "voivodeships": [
+        "lubelskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 100000,
+      "currency": "PLN",
+      "own_contribution": "min. 10% kosztów – wkład osobowy lub rzeczowy (może być zastąpiony środkami finansowymi)",
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.lublin.eu/urzad-miasta-lublin/ogloszenia/konkursy/2026/ogloszenie-otwartego-konkursu-ofert-sport-osob-z-niepelnosprawnosciami-2027-rok-,384,28952,2.html",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "kultura fizyczna i sport",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami",
+        "sportowcy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "01.01.2027–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 10
+      },
+      "extraction_notes": "ogłoszenie Prezydenta Miasta Lublin (PDF z BIP Lublina, pdftotext) 2026-11-21; termin 14.12.2026 godz. 15:30; forma: wsparcie; adresaci: organizacje z art. 3 ust. 2 i podmioty z art. 3 ust. 3 działające w kulturze fizycznej",
+      "voivodeship": [
+        "lubelskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Lublin"
+        }
+      ]
+    },
+    {
+      "id": "g_a19b204f0eddfa5a",
+      "title": "Szkolenie sportowe dzieci i młodzieży w grach zespołowych (także klasy i grupy profilowane) w Lublinie – I półrocze 2027",
+      "funder": "Miasto Lublin",
+      "source": "Urząd Miasta Lublin – Wydział Sportu i Turystyki",
+      "description": "Lublin dofinansuje kluby szkolące dzieci i młodzież w zespołowych grach sportowych, w tym w klasach i grupach o profilu sportowym, w pierwszym półroczu 2027 r. Pula 1 000 000 zł. Wkład własny min. 10% kosztów (osobowy/rzeczowy lub finansowy). Oferty do 14.12.2026, godz. 15:30.",
+      "voivodeships": [
+        "lubelskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 1000000,
+      "currency": "PLN",
+      "own_contribution": "min. 10% kosztów – wkład osobowy lub rzeczowy (może być zastąpiony środkami finansowymi)",
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.lublin.eu/urzad-miasta-lublin/ogloszenia/konkursy/2026/ogloszenie-otwartego-konkursu-ofert-szkolenie-sportowe-dzieci-i-mlodziezy-w-zespolowych-grach-sportowych-w-tym-w-ramach-klasgrup-profilowanych-1-polrocze-2027,383,28952,2.html",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "kultura fizyczna i sport",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "sportowcy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "01.01.2027–30.06.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 10
+      },
+      "extraction_notes": "ogłoszenie Prezydenta Miasta Lublin (PDF z BIP Lublina, pdftotext) 2026-11-21; termin 14.12.2026 godz. 15:30; forma: wsparcie; adresaci: organizacje z art. 3 ust. 2 i podmioty z art. 3 ust. 3 działające w kulturze fizycznej",
+      "voivodeship": [
+        "lubelskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Lublin"
+        }
+      ]
+    },
+    {
+      "id": "g_732175790975697d",
+      "title": "Szkolenie sportowe w Akademickim Centrum Szkolenia Sportowego w Lublinie – 2027",
+      "funder": "Miasto Lublin",
+      "source": "Urząd Miasta Lublin – Wydział Sportu i Turystyki",
+      "description": "Dotacje na całoroczne szkolenie sportowe zawodników w ramach Akademickiego Centrum Szkolenia Sportowego w Lublinie. Pula 600 000 zł na 2027 r. Wkład własny co najmniej 10% kosztów (osobowy lub rzeczowy, z możliwością zamiany na finansowy). Oferty do 14.12.2026, godz. 15:30.",
+      "voivodeships": [
+        "lubelskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 600000,
+      "currency": "PLN",
+      "own_contribution": "min. 10% kosztów – wkład osobowy lub rzeczowy (może być zastąpiony środkami finansowymi)",
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.lublin.eu/urzad-miasta-lublin/ogloszenia/konkursy/2026/ogloszenie-otwartego-konkursu-ofert-szkolenie-sportowe-w-ramach-akademickiego-centrum-szkolenia-sportowego-2027-rok-,385,28952,2.html",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "kultura fizyczna i sport"
+      ],
+      "target_groups": [
+        "sportowcy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "01.01.2027–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 10
+      },
+      "extraction_notes": "ogłoszenie Prezydenta Miasta Lublin (PDF z BIP Lublina, pdftotext) 2026-11-21; termin 14.12.2026 godz. 15:30; forma: wsparcie; adresaci: organizacje z art. 3 ust. 2 i podmioty z art. 3 ust. 3 działające w kulturze fizycznej",
+      "voivodeship": [
+        "lubelskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Lublin"
         }
       ]
     },
