@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
-  "last_updated": "2026-11-21T15:23:39+01:00",
-  "generated_at": "2026-11-21T15:23:39+01:00",
-  "count": 126,
+  "last_updated": "2026-11-21T15:29:40+01:00",
+  "generated_at": "2026-11-21T15:29:40+01:00",
+  "count": 132,
   "voivodeships": [
     {
       "code": "dolnoslaskie",
@@ -964,6 +964,66 @@
         "fundacja"
       ],
       "amount": "do 74 730 zł"
+    },
+    {
+      "id": "pomagamy-z-kazdym-krokiem-granty-na-wsparcie-psych-3225382f",
+      "title": "Pomagamy z Każdym Krokiem – granty na wsparcie psychologiczne dzieci i młodzieży",
+      "funder": "Fundacja PKO Banku Polskiego",
+      "source": "Fundacja PKO Banku Polskiego (operator: Fundacja Dajemy Dzieciom Siłę)",
+      "description": "Program regrantingowy finansowany przez Fundację PKO Banku Polskiego, prowadzony przez Fundację Dajemy Dzieciom Siłę. Granty na bezpłatne wsparcie psychologiczne/psychoterapeutyczne dzieci i młodzieży w kryzysie psychicznym lub doświadczających przemocy. Ścieżka I – podmioty z Sieci Centrów Pomocy Dzieciom; Ścieżka II – granty lokalne w 20 miejscowościach 10. PKO Biegu Charytatywnego.",
+      "voivodeships": [
+        "ogolnopolski"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty publiczne (wydatki budżetowe min. 200 tys. zł)"
+      ],
+      "amount_min": null,
+      "amount_max": 100000,
+      "amount_text": "Ścieżka I: do 100 000 zł (maks. 10 grantów); Ścieżka II: 60 000–75 000 zł (po 1 grancie na miejscowość)",
+      "total_budget": null,
+      "currency": "PLN",
+      "own_contribution": "Wkład własny nie jest wymagany",
+      "deadline": "2026-11-25",
+      "start_date": "2026-11-04",
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "url": "https://www.fundacjapkobp.pl/pomagamy-z-kazdym-krokiem",
+      "source_url": "https://www.fundacjapkobp.pl/pomagamy-z-kazdym-krokiem",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "ochrona i promocja zdrowia",
+        "dzieci i młodzież",
+        "rodzina i prawa dziecka"
+      ],
+      "target_groups": [
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": 3,
+      "min_years_of_activity": 3,
+      "min_revenue": "200 000 zł przychodu za 2025 r. (organizacje pozarządowe)",
+      "requires_opp": false,
+      "max_project_duration": "10 miesięcy (1.02–30.11.2027)",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "Wymagane Standardy Ochrony Małoletnich wprowadzone do 31.08.2026; rejestracja najpóźniej 31.08.2023; Ścieżka II – 20 miejscowości: Bydgoszcz, Gdańsk, Gorzów Wlkp., Kielce, Kołobrzeg, Kozienice, Kraków, Krosno, Lębork, Lidzbark Warmiński, Łomża, Łódź, Oleśnica, Opole, Pleszew, Poznań, Ruda Śląska, Stalowa Wola, Warszawa, Zamość; wnioski e-mailem na konkurs.grantowy@fdds.pl (podpis kwalifikowany); weryfikacja ręczna 2026-11-21 na stronie oficjalnej grantodawcy",
+      "voivodeship": [
+        "ogolnopolski"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "Ścieżka I: do 100 000 zł (maks. 10 grantów); Ścieżka II: 60 000–75 000 zł (po 1 grancie na miejscowość)"
     },
     {
       "id": "feop-05-03-wyrownywanie-szans-kobiet-i-mezczyzn-na-1b497f14",
@@ -3638,7 +3698,7 @@
       ],
       "amount_min": null,
       "amount_max": null,
-      "amount_text": "pula naboru wg agregatora: 100 zł (waluta/kwota do weryfikacji w regulaminie)",
+      "amount_text": null,
       "total_budget": null,
       "currency": "PLN",
       "own_contribution": "Dofinansowanie: 85%",
@@ -3663,7 +3723,7 @@
       "max_project_duration": null,
       "own_contribution_required": null,
       "min_own_contribution": null,
-      "extraction_notes": "dane z agregatora Radar Dotacji; terminu nie potwierdzono automatycznie na stronie oficjalnej; heurystyka słów kluczowych: thematic_areas",
+      "extraction_notes": "dane z agregatora Radar Dotacji; terminu nie potwierdzono automatycznie na stronie oficjalnej; heurystyka słów kluczowych: thematic_areas; QA: usunięto nieprawdopodobną pulę naboru z agregatora (pula naboru wg agregatora: 100 zł (waluta/kwota do weryfikacji w regulaminie))",
       "voivodeship": [
         "lubuskie"
       ],
@@ -4847,7 +4907,7 @@
       ],
       "amount_min": null,
       "amount_max": null,
-      "amount_text": "pula naboru wg agregatora: 100 zł (waluta/kwota do weryfikacji w regulaminie)",
+      "amount_text": null,
       "total_budget": null,
       "currency": "PLN",
       "own_contribution": "Dofinansowanie: 100%",
@@ -4877,7 +4937,7 @@
         "type": "percent",
         "value": 0
       },
-      "extraction_notes": "dane z agregatora Radar Dotacji; terminu nie potwierdzono automatycznie na stronie oficjalnej; heurystyka słów kluczowych: thematic_areas",
+      "extraction_notes": "dane z agregatora Radar Dotacji; terminu nie potwierdzono automatycznie na stronie oficjalnej; heurystyka słów kluczowych: thematic_areas; QA: usunięto nieprawdopodobną pulę naboru z agregatora (pula naboru wg agregatora: 100 zł (waluta/kwota do weryfikacji w regulaminie))",
       "voivodeship": [
         "lubuskie"
       ],
@@ -5527,7 +5587,7 @@
       "amount_text": null,
       "total_budget": null,
       "currency": "PLN",
-      "own_contribution": null,
+      "own_contribution": "Wkład własny min. 10% wartości wnioskowanej dotacji (finansowy, osobowy lub rzeczowy)",
       "deadline": "2026-12-31",
       "start_date": null,
       "status": "aktywny",
@@ -5553,10 +5613,13 @@
       "min_years_of_activity": null,
       "min_revenue": null,
       "requires_opp": false,
-      "max_project_duration": null,
-      "own_contribution_required": null,
-      "min_own_contribution": null,
-      "extraction_notes": null,
+      "max_project_duration": "do 12 miesięcy",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 10
+      },
+      "extraction_notes": "weryfikacja ręczna 2026-11-21: nabór ciągły z cykliczną oceną; bieżący cykl do 31.12.2026, projekty od 1.03.2027; wkład 10% liczony od kwoty dotacji (źródło: https://fundacja.pzu.pl/dotacje – Regulamin udzielania dotacji (https://fundacja.pzu.pl/_fileserver/item/1514883) §4 ust. 3)",
       "voivodeship": [
         "ogolnopolski"
       ],
@@ -7231,6 +7294,250 @@
       "amount": "pula naboru wg agregatora: 38 753 218 zł (waluta/kwota do weryfikacji w regulaminie)"
     },
     {
+      "id": "darowizny-fundacji-energa-dla-osob-prawnych-b4ccd095",
+      "title": "Darowizny Fundacji Energa dla osób prawnych",
+      "funder": "Fundacja Energa",
+      "source": "Fundacja Energa",
+      "description": "Fundacja Energa udziela darowizn pieniężnych lub rzeczowych na przedsięwzięcia zgodne z celami statutowymi (m.in. zdrowie, edukacja, ekologia, pomoc osobom w trudnej sytuacji) na podstawie wniosku złożonego wg Regulaminu przyznawania pomocy (wzór wniosku dla osoby prawnej na stronie).",
+      "voivodeships": [
+        "ogolnopolski"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "inne osoby prawne i jednostki organizacyjne"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": null,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": null,
+      "start_date": null,
+      "status": "do_weryfikacji",
+      "category": [
+        "pomoc_spoleczna",
+        "edukacja",
+        "srodowisko"
+      ],
+      "url": "https://grupa.energa.pl/otoczenie/fundacja",
+      "source_url": "https://cdn-netpr.pl/file/mediakit/2940456/cb/regulamin_przyznawania_pomocy_z_budzetu_fundacji_energa.pdf",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "ochrona i promocja zdrowia",
+        "nauka, edukacja, oświata i wychowanie",
+        "ekologia i ochrona zwierząt",
+        "pomoc społeczna"
+      ],
+      "target_groups": [],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": null,
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "nabór ciągły – brak terminu końcowego (deadline = null); darowizny na wniosek wg Regulaminu z 15.12.2025; Fundacja nie publikuje terminów ani zapisu o naborze ciągłym – status do_weryfikacji; weryfikacja ręczna 2026-11-21 na stronie oficjalnej grantodawcy",
+      "voivodeship": [
+        "ogolnopolski"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null
+    },
+    {
+      "id": "darowizny-fundacji-kghm-polska-miedz-dla-instytucj-33b73c8f",
+      "title": "Darowizny Fundacji KGHM Polska Miedź dla instytucji (nabór ciągły)",
+      "funder": "Fundacja KGHM Polska Miedź",
+      "source": "Fundacja KGHM Polska Miedź",
+      "description": "Darowizny na projekty zgodne z celami statutowymi w czterech obszarach: Zdrowie i bezpieczeństwo, Nauka i edukacja, Sport i rekreacja, Kultura i tradycje. Wnioski z załącznikami składa się wyłącznie pocztą tradycyjną; nabór trwa cały rok.",
+      "voivodeships": [
+        "ogolnopolski"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "inne instytucje posiadające osobowość prawną"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": null,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": null,
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "edukacja",
+        "sport",
+        "kultura",
+        "inne"
+      ],
+      "url": "http://fundacjakghm.pl/dla-instytucji/",
+      "source_url": "http://fundacjakghm.pl/dla-instytucji/",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "ochrona i promocja zdrowia",
+        "nauka, edukacja, oświata i wychowanie",
+        "kultura fizyczna i sport",
+        "kultura, sztuka, dziedzictwo narodowe"
+      ],
+      "target_groups": [
+        "ogół mieszkańców"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": null,
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "nabór ciągły – brak terminu końcowego (deadline = null); „Nabór wniosków odbywa się w trybie ciągłym (trwa cały rok)” – strona Fundacji; wysokość darowizny ustala Zarząd Fundacji; wnioski wyłącznie pocztą (ul. M. Skłodowskiej-Curie 48, 59-301 Lubin); weryfikacja ręczna 2026-11-21 na stronie oficjalnej grantodawcy",
+      "voivodeship": [
+        "ogolnopolski"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null
+    },
+    {
+      "id": "darowizny-fundacji-pge-na-projekty-spoleczne-wnios-b02a6b8c",
+      "title": "Darowizny Fundacji PGE na projekty społeczne (wnioski przez cały rok)",
+      "funder": "Fundacja PGE",
+      "source": "Fundacja PGE",
+      "description": "Darowizny w obszarach: edukacja, sport dzieci, młodzieży i osób niepełnosprawnych, ekologia i ochrona środowiska, pomoc charytatywna i społeczna, ochrona zdrowia, kultura i dziedzictwo narodowe. Wnioski rozpatrywane w kolejności wpływu (ok. 4 tygodnie); dokumenty pocztą do Biura Fundacji.",
+      "voivodeships": [
+        "ogolnopolski"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "szkoły i uczelnie",
+        "domy dziecka i placówki opiekuńcze",
+        "zakłady opieki zdrowotnej",
+        "inne podmioty działające na rzecz dobra publicznego"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "powyżej 20 000 zł wymagana opinia Rady Fundacji i umowa darowizny",
+      "total_budget": null,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": null,
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "edukacja",
+        "sport",
+        "srodowisko",
+        "pomoc_spoleczna",
+        "kultura"
+      ],
+      "url": "https://fundacjapge.pl/jak-pomagamy",
+      "source_url": "https://fundacjapge.pl/jak-pomagamy",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "nauka, edukacja, oświata i wychowanie",
+        "kultura fizyczna i sport",
+        "ekologia i ochrona zwierząt",
+        "pomoc społeczna",
+        "ochrona i promocja zdrowia",
+        "kultura, sztuka, dziedzictwo narodowe"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "osoby z niepełnosprawnościami",
+        "seniorzy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": null,
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "nabór ciągły – brak terminu końcowego (deadline = null); strona Fundacji: wnioski oceniane zgodnie z kolejnością nadesłania; brak ogłaszanych terminów naboru; lista podmiotów uprawnionych wg Zasad przyznawania darowizn; weryfikacja ręczna 2026-11-21 na stronie oficjalnej grantodawcy",
+      "voivodeship": [
+        "ogolnopolski"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "powyżej 20 000 zł wymagana opinia Rady Fundacji i umowa darowizny"
+    },
+    {
+      "id": "darowizny-fundacji-tauron-dla-organizacji-i-instyt-22fdee99",
+      "title": "Darowizny Fundacji TAURON dla organizacji i instytucji (nabór ciągły)",
+      "funder": "Fundacja TAURON",
+      "source": "Fundacja TAURON",
+      "description": "Darowizny na działalność statutową organizacji lub na realizację konkretnego projektu zgodnego z celami statutowymi Fundacji. Wnioski przez cały rok, pocztą lub e-mailem (biuro@fundacjatauron.pl).",
+      "voivodeships": [
+        "ogolnopolski"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "instytucje publiczne i instytucje kultury",
+        "szkoły i uczelnie",
+        "ośrodki badawcze",
+        "spółdzielnie socjalne",
+        "kościelne osoby prawne",
+        "stowarzyszenia JST"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": null,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": null,
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "inne"
+      ],
+      "url": "https://fundacja.tauron.pl/jak-uzyskac-pomoc",
+      "source_url": "https://fundacja.tauron.pl/jak-uzyskac-pomoc",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [],
+      "target_groups": [],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": null,
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "nabór ciągły – brak terminu końcowego (deadline = null); „Składanie wniosków odbywa się przez cały rok, wyłącznie drogą pocztową lub mailową” – strona Fundacji; zakres tematyczny wg statutu Fundacji (nie wymieniony na stronie); weryfikacja ręczna 2026-11-21 na stronie oficjalnej grantodawcy",
+      "voivodeship": [
+        "ogolnopolski"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null
+    },
+    {
       "id": "otwarty-konkurs-ofert-gdansk-miasto-literatury-202-c7158d26",
       "title": "Otwarty konkurs ofert Gdańsk Miasto Literatury 2027",
       "funder": "Miasto Gdańsk",
@@ -7343,6 +7650,57 @@
       "own_contribution_required": null,
       "min_own_contribution": null,
       "extraction_notes": null,
+      "voivodeship": [
+        "ogolnopolski"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null
+    },
+    {
+      "id": "wsparcie-projektow-przez-fundacje-pfr-formularz-zg-d3beac92",
+      "title": "Wsparcie projektów przez Fundację PFR (formularz zgłoszeniowy, ocena cykliczna)",
+      "funder": "Fundacja PFR",
+      "source": "Fundacja PFR",
+      "description": "Fundacja PFR wspiera wybrane projekty organizacji i instytucji wpisujące się w jej działalność statutową. Zgłoszenie przez formularz online; wnioski rozpatrywane cyklicznie – zalecane złożenie min. 60 dni przed startem projektu.",
+      "voivodeships": [
+        "ogolnopolski"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "inne zarejestrowane organizacje i instytucje"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": null,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": null,
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "inne"
+      ],
+      "url": "https://fundacjapfr.pl/zloz-wniosek",
+      "source_url": "https://fundacjapfr.pl/zloz-wniosek",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [],
+      "target_groups": [],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": null,
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "nabór ciągły – brak terminu końcowego (deadline = null); ocena cykliczna; weryfikacji podlegają wyłącznie wnioski zarejestrowanych organizacji; zakres wg Statutu Fundacji PFR; weryfikacja ręczna 2026-11-21 na stronie oficjalnej grantodawcy",
       "voivodeship": [
         "ogolnopolski"
       ],
