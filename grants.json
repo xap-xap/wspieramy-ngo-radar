@@ -1,8 +1,8 @@
 {
-  "schema_version": "2.0.0",
-  "last_updated": "2026-11-21T17:02:17+01:00",
-  "generated_at": "2026-11-21T17:02:17+01:00",
-  "count": 174,
+  "schema_version": "2.1.0",
+  "last_updated": "2026-11-21T19:45:13+01:00",
+  "generated_at": "2026-11-21T19:45:13+01:00",
+  "count": 181,
   "voivodeships": [
     {
       "code": "dolnoslaskie",
@@ -359,6 +359,24 @@
       "name": "Do weryfikacji"
     }
   ],
+  "scopes": [
+    {
+      "code": "ogolnopolski",
+      "name": "ogólnopolski"
+    },
+    {
+      "code": "wojewodzki",
+      "name": "wojewódzki"
+    },
+    {
+      "code": "powiatowy",
+      "name": "powiatowy"
+    },
+    {
+      "code": "gminny",
+      "name": "gminny (gmina / miasto, także na prawach powiatu)"
+    }
+  ],
   "grants": [
     {
       "id": "g_6bf2f5179ac955ff",
@@ -413,7 +431,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Kielce"
+        }
+      ]
     },
     {
       "id": "g_6df8ca91b132aef9",
@@ -471,7 +496,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "pula naboru: 36 137 500 zł (potwierdzone na stronie oficjalnej)"
+      "amount": "pula naboru: 36 137 500 zł (potwierdzone na stronie oficjalnej)",
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_c94693a464f9b36b",
@@ -526,7 +553,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "pula naboru: 8 000 000 zł (potwierdzone na stronie oficjalnej)"
+      "amount": "pula naboru: 8 000 000 zł (potwierdzone na stronie oficjalnej)",
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_d15efadb91d2aef0",
@@ -577,7 +606,34 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "od 50 000 zł do 500 000 zł"
+      "amount": "od 50 000 zł do 500 000 zł",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Igołomia-Wawrzeńczyce"
+        },
+        {
+          "type": "gmina",
+          "name": "Kocmyrzów-Luborzyca"
+        },
+        {
+          "type": "gmina",
+          "name": "Michałowice"
+        },
+        {
+          "type": "gmina",
+          "name": "Słomniki"
+        },
+        {
+          "type": "gmina",
+          "name": "Wielka Wieś"
+        },
+        {
+          "type": "gmina",
+          "name": "Zielonki"
+        }
+      ]
     },
     {
       "id": "g_2cdfb401fd6a9e5d",
@@ -632,7 +688,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "do 10 000 zł"
+      "amount": "do 10 000 zł",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Szczecin"
+        }
+      ]
     },
     {
       "id": "g_04b66645682a24ad",
@@ -688,7 +751,79 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Opole"
+        }
+      ]
+    },
+    {
+      "id": "g_8ffef86413748a03",
+      "title": "Punkty nieodpłatnej pomocy prawnej i poradnictwa obywatelskiego w Krakowie w 2027 r.",
+      "funder": "Gmina Miejska Kraków",
+      "source": "Urząd Miasta Krakowa",
+      "description": "Kraków powierzy organizacjom prowadzenie punktów bezpłatnych porad prawnych lub obywatelskich wraz z mediacją i edukacją prawną w 2027 r. Łącznie 1 281 312,24 zł. Startować mogą organizacje wpisane na listę Wojewody Małopolskiego, z co najmniej dwuletnim doświadczeniem w takim poradnictwie. Oferty do 23.11.2026, godz. 15:30.",
+      "voivodeships": [
+        "malopolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 1281312.24,
+      "currency": "PLN",
+      "own_contribution": "nie wymagany (forma powierzenia)",
+      "deadline": "2026-11-23",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.bip.krakow.pl/?news_id=264658",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "nieodpłatna pomoc prawna",
+        "nieodpłatne poradnictwo obywatelskie"
+      ],
+      "target_groups": [
+        "ogół mieszkańców"
+      ],
+      "min_experience_years": 2,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "01.01.2027–31.12.2027",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "źródło: ogłoszenie w BIP Miasta Krakowa (news_id=264658), 2026-11-21; wymóg wpisu na listę wojewody (art. 11d ustawy o NPP); termin krótki – 23.11.2026",
+      "voivodeship": [
+        "malopolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Kraków"
+        }
+      ]
     },
     {
       "id": "g_40a47de5458a198e",
@@ -741,7 +876,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "pula naboru: 12 121 267,13 zł (potwierdzone na stronie oficjalnej)"
+      "amount": "pula naboru: 12 121 267,13 zł (potwierdzone na stronie oficjalnej)",
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_549af9b930732954",
@@ -791,7 +928,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Zielona Góra"
+        }
+      ]
     },
     {
       "id": "g_42c82d511cefb106",
@@ -842,7 +986,77 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Opole"
+        }
+      ]
+    },
+    {
+      "id": "g_31e38f37cb193a82",
+      "title": "Punkty nieodpłatnej pomocy prawnej i poradnictwa obywatelskiego w Piotrkowie Trybunalskim w 2027 r.",
+      "funder": "Miasto Piotrków Trybunalski",
+      "source": "Urząd Miasta Piotrkowa Trybunalskiego",
+      "description": "Miasto powierzy prowadzenie dwóch punktów: jednego z bezpłatną pomocą prawną i jednego z poradnictwem obywatelskim, każdy z mediacją i edukacją prawną. Na każdy punkt 74 341,02 zł (razem 148 682,04 zł). Oferty papierowo do 24.11.2026, godz. 15:30.",
+      "voivodeships": [
+        "lodzkie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [],
+      "amount_min": null,
+      "amount_max": 74341.02,
+      "amount_text": null,
+      "total_budget": 148682.04,
+      "currency": "PLN",
+      "own_contribution": "nie wymagany (forma powierzenia)",
+      "deadline": "2026-11-24",
+      "start_date": "2026-11-03",
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.piotrkow.pl/content/files/zalacznik-1-1793791837.docx",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "nieodpłatna pomoc prawna",
+        "nieodpłatne poradnictwo obywatelskie"
+      ],
+      "target_groups": [
+        "ogół mieszkańców"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "01.01.2027–31.12.2027",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "źródło: załącznik nr 1 do zarządzenia nr 315 Prezydenta Miasta Piotrkowa Trybunalskiego z 3.11.2026 (DOCX na stronie miasta), 2026-11-21; wymagany wpis na listę wojewody",
+      "voivodeship": [
+        "lodzkie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "do 74 341 zł",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Piotrków Trybunalski"
+        }
+      ]
     },
     {
       "id": "g_ee030907b34e855e",
@@ -901,7 +1115,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "Ścieżka I: do 100 000 zł (maks. 10 grantów); Ścieżka II: 60 000–75 000 zł (po 1 grancie na miejscowość)"
+      "amount": "Ścieżka I: do 100 000 zł (maks. 10 grantów); Ścieżka II: 60 000–75 000 zł (po 1 grancie na miejscowość)",
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_6bc280257dc032c1",
@@ -959,7 +1175,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_ef5fbc09317eec78",
@@ -1018,7 +1236,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_853e8cb1cffba830",
@@ -1070,7 +1290,77 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Poznań"
+        }
+      ]
+    },
+    {
+      "id": "g_a772a03deb7f2914",
+      "title": "Rozwój sportu w Gminie Chrzanów w 2027 r. – dotacje dla klubów sportowych",
+      "funder": "Gmina Chrzanów",
+      "source": "Urząd Miejski w Chrzanowie",
+      "description": "Dotacje dla klubów sportowych z gminy Chrzanów na szkolenie zawodników, udział we współzawodnictwie oraz organizację rozgrywek i zawodów w 2027 r. Łączna pula 608 000 zł; dotacja pokrywa maksymalnie 95% kosztów zadania. Oferty elektronicznie do 26.11.2026, potwierdzenie papierowe do 27.11.2026 (godz. 13:00).",
+      "voivodeships": [
+        "malopolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie"
+      ],
+      "other_recipients": [
+        "kluby sportowe działające w innej formie prawnej"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 608000,
+      "currency": "PLN",
+      "own_contribution": "min. 5% kosztów zadania (dotacja do 95%)",
+      "deadline": "2026-11-26",
+      "start_date": "2026-11-16",
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://www.chrzanow.pl/aktualnosci/burmistrz-miasta-chrzanowa-oglasza-otwarty-konkurs-ofert-na-zlecenie-realizacji-zadan-publicznych-z-zakresu-rozwoju-spor,4675",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "kultura fizyczna i sport"
+      ],
+      "target_groups": [
+        "sportowcy",
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "w 2027 r.",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 5
+      },
+      "extraction_notes": "źródło: ogłoszenie stanowiące załącznik do zarządzenia nr ORG.0050.425.2026 Burmistrza Miasta Chrzanowa z 16.11.2026 (PDF na stronie urzędu), 2026-11-21; tryb uchwały o finansowaniu sportu; min_own_contribution wyliczony jako 100% - maks. poziom dofinansowania (95%)",
+      "voivodeship": [
+        "malopolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Chrzanów"
+        }
+      ]
     },
     {
       "id": "g_1c27b6a3aa6ee193",
@@ -1130,7 +1420,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "od 1 000 000 zł do 1 000 000 zł"
+      "amount": "od 1 000 000 zł do 1 000 000 zł",
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_583595e7f6c52151",
@@ -1183,7 +1475,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Zielona Góra"
+        }
+      ]
     },
     {
       "id": "g_a795525c7f6b6621",
@@ -1238,7 +1537,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Gdynia"
+        }
+      ]
     },
     {
       "id": "g_667eff575b5c4a5b",
@@ -1295,7 +1601,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "pula naboru: 4 770 150 zł (potwierdzone na stronie oficjalnej)"
+      "amount": "pula naboru: 4 770 150 zł (potwierdzone na stronie oficjalnej)",
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_e55b28b89554341f",
@@ -1351,7 +1659,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "pula naboru: 13 000 000 zł (potwierdzone na stronie oficjalnej)"
+      "amount": "pula naboru: 13 000 000 zł (potwierdzone na stronie oficjalnej)",
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_a3d82b4ca7b3beec",
@@ -1411,7 +1721,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_ce4ea1d3f662d662",
@@ -1470,7 +1782,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "pula naboru: 13 156 941 zł (potwierdzone na stronie oficjalnej)"
+      "amount": "pula naboru: 13 156 941 zł (potwierdzone na stronie oficjalnej)",
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_3eea37f7f756648d",
@@ -1532,7 +1846,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_a693d662ccd8d4e5",
@@ -1589,7 +1905,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_da4b23266d357218",
@@ -1644,7 +1962,26 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Borek Wielkopolski"
+        },
+        {
+          "type": "gmina",
+          "name": "Koźmin Wielkopolski"
+        },
+        {
+          "type": "gmina",
+          "name": "Pogorzela"
+        },
+        {
+          "type": "gmina",
+          "name": "Rozdrażew"
+        }
+      ]
     },
     {
       "id": "g_e8771273adbf435d",
@@ -1699,7 +2036,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "kępiński"
+        }
+      ]
     },
     {
       "id": "g_e3d21cf1ca9a4954",
@@ -1753,7 +2097,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Poznań"
+        }
+      ]
     },
     {
       "id": "g_aa7d683a799ba541",
@@ -1809,7 +2160,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "pula naboru: 15 502 280,36 zł (potwierdzone na stronie oficjalnej)"
+      "amount": "pula naboru: 15 502 280,36 zł (potwierdzone na stronie oficjalnej)",
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_fbbd0763e41da779",
@@ -1857,7 +2210,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "od 50 000 zł do 200 000 zł"
+      "amount": "od 50 000 zł do 200 000 zł",
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_d518ed913ebe9f4f",
@@ -1910,7 +2265,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_e37c857f87c2a431",
@@ -1965,7 +2322,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "pula naboru: 2 139 946 zł (potwierdzone na stronie oficjalnej)"
+      "amount": "pula naboru: 2 139 946 zł (potwierdzone na stronie oficjalnej)",
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_adc19b8fc3c73630",
@@ -2021,7 +2380,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_f355d1fb56e55af6",
@@ -2084,7 +2445,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_4822361a83f41f57",
@@ -2144,7 +2512,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_1d60f6854c688663",
@@ -2203,7 +2578,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_0241d6868d4e0276",
@@ -2262,7 +2644,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_93ce64a491957f4c",
@@ -2321,7 +2710,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "planowana pula dotacji: 8 932 800 zł w 2027 r., 10 304 896 zł w 2028 r."
+      "amount": "planowana pula dotacji: 8 932 800 zł w 2027 r., 10 304 896 zł w 2028 r.",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_4e0aeff6ecd35f0a",
@@ -2380,7 +2776,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_c1951cfd202b256d",
@@ -2442,7 +2845,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_f82a7e60a82fe4ba",
@@ -2501,7 +2911,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_195ab0a77c934a14",
@@ -2561,7 +2978,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_5db80f794a3c037a",
@@ -2624,7 +3048,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_f9ed76f0336611d2",
@@ -2685,7 +3116,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_0e7939ae21f0cece",
@@ -2746,7 +3184,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_c9eeafbcf30e3946",
@@ -2805,7 +3250,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_8913fda5fbfd017e",
@@ -2864,7 +3316,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "planowana pula dotacji: 3 000 000 zł w 2027 r., 3 000 000 zł w 2028 r."
+      "amount": "planowana pula dotacji: 3 000 000 zł w 2027 r., 3 000 000 zł w 2028 r.",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_36e111e16863f243",
@@ -2923,7 +3382,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_5956e8630098611c",
@@ -2980,7 +3446,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_0bbf9152d9c4552a",
@@ -3039,7 +3512,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_81144a6041e5a289",
@@ -3098,7 +3578,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_bc8116591573b6f2",
@@ -3157,7 +3644,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_5972caff5ce14a52",
@@ -3220,7 +3714,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "planowana pula dotacji: 1 150 000 zł w 2027 r., 1 900 000 zł w 2028 r."
+      "amount": "planowana pula dotacji: 1 150 000 zł w 2027 r., 1 900 000 zł w 2028 r.",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_5711c81675f73ac3",
@@ -3280,7 +3781,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_b776ca57190a12ad",
@@ -3341,7 +3849,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_f436c662287521bb",
@@ -3401,7 +3916,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Ełk"
+        }
+      ]
     },
     {
       "id": "g_bcdb8ec8ea509604",
@@ -3460,7 +3982,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_a57c8d273c4189f3",
@@ -3513,7 +4042,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Toruń"
+        }
+      ]
     },
     {
       "id": "g_4180c27cfb6a837c",
@@ -3570,7 +4106,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_e5d121481ca534ae",
@@ -3626,7 +4169,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Katowice"
+        }
+      ]
     },
     {
       "id": "g_ee1d9aaaa85abebb",
@@ -3688,7 +4238,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_96513ba5a2fe7d26",
@@ -3747,7 +4304,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_30488c98c111fbbe",
@@ -3809,7 +4373,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_23ed82be9cd679ef",
@@ -3871,7 +4442,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_0feeeee22cce2f4b",
@@ -3930,7 +4508,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_f0e98e9ab616b4f7",
@@ -3989,7 +4574,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_ceee753f86f692dd",
@@ -4050,7 +4642,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "łącznie do 665 000 zł w 2027 r. (365 000 zł – lokal Jagiellończyka 10a, 300 000 zł – lokal Roosevelta 5A)"
+      "amount": "łącznie do 665 000 zł w 2027 r. (365 000 zł – lokal Jagiellończyka 10a, 300 000 zł – lokal Roosevelta 5A)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_4b070b3229f9e6f5",
@@ -4112,7 +4711,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_a8e77b98b07cb592",
@@ -4169,7 +4775,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "planowana pula dotacji: 2 040 000 zł w 2027 r., 510 000 zł w 2028 r."
+      "amount": "planowana pula dotacji: 2 040 000 zł w 2027 r., 510 000 zł w 2028 r.",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_1ae8250b1fbc124a",
@@ -4228,7 +4841,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_6c375b5ba90a4df3",
@@ -4285,7 +4905,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_afb413901e38301e",
@@ -4345,7 +4972,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_b61fe966fb4aa2b2",
@@ -4404,7 +5038,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_0463b653a3bfa63b",
@@ -4463,7 +5104,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "planowana pula dotacji: 2 000 000 zł w 2027 r., 1 050 000 zł w 2028 r."
+      "amount": "planowana pula dotacji: 2 000 000 zł w 2027 r., 1 050 000 zł w 2028 r.",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_b70a6342f6f8156e",
@@ -4523,7 +5171,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_ff3a6eff7f4332ec",
@@ -4583,7 +5238,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_199337de6625adbd",
@@ -4645,7 +5307,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_81a3b1a985afcf54",
@@ -4704,7 +5373,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_c7b3da28f7e8aae0",
@@ -4763,7 +5439,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_7d6a1751175674ad",
@@ -4820,7 +5503,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_62fdc83a70c6bbcb",
@@ -4883,7 +5573,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_34eb143975913474",
@@ -4948,7 +5645,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_ade8a7f0390b4cab",
@@ -5005,7 +5709,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_0ed4d7c23f618ad5",
@@ -5065,7 +5776,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "planowana pula dotacji: 600 000 zł w 2027 r., 650 000 zł w 2028 r."
+      "amount": "planowana pula dotacji: 600 000 zł w 2027 r., 650 000 zł w 2028 r.",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_de8560e9323826a0",
@@ -5126,7 +5844,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_1f36f89d3361f37a",
@@ -5182,7 +5907,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Katowice"
+        }
+      ]
     },
     {
       "id": "g_e0a3713c18e53281",
@@ -5244,7 +5976,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_ac3a093e6af4f991",
@@ -5301,7 +6040,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "planowana pula dotacji: 7 000 000 zł w 2027 r., 7 000 000 zł w 2028 r."
+      "amount": "planowana pula dotacji: 7 000 000 zł w 2027 r., 7 000 000 zł w 2028 r.",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_3a3e47db840484f5",
@@ -5361,7 +6107,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "planowana pula dotacji: 250 000 zł w 2027 r., 340 000 zł w 2028 r."
+      "amount": "planowana pula dotacji: 250 000 zł w 2027 r., 340 000 zł w 2028 r.",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_8b78db66964784d5",
@@ -5421,7 +6174,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_603f759bbfa07c62",
@@ -5478,7 +6238,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_28ea341e8abcede5",
@@ -5535,7 +6302,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_d29552a9417543a4",
@@ -5598,7 +6372,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_83985b31d36cb73a",
@@ -5657,7 +6438,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_2d92c599861a2d77",
@@ -5719,7 +6507,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Siechnice"
+        }
+      ]
     },
     {
       "id": "g_12ad6f6c227e913b",
@@ -5780,7 +6575,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Siechnice"
+        }
+      ]
     },
     {
       "id": "g_468b62e72fec8129",
@@ -5837,7 +6639,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_c46fc8e80f7a37d9",
@@ -5891,7 +6700,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Katowice"
+        }
+      ]
     },
     {
       "id": "g_6e6a0a6e03ed89c0",
@@ -5950,7 +6766,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_908c148acda154bd",
@@ -6010,7 +6833,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_6fd740a80ba1452c",
@@ -6070,7 +6900,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_3e09e3452401689c",
@@ -6129,7 +6966,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_94391e10b2ab20b7",
@@ -6188,7 +7032,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_66261f91f7287ad0",
@@ -6250,7 +7101,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Siechnice"
+        }
+      ]
     },
     {
       "id": "g_b16b75fede8b9f2f",
@@ -6310,7 +7168,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_418c769d4449b5f1",
@@ -6367,7 +7232,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_f1159abaaac33056",
@@ -6426,7 +7298,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_b5b09b647030a237",
@@ -6486,7 +7365,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_38c740994ada9553",
@@ -6547,7 +7433,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_fbe5f92dba6d9a21",
@@ -6607,7 +7500,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Siechnice"
+        }
+      ]
     },
     {
       "id": "g_f388ba0fa6a8743c",
@@ -6669,7 +7569,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Siechnice"
+        }
+      ]
     },
     {
       "id": "g_560496aa4cc72dfb",
@@ -6726,7 +7633,87 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
+    },
+    {
+      "id": "g_edf9427eade34eca",
+      "title": "Otwarty konkurs ofert Miasta Gorlice na zadania publiczne w 2027 r.",
+      "funder": "Miasto Gorlice",
+      "source": "Urząd Miejski w Gorlicach",
+      "description": "Coroczny konkurs Gorlic obejmujący osiem obszarów: sport (665 000 zł), profilaktykę uzależnień (352 000 zł), kulturę (134 000 zł), pomoc społeczną (105 000 zł), zdrowie (33 000 zł), politykę społeczną (18 000 zł), turystykę (15 000 zł) i oświatę (12 000 zł) – razem 1 334 000 zł na 2027 r. Wymagany wkład własny min. 10%. Oferty do 09.12.2026.",
+      "voivodeships": [
+        "malopolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 1334000,
+      "currency": "PLN",
+      "own_contribution": "min. 10% wartości zadania",
+      "deadline": "2026-12-09",
+      "start_date": "2026-11-18",
+      "status": "aktywny",
+      "category": [
+        "sport",
+        "kultura",
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.gorlice.pl/pl/2320/28017/otwarty-konkurs-ofert-na-realizacje-zadan-publicznych-w-227-r-.html",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "kultura fizyczna i sport",
+        "przeciwdziałanie uzależnieniom i patologiom",
+        "kultura, sztuka, dziedzictwo narodowe",
+        "pomoc społeczna",
+        "ochrona i promocja zdrowia",
+        "turystyka i krajoznawstwo",
+        "nauka, edukacja, oświata i wychowanie"
+      ],
+      "target_groups": [
+        "ogół mieszkańców",
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "w 2027 r.",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 10
+      },
+      "extraction_notes": "źródło: zarządzenie nr 247/2026 Burmistrza Miasta Gorlice z 18.11.2026 (strona urzędu, załącznik PDF), 2026-11-21; liczy się data wpływu lub stempel pocztowy",
+      "voivodeship": [
+        "malopolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Gorlice"
+        }
+      ]
     },
     {
       "id": "g_a99ffd5afb8e4e9a",
@@ -6786,7 +7773,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Kielce"
+        }
+      ]
     },
     {
       "id": "g_f4068995fc8769a9",
@@ -6834,7 +7828,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Gdańsk"
+        }
+      ]
     },
     {
       "id": "g_d339238ca990c435",
@@ -6893,7 +7894,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_6c8be27324e46b02",
@@ -6952,7 +7960,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_d9c46085b557c20c",
@@ -7007,7 +8022,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "10 556 000 EUR (ok. 46,08 mln zł)"
+      "amount": "10 556 000 EUR (ok. 46,08 mln zł)",
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_14c3eb8b0e5ff0e0",
@@ -7060,7 +8077,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Szczecin"
+        }
+      ]
     },
     {
       "id": "g_bc6cfa01398fc011",
@@ -7110,7 +8134,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "poznański"
+        }
+      ]
     },
     {
       "id": "g_a5d0058a8a417be2",
@@ -7165,7 +8196,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "poznański"
+        }
+      ]
     },
     {
       "id": "g_ac91f98b4cd205fc",
@@ -7218,7 +8256,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "ostrowski"
+        }
+      ]
     },
     {
       "id": "g_b79481b3ad1101ba",
@@ -7271,7 +8316,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Gdynia"
+        }
+      ]
     },
     {
       "id": "g_09df13f35f70a536",
@@ -7326,7 +8378,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "do 1 500 000 zł"
+      "amount": "do 1 500 000 zł",
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_7714034477aab177",
@@ -7379,7 +8433,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_08e44987741eb79d",
@@ -7440,7 +8496,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_56256824dc3e90eb",
@@ -7497,55 +8560,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
-    },
-    {
-      "id": "g_473cc8bab98dfe34",
-      "title": "Otwarty konkurs ofert na wsparcie ze środków z budżetu państwa w latach 2027-2031 realizacji zadania publicznego pn. \"Prowadzenie niepublicznego ośrodka adopcyjnego na terenie powiatu żagańskiego i…",
-      "funder": "Województwo Lubuskie",
-      "source": "Województwo Lubuskie",
-      "description": "Województwo Lubuskie ogłasza otwarty konkurs ofert: Otwarty konkurs ofert na wsparcie ze środków z budżetu państwa w latach 2027-2031 realizacji zadania publicznego pn. \"Prowadzenie niepublicznego ośrodka adopcyjnego na terenie powiatu żagańskiego i…. Wnioski/oferty można składać do 11.12.2026 r. Dostępne środki: pula środków 250 000 zł. Wśród uprawnionych wnioskodawców są organizacje pozarządowe (stowarzyszenia, fundacje).",
-      "voivodeships": [
-        "lubuskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": 250000,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-12-11",
-      "start_date": "2026-11-20",
-      "status": "aktywny",
-      "category": [
-        "inne"
-      ],
-      "source_url": "https://lubuskie.engo.org.pl/konkursy/251",
-      "collected_at": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "thematic_areas": [],
-      "target_groups": [],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": null,
-      "own_contribution_required": null,
-      "min_own_contribution": null,
-      "extraction_notes": "termin 2026-12-11 potwierdzony automatycznie w treści oryginalnego ogłoszenia (2026-11-21)",
-      "voivodeship": [
-        "lubuskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_9faa7a65f560721a",
@@ -7598,7 +8620,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Starogard Gdański"
+        }
+      ]
     },
     {
       "id": "g_29ed79998577797b",
@@ -7646,7 +8675,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Gdańsk"
+        }
+      ]
     },
     {
       "id": "g_9d6b8a08bb478c1f",
@@ -7708,7 +8744,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "łącznie 534 200 zł: 275 000 zł w 2027 r. i 259 200 zł w 2028 r."
+      "amount": "łącznie 534 200 zł: 275 000 zł w 2027 r. i 259 200 zł w 2028 r.",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Kielce"
+        }
+      ]
     },
     {
       "id": "g_d4b40eef667215be",
@@ -7770,7 +8813,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_565b815204cb03a8",
@@ -7831,7 +8876,210 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
+    },
+    {
+      "id": "g_8cf8f06a44ad59c7",
+      "title": "Centrum Wsparcia dla rodziców dzieci w wieku szkolnym i starszych ze sprzężonymi niepełnosprawnościami (Kraków, 2027–2028)",
+      "funder": "Gmina Miejska Kraków",
+      "source": "Urząd Miasta Krakowa",
+      "description": "Miasto szuka organizacji, która poprowadzi centrum wsparcia dla rodziców wychowujących dzieci w wieku szkolnym i starsze ze sprzężonymi niepełnosprawnościami – poradnictwo, grupy wsparcia i pomoc specjalistów. Pula 500 000 zł (po 250 000 zł na rok), realizacja 2027–2028. Oferty do 14.12.2026, godz. 12:00.",
+      "voivodeships": [
+        "malopolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 500000,
+      "currency": "PLN",
+      "own_contribution": "nie wymagany (forma powierzenia)",
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.bip.krakow.pl/?news_id=267025",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "osoby niepełnosprawne",
+        "rodzina i prawa dziecka"
+      ],
+      "target_groups": [
+        "rodziny",
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "01.01.2027–31.12.2028",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "źródło: ogłoszenie otwartego konkursu ofert w BIP Miasta Krakowa (news_id=267025), 2026-11-21; forma: powierzenie",
+      "voivodeship": [
+        "malopolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Kraków"
+        }
+      ]
+    },
+    {
+      "id": "g_bcda23ad5884861a",
+      "title": "Klub Rodzica dla rodzin z dziećmi do 3 lat o specjalnych potrzebach rozwojowych (Kraków, 2027–2028)",
+      "funder": "Gmina Miejska Kraków",
+      "source": "Urząd Miasta Krakowa",
+      "description": "Kraków powierzy organizacji prowadzenie klubu dla rodziców małych dzieci (do 3 lat) ze specjalnymi potrzebami rozwojowymi: spotkania, wsparcie specjalistów i wymiana doświadczeń między rodzinami. Pula 600 000 zł na dwa lata (po 300 000 zł rocznie), realizacja 2027–2028. Oferty do 14.12.2026, godz. 12:00.",
+      "voivodeships": [
+        "malopolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 600000,
+      "currency": "PLN",
+      "own_contribution": "nie wymagany (forma powierzenia)",
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.bip.krakow.pl/?news_id=266923",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "osoby niepełnosprawne",
+        "rodzina i prawa dziecka"
+      ],
+      "target_groups": [
+        "rodziny",
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "01.01.2027–31.12.2028",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "źródło: ogłoszenie otwartego konkursu ofert w BIP Miasta Krakowa (news_id=266923), 2026-11-21; forma: powierzenie",
+      "voivodeship": [
+        "malopolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Kraków"
+        }
+      ]
+    },
+    {
+      "id": "g_7daa21ac10fe05e7",
+      "title": "Powierzenie prowadzenia Centrów Aktywności Seniorów w Krakowie (pełne finansowanie miasta), 2027–2029",
+      "funder": "Gmina Miejska Kraków",
+      "source": "Urząd Miasta Krakowa",
+      "description": "Druga, finansowana w całości przez miasto ścieżka na prowadzenie lokalnych centrów aktywności seniorów. Łączna pula 4 752 000 zł (2027 i 2028 po 1 728 000 zł, 2029 – 1 296 000 zł), realizacja od 12.01.2027 do 30.09.2029. Oferty do 14.12.2026.",
+      "voivodeships": [
+        "malopolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 4752000,
+      "currency": "PLN",
+      "own_contribution": "nie wymagany (forma powierzenia)",
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.bip.krakow.pl/?news_id=266797",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "seniorzy (osoby w wieku emerytalnym)"
+      ],
+      "target_groups": [
+        "seniorzy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "12.01.2027–30.09.2029",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "źródło: ogłoszenie otwartego konkursu ofert w BIP Miasta Krakowa (news_id=266797), 2026-11-21; forma: powierzenie",
+      "voivodeship": [
+        "malopolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Kraków"
+        }
+      ]
     },
     {
       "id": "g_4f871aa54da7afa1",
@@ -7890,7 +9138,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wrocław"
+        }
+      ]
     },
     {
       "id": "g_0a206fc792088573",
@@ -7945,7 +9200,73 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "do 15 000 zł"
+      "amount": "do 15 000 zł",
+      "scope": "wojewodzki",
+      "locality": []
+    },
+    {
+      "id": "g_876a23fa309332d5",
+      "title": "Wsparcie lokalnych Centrów Aktywności Seniorów w Krakowie (dotacja z wkładem własnym), 2027–2029",
+      "funder": "Gmina Miejska Kraków",
+      "source": "Urząd Miasta Krakowa",
+      "description": "Dotacje na utworzenie i prowadzenie dzielnicowych centrów aktywności dla seniorów: zajęcia, warsztaty, spotkania integracyjne. Na cały okres przewidziano 3 564 000 zł (2027 i 2028 po 1 296 000 zł, 2029 – 972 000 zł); realizacja 12.01.2027–30.09.2029. Wymagany wkład własny finansowy co najmniej 10% wnioskowanej dotacji. Oferty do 14.12.2026.",
+      "voivodeships": [
+        "malopolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 3564000,
+      "currency": "PLN",
+      "own_contribution": "min. 10% wnioskowanej dotacji (wkład finansowy)",
+      "deadline": "2026-12-14",
+      "start_date": "2026-11-16",
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.bip.krakow.pl/?news_id=266800",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "thematic_areas": [
+        "seniorzy (osoby w wieku emerytalnym)"
+      ],
+      "target_groups": [
+        "seniorzy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "12.01.2027–30.09.2029",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 10
+      },
+      "extraction_notes": "źródło: ogłoszenie w BIP Miasta Krakowa (news_id=266800) i zarządzenie nr 2397/2026 z 16.11.2026, 2026-11-21; forma: wsparcie",
+      "voivodeship": [
+        "malopolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Kraków"
+        }
+      ]
     },
     {
       "id": "g_d04df3b638d7229d",
@@ -7997,7 +9318,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_16e06eadd06932bd",
@@ -8065,7 +9388,9 @@
         "fundacja",
         "osp"
       ],
-      "amount": "od 100 000 do 300 000 zł na cały projekt (rocznie 50–150 tys. zł)"
+      "amount": "od 100 000 do 300 000 zł na cały projekt (rocznie 50–150 tys. zł)",
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_d302a3c1d0945191",
@@ -8115,7 +9440,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Gorzów Wielkopolski"
+        }
+      ]
     },
     {
       "id": "g_41c3ac1f61154d16",
@@ -8174,7 +9506,9 @@
         "fundacja",
         "osp"
       ],
-      "amount": "od 30 000 zł do 500 000 zł"
+      "amount": "od 30 000 zł do 500 000 zł",
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_2337e9733e42f3c3",
@@ -8231,7 +9565,38 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "od 50 000 zł; limit środków w naborze 153 783 zł (regulaminowo maks. 500 000 zł na beneficjenta)"
+      "amount": "od 50 000 zł; limit środków w naborze 153 783 zł (regulaminowo maks. 500 000 zł na beneficjenta)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Czarna"
+        },
+        {
+          "type": "gmina",
+          "name": "Lutowiska"
+        },
+        {
+          "type": "gmina",
+          "name": "Olszanica"
+        },
+        {
+          "type": "gmina",
+          "name": "Sanok"
+        },
+        {
+          "type": "gmina",
+          "name": "Solina"
+        },
+        {
+          "type": "gmina",
+          "name": "Tyrawa Wołoska"
+        },
+        {
+          "type": "gmina",
+          "name": "Ustrzyki Dolne"
+        }
+      ]
     },
     {
       "id": "g_1c24a78809df4edc",
@@ -8290,7 +9655,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_32d1f051f87df8df",
@@ -8345,7 +9712,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_e67efa60a4ef1a30",
@@ -8404,7 +9773,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_fb8f1908ba170363",
@@ -8463,7 +9834,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_0a7feef2869922fd",
@@ -8516,7 +9889,9 @@
       "eligible_entities": [
         "osp"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_c0a2bbb1c2694ddd",
@@ -8578,7 +9953,9 @@
         "fundacja",
         "osp"
       ],
-      "amount": "do 10 000 zł"
+      "amount": "do 10 000 zł",
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_7294bd3c9d2e72cf",
@@ -8637,7 +10014,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "do 10 000 zł"
+      "amount": "do 10 000 zł",
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "tczewski"
+        }
+      ]
     },
     {
       "id": "g_c3a69146456116c6",
@@ -8696,7 +10080,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "do 15 000 zł"
+      "amount": "do 15 000 zł",
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "tczewski"
+        }
+      ]
     },
     {
       "id": "g_40632350c828b65e",
@@ -8755,7 +10146,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "do 10 000 zł"
+      "amount": "do 10 000 zł",
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "tczewski"
+        }
+      ]
     },
     {
       "id": "g_5ff65e90c50a8ec6",
@@ -8814,7 +10212,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "tczewski"
+        }
+      ]
     },
     {
       "id": "g_4d785b993116f6e0",
@@ -8870,7 +10275,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_5f62ac9bedc5be70",
@@ -8920,7 +10327,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Warszawa"
+        }
+      ]
     },
     {
       "id": "g_c37d53b871aeb546",
@@ -8973,7 +10387,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Warszawa"
+        }
+      ]
     },
     {
       "id": "g_6a0e88d862f0568e",
@@ -9037,7 +10458,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_82341da5c0060d8b",
@@ -9095,7 +10518,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_e79d6b5e5fc7d83b",
@@ -9159,7 +10584,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "do 200 tys. zł (działania adaptacyjne), do 100 tys. zł (pozostałe), łącznie maks. 300 tys. zł"
+      "amount": "do 200 tys. zł (działania adaptacyjne), do 100 tys. zł (pozostałe), łącznie maks. 300 tys. zł",
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_cae53fde07dfd831",
@@ -9212,7 +10639,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_5b877da729b4af00",
@@ -9271,7 +10700,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_044d6c410227d11f",
@@ -9332,7 +10763,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_41f77a826c79c2fd",
@@ -9388,7 +10821,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_31ef57112041b660",
@@ -9444,7 +10879,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_064c3783a39f8652",
@@ -9501,7 +10938,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "od 30 000 zł do 600 000 zł"
+      "amount": "od 30 000 zł do 600 000 zł",
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_a6a2f494ea2478b9",
@@ -9553,7 +10992,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_e8b2eabb96a70b92",
@@ -9611,7 +11052,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "ryczałty wg Przewodnika Erasmus+ 2027 (EUR)"
+      "amount": "ryczałty wg Przewodnika Erasmus+ 2027 (EUR)",
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_9616a53cafaf36fa",
@@ -9663,7 +11106,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_0fd3df978e0b233c",
@@ -9718,7 +11163,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_e4d9e1b6f9b8ebd8",
@@ -9779,7 +11226,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "kwoty ryczałtowe w EUR wg Przewodnika Erasmus+ 2027"
+      "amount": "kwoty ryczałtowe w EUR wg Przewodnika Erasmus+ 2027",
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_b7761ffa6b51f61f",
@@ -9831,7 +11280,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_5cd06ad3ff89041d",
@@ -9890,7 +11341,9 @@
         "fundacja",
         "osp"
       ],
-      "amount": "od 10 000 zł do 300 000 zł"
+      "amount": "od 10 000 zł do 300 000 zł",
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_cd874de48895231b",
@@ -9947,7 +11400,9 @@
         "fundacja",
         "osp"
       ],
-      "amount": "do 20 000 zł (Pomoc doraźna, Członkostwo); do 10 000 zł (Życie publiczne)"
+      "amount": "do 20 000 zł (Pomoc doraźna, Członkostwo); do 10 000 zł (Życie publiczne)",
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_0c008cc4c9219392",
@@ -10002,7 +11457,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_fdefa07b525fd937",
@@ -10059,7 +11516,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_6ea057934cf1a767",
@@ -10119,7 +11578,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_614998108d5ffda7",
@@ -10187,7 +11648,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "powyżej 20 000 zł wymagana opinia Rady Fundacji i umowa darowizny"
+      "amount": "powyżej 20 000 zł wymagana opinia Rady Fundacji i umowa darowizny",
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_cc758c086e628fbc",
@@ -10242,7 +11705,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_7addd92c6d9eebf1",
@@ -10304,7 +11769,14 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Gdańsk"
+        }
+      ]
     },
     {
       "id": "g_072e212bed1748d2",
@@ -10362,7 +11834,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_ef18da87d6bd43dd",
@@ -10412,7 +11886,9 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null
+      "amount": null,
+      "scope": "ogolnopolski",
+      "locality": []
     }
   ]
 }
