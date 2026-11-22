@@ -1,8 +1,8 @@
 {
   "schema_version": "2.1.0",
-  "last_updated": "2026-11-22T01:52:52+01:00",
-  "generated_at": "2026-11-22T01:52:52+01:00",
-  "count": 492,
+  "last_updated": "2026-11-22T03:24:46+01:00",
+  "generated_at": "2026-11-22T03:24:46+01:00",
+  "count": 565,
   "voivodeships": [
     {
       "code": "dolnoslaskie",
@@ -826,6 +826,189 @@
       ]
     },
     {
+      "id": "g_2aa77ab745caf54f",
+      "title": "Powiat ostródzki: prowadzenie Środowiskowego Domu Samopomocy w Morągu (37 miejsc) w latach 2027–2031",
+      "funder": "Zarząd Powiatu w Ostródzie",
+      "source": "Starostwo Powiatowe w Ostródzie",
+      "description": "Powierzenie prowadzenia ŚDS typu A i B w Morągu dla 37 osób przewlekle psychicznie chorych i z niepełnosprawnością intelektualną, na pięć lat (2027–2031). Na 2027 r. przewidziano 1 511 364 zł (dotacja podstawowa i zwiększenie z programu „Za Życiem”); kwoty na kolejne lata zależą od decyzji wojewody. Oferty w starostwie do 23.11.2026 r. (poniedziałek), godz. 15:00.",
+      "voivodeships": [
+        "warminsko-mazurskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 1511364,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-11-23",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.powiat.ostroda.pl/aktualnosci/4934-ogloszenie-konkursu-ofert.html",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027–2031",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Uchwała nr 98/365/2026 z 27.10.2026; kwota dotyczy 2027 r.",
+      "voivodeship": [
+        "warminsko-mazurskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "ostródzki"
+        }
+      ]
+    },
+    {
+      "id": "g_72c5b3ad7ca84081",
+      "title": "Powiat ostródzki: prowadzenie Środowiskowego Domu Samopomocy w Ostródzie (58 miejsc) w 2027 r.",
+      "funder": "Zarząd Powiatu w Ostródzie",
+      "source": "Starostwo Powiatowe w Ostródzie",
+      "description": "Prowadzenie ŚDS typu B dla 58 osób z niepełnosprawnością intelektualną. Ośrodek działa 5 dni w tygodniu po 8 godzin. W kwocie mieści się dotacja podstawowa i zwiększenie z programu „Za Życiem”. Oferty w starostwie do 23.11.2026 r. (poniedziałek), godz. 15:00; przy wysyłce pocztą liczy się data wpływu.",
+      "voivodeships": [
+        "warminsko-mazurskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 2576348,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-11-23",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.powiat.ostroda.pl/aktualnosci/4935-ogloszenie-konkursu-ofert-2.html",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "uchwała z października 2026; termin 23.11.2026 godz. 15:00",
+      "voivodeship": [
+        "warminsko-mazurskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "ostródzki"
+        }
+      ]
+    },
+    {
+      "id": "g_b8c7916b66e59bf1",
+      "title": "Prowadzenie Krajowego Centrum Interwencyjno-Konsultacyjnego dla Ofiar Handlu Ludźmi w 2027 r.",
+      "funder": "Minister Spraw Wewnętrznych i Administracji",
+      "source": "Ministerstwo Spraw Wewnętrznych i Administracji",
+      "description": "Prowadzenie przez cały 2027 r. krajowego centrum pomocy ofiarom handlu ludźmi: całodobowa interwencja i konsultacje, wsparcie psychologiczne i prawne, tłumacze, transport, schronienie dla ofiar (min. 30% kosztów zadania) oraz szkolenia dla instytucji publicznych. Wymagane min. 2 lata doświadczenia; dopuszczalne oferty wspólne i częściowe. Oferty do 23.11.2026 r. pocztą lub przez e-Doręczenia.",
+      "voivodeships": [
+        "ogolnopolski"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 2000000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-11-23",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.gov.pl/web/mswia/otwarty-konkurs-ofert-na-realizacje-w-okresie-styczen-grudzien-2027-r-zadania-publicznego-pn-prowadzenie-krajowego-centrum-interwencyjno-konsultacyjnego-dla-ofiar-handlu-ludzmi",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "porządek i bezpieczeństwo publiczne",
+        "pomoc społeczna",
+        "prawa człowieka i demokracja"
+      ],
+      "target_groups": [
+        "osoby pokrzywdzone przestępstwem",
+        "migranci i uchodźcy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01–31.12.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Koszty administracyjne do 30%; ogłoszenie z 30.10.2026 w BIP MSWiA.",
+      "voivodeship": [
+        "ogolnopolski"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "ogolnopolski",
+      "locality": []
+    },
+    {
       "id": "g_8ffef86413748a03",
       "title": "Punkty nieodpłatnej pomocy prawnej i poradnictwa obywatelskiego w Krakowie w 2027 r.",
       "funder": "Gmina Miejska Kraków",
@@ -887,6 +1070,70 @@
         {
           "type": "gmina",
           "name": "Kraków"
+        }
+      ]
+    },
+    {
+      "id": "g_9d4e81b1fbd7e5ad",
+      "title": "Włocławek: innowacja społeczna „Uważniaki” – szkolenia dla nauczycieli przedszkoli i warsztaty dla rodzin",
+      "funder": "Prezydent Miasta Włocławek",
+      "source": "Urząd Miasta Włocławek",
+      "description": "Przeprowadzenie praktycznych szkoleń (6 grup) dla 124 nauczycieli z 21 miejskich przedszkoli z metody „Uważniaki” oraz 21 warsztatów pokazowych dla rodzin z dziećmi 4–6 lat. Zadanie z zakresu profilaktyki, powierzone w całości; realizacja od grudnia 2026 do lutego 2027 r. Oferty przez generator wskazany w ogłoszeniu do 23.11.2026 r.",
+      "voivodeships": [
+        "kujawsko-pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 40000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-11-23",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "edukacja"
+      ],
+      "source_url": "https://bip.wloclawek.eu/25272/zarzadzenie-nr-4662026-prezydenta-miasta-wloclawek-z-dnia-02-listopada-2026-r-w-sprawie-ogloszenia-otwartego-konkursu-ofert-na-realizacje-zadania-w-zakresie-innowacji-spolecznej-pn-uwazniaki-wdrazanej-przez-miasto-wloclawek-w-ramach-projektu-pn-innowacje-w-samorzadzie-przez-organizacje-pozarzadowe-oraz-inne-podmioty-prowadzace-dzialalnosc-pozytku-publicznego.html",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "przeciwdziałanie uzależnieniom i patologiom",
+        "nauka, edukacja, oświata i wychowanie"
+      ],
+      "target_groups": [
+        "nauczyciele i kadra oświaty",
+        "rodziny",
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "12.2026–02.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie nr 466/2026 z 2.11.2026; projekt „Innowacje w Samorządzie”.",
+      "voivodeship": [
+        "kujawsko-pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Włocławek"
         }
       ]
     },
@@ -1064,6 +1311,71 @@
         {
           "type": "gmina",
           "name": "Zielona Góra"
+        }
+      ]
+    },
+    {
+      "id": "g_abeb994ab4080605",
+      "title": "Powiat krośnieński: mieszkanie treningowe dla 6 osób i wspomagane dla 1 osoby w 2027 r.",
+      "funder": "Zarząd Powiatu Krośnieńskiego",
+      "source": "Starostwo Powiatowe w Krośnie",
+      "description": "Wsparcie prowadzenia mieszkania treningowego (6 miejsc) i wspomaganego (1 miejsce) dla dorosłych potrzebujących pomocy w codziennym funkcjonowaniu, m.in. osób z zaburzeniami psychicznymi, bezdomnych i opuszczających pieczę. Oferty w zamkniętej kopercie w starostwie w ciągu 21 dni od publikacji ogłoszenia (3.11.2026), czyli do ok. 24.11.2026 r. Termin wyliczony – sprawdź w ogłoszeniu.",
+      "voivodeships": [
+        "podkarpackie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 235200,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-11-24",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://powiat.krosno.pl/aktualnosc-4342-ogloszenie_zarzadu_powiatu.html",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "potrzeby mieszkaniowe",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami",
+        "osoby w kryzysie bezdomności",
+        "osoby zagrożone wykluczeniem społecznym"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "termin wyliczony: 21 dni od publikacji 3.11.2026",
+      "voivodeship": [
+        "podkarpackie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "krośnieński"
         }
       ]
     },
@@ -1250,6 +1562,69 @@
         {
           "type": "gmina",
           "name": "Tychy"
+        }
+      ]
+    },
+    {
+      "id": "g_b87da2391a4f65c4",
+      "title": "Grudziądz: posiłek wigilijny dla 400 osób w kryzysie bezdomności lub w niedostatku (2026)",
+      "funder": "Prezydent Grudziądza",
+      "source": "Urząd Miejski w Grudziądzu",
+      "description": "Przygotowanie i rozdanie 24 grudnia 2026 r. 400 zestawów posiłku wigilijnego (cztery tradycyjne potrawy) dla osób w kryzysie bezdomności i żyjących w niedostatku z Grudziądza. Wybrana zostanie jedna oferta. Wymagany wkład osobowy lub rzeczowy (można go zastąpić środkami finansowymi). Oferty przez generator wskazany w ogłoszeniu do 25.11.2026 r.",
+      "voivodeships": [
+        "kujawsko-pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 22000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-11-25",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.grudziadz.pl/pliki/grudziadz/zalaczniki/32890/ogloszenie-konkursu-posilek-wigilijny-2026.pdf",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "działalność charytatywna"
+      ],
+      "target_groups": [
+        "osoby w kryzysie bezdomności",
+        "osoby zagrożone wykluczeniem społecznym"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "grudzień 2026",
+      "own_contribution_required": true,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie nr 631/26 z 3.11.2026; wsparcie realizacji zadania.",
+      "voivodeship": [
+        "kujawsko-pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Grudziądz"
         }
       ]
     },
@@ -1495,6 +1870,138 @@
       ]
     },
     {
+      "id": "g_979a495b95061511",
+      "title": "Powiat gorlicki: prowadzenie Środowiskowego Domu Samopomocy w Gorlicach z filią w Bobowej (65 miejsc) w 2027 r.",
+      "funder": "Zarząd Powiatu Gorlickiego",
+      "source": "Starostwo Powiatowe w Gorlicach",
+      "description": "Powierzenie prowadzenia dziennego ośrodka wsparcia dla 65 osób z zaburzeniami psychicznymi (Gorlice, ul. Michalusa 18, i filia w Bobowej). Oferty w zaklejonych kopertach w starostwie w ciągu 21 dni od ogłoszenia (5.11.2026), czyli do ok. 26.11.2026 r. Termin wyliczony; kwota w BIP powiatu.",
+      "voivodeships": [
+        "malopolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": null,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-11-26",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://samorzad.gov.pl/web/powiat-gorlicki/otwarty-konkurs-ofert-na-prowadzenie-srodowiskowego-domu-samopomocy-w-2027-roku",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "osoby niepełnosprawne",
+        "ochrona i promocja zdrowia"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "termin wyliczony: 21 dni od 5.11.2026; kwota nieustalona (null)",
+      "voivodeship": [
+        "malopolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "gorlicki"
+        }
+      ]
+    },
+    {
+      "id": "g_661ee9de5a166f7a",
+      "title": "Powiat świdnicki: dwie całodobowe placówki opiekuńczo-wychowawcze typu rodzinnego 2027–2029",
+      "funder": "Zarząd Powiatu w Świdnicy",
+      "source": "Powiatowe Centrum Pomocy Rodzinie w Świdnicy",
+      "description": "Powierzenie prowadzenia dwóch placówek opiekuńczo-wychowawczych typu rodzinnego od 1.01.2027 do 31.12.2029 r. Na każdą placówkę przewidziano 844 800 zł rocznie. Każdy oferent może złożyć ofertę na jedno zadanie. Oferty w PCPR w Świdnicy do 26.11.2026 r.",
+      "voivodeships": [
+        "dolnoslaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": 2534400,
+      "amount_text": null,
+      "total_budget": 5068800,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-11-26",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://pcpr.swidnica.pl/public/index.php/artykul/aktualnosci/ogloszenie-otwarty-konkurs-ofert202611",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "wspieranie rodziny i piecza zastępcza",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "rodziny"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027-2029",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "ogłoszenie z 3.11.2026; termin z OCR s.7",
+      "voivodeship": [
+        "dolnoslaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "do 2 534 400 zł",
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "świdnicki"
+        }
+      ]
+    },
+    {
       "id": "g_a772a03deb7f2914",
       "title": "Rozwój sportu w Gminie Chrzanów w 2027 r. – dotacje dla klubów sportowych",
       "funder": "Gmina Chrzanów",
@@ -1554,6 +2061,72 @@
         {
           "type": "gmina",
           "name": "Chrzanów"
+        }
+      ]
+    },
+    {
+      "id": "g_fd2129850945fa1e",
+      "title": "Łódź: punkty nieodpłatnej pomocy prawnej i nieodpłatnego poradnictwa obywatelskiego w 2027 r.",
+      "funder": "Prezydent Miasta Łodzi",
+      "source": "Urząd Miasta Łodzi",
+      "description": "Konkurs na powierzenie prowadzenia w 2027 r. punktów nieodpłatnej pomocy prawnej (6 punktów, 453 052,08 zł) oraz nieodpłatnego poradnictwa obywatelskiego (7 punktów, 528 560,76 zł) na terenie Łodzi; na jeden punkt przypada 75 508,68 zł, w tym środki na edukację prawną. Jedna oferta może obejmować maksymalnie trzy punkty każdego rodzaju. Mogą startować organizacje wpisane na listę Wojewody Łódzkiego. Oferty przez generator wskazany w ogłoszeniu w ciągu 21 dni od publikacji ogłoszenia (zarządzenie z 5.11.2026), potwierdzenie złożenia w ciągu 22 dni.",
+      "voivodeships": [
+        "lodzkie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "75 508,68 zł na jeden punkt",
+      "total_budget": 981612.84,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-11-26",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://uml.lodz.pl/aktualnosci/artykul/otwarty-konkurs-ofert-powierzenie-realizacji-zadania-publicznego-w-zakresie-prowadzenia-punktu-nieodplatnej-pomocy-prawnej-lub-punktu-nieodplatnego-poradnictwa-obywatelskiego-na-terenie-lodzi-w-2027-roku-id185677/2026/11/17/",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "nieodpłatna pomoc prawna",
+        "nieodpłatne poradnictwo obywatelskie"
+      ],
+      "target_groups": [
+        "ogół mieszkańców",
+        "osoby zagrożone wykluczeniem społecznym"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01–31.12.2027",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "Zarządzenie nr 2409/2026 z 5.11.2026, zmienione zarządzeniem nr 2482/2026 z 16.11.2026. Termin wyliczony: 21 dni od publikacji, najwcześniej 26.11.2026 – sprawdzić w ogłoszeniu.",
+      "voivodeship": [
+        "lodzkie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "75 508,68 zł na jeden punkt",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Łódź"
         }
       ]
     },
@@ -1804,6 +2377,70 @@
         {
           "type": "gmina",
           "name": "Łódź"
+        }
+      ]
+    },
+    {
+      "id": "g_23ac4f883f1f9518",
+      "title": "Wadowice Górne: usługi opiekuńcze, sąsiedzkie i specjalistyczne w 2027 r.",
+      "funder": "Dyrektor GOPS w Wadowicach Górnych",
+      "source": "Gminny Ośrodek Pomocy Społecznej w Wadowicach Górnych",
+      "description": "Świadczenie usług opiekuńczych, specjalistycznych usług opiekuńczych (także dla osób z zaburzeniami psychicznymi) i usług sąsiedzkich dla mieszkańców gminy od stycznia do grudnia 2027 r. Oferty w zamkniętej kopercie do 27.11.2026 r., godz. 15:30.",
+      "voivodeships": [
+        "podkarpackie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 50000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-11-27",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://gops.wadowicegorne.pl/n,otwarty-konkurs-ofert-na-rok-2027",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "seniorzy (osoby w wieku emerytalnym)",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "seniorzy",
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "ogłoszenie GOPS (PDF)",
+      "voivodeship": [
+        "podkarpackie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wadowice Górne"
         }
       ]
     },
@@ -2430,6 +3067,132 @@
       ]
     },
     {
+      "id": "g_ec91388f7a04a46c",
+      "title": "Żary: dotacje na rozwój sportu dla klubów sportowych w 2027 r.",
+      "funder": "Burmistrz Miasta Żary",
+      "source": "Urząd Miejski w Żarach",
+      "description": "Nabór wniosków od działających non-profit klubów sportowych z siedzibą w Żarach na projekty poprawiające warunki uprawiania sportu: udział w rozgrywkach i organizowanie zajęć ruchowych dla mieszkańców w 2027 r. Pula to 1 600 000 zł; klub może dostać dofinansowanie na kilka projektów, każdy na osobnym wniosku. Wymagany wkład finansowy własny co najmniej 20%. Dotacji nie można przeznaczyć m.in. na wynagrodzenia zawodników i działaczy ani na transfery. Wnioski do 30.11.2026 r. w Biurze Podawczym Urzędu Miejskiego (liczy się data wpływu).",
+      "voivodeships": [
+        "lubuskie"
+      ],
+      "recipients": [
+        "stowarzyszenie"
+      ],
+      "other_recipients": [
+        "kluby sportowe działające non-profit"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 1600000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-11-30",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.zary.pl/238/6793/Dofinansowanie_sportu_na_2027_rok/",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "kultura fizyczna i sport"
+      ],
+      "target_groups": [
+        "sportowcy",
+        "dzieci i młodzież",
+        "ogół mieszkańców"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 20
+      },
+      "extraction_notes": "Zarządzenie nr WA.0050.223.2026 z 9.11.2026; tryb uchwały nr XII/125/15 Rady Miejskiej w Żarach.",
+      "voivodeship": [
+        "lubuskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Żary"
+        }
+      ]
+    },
+    {
+      "id": "g_4997d0f8c3dc046d",
+      "title": "„Opieka Wytchnieniowa” dla Organizacji Pozarządowych – edycja 2027",
+      "funder": "Minister Rodziny, Pracy i Polityki Społecznej",
+      "source": "Biuro Pełnomocnika Rządu do Spraw Osób Niepełnosprawnych (MRPiPS)",
+      "description": "Dotacje z Funduszu Solidarnościowego na usługi opieki wytchnieniowej w 2027 r., czyli czasowe zastępstwo dla rodzin i opiekunów dzieci do 16 lat z orzeczeniem o niepełnosprawności oraz osób ze znacznym stopniem niepełnosprawności (forma dzienna lub całodobowa). Dla organizacji ze statutowym celem działań na rzecz osób z niepełnosprawnościami, działających na ich rzecz min. 3 lata. Do 3 mln zł na ofertę; finansowanie do 100% kosztów usług, wkład własny dobrowolny. Oferty przez generator wskazany w ogłoszeniu do 30.11.2026 r.",
+      "voivodeships": [
+        "ogolnopolski"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": 3000000,
+      "amount_text": null,
+      "total_budget": 85100000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-11-30",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://niepelnosprawni.gov.pl/program-fs/otwarty-konkurs-ofert-w-ramach-programu-resortowego-ministra-rodziny-pracy-i-polityki-spolecznej-opieka-wytchnieniowa-dla-organizacji-pozarzadowych-edycja-2027/",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "osoby niepełnosprawne",
+        "rodzina i prawa dziecka",
+        "pomoc społeczna"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami",
+        "rodziny"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "Fundusz Solidarnościowy; oferta realizowana samodzielnie.",
+      "voivodeship": [
+        "ogolnopolski"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "do 3 000 000 zł",
+      "scope": "ogolnopolski",
+      "locality": []
+    },
+    {
       "id": "g_16b6ca125a8cf729",
       "title": "Diagnozy i wsparcie grupowe dla wychowanków pieczy zastępczej i rodzin zastępczych – Poznań 2027",
       "funder": "Miasto Poznań",
@@ -2676,6 +3439,68 @@
       ]
     },
     {
+      "id": "g_58bce292abaee3d8",
+      "title": "Polkowice: rozwój sportu w 2027 r. – konkurs nr 1 (piłka nożna, koszykówka, kickboxing, futsal)",
+      "funder": "Burmistrz Polkowic",
+      "source": "Urząd Gminy Polkowice",
+      "description": "Dotacje na rozwój sportu w gminie w 2027 r.: piłka nożna dorosłych i juniorów (1,9 mln zł), piłka nożna dzieci i młodzieży (588 tys. zł), koszykówka dzieci i młodzieży (219 tys. zł), kickboxing (182 tys. zł) i piłka nożna halowa (150 tys. zł). Wkład własny zależy od wnioskowanej kwoty: min. 8% dotacji do 250 tys. zł, przy wyższych kwotach według progów z ogłoszenia. Oferty do 1.12.2026 r.",
+      "voivodeships": [
+        "dolnoslaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 3039000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-01",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://polkowice.eu/ogloszenia/otwarty-konkurs-ofert-z-dnia-17-11-2026-r-na-realizacje-zadan-publicznych-z-zakresu-rozwoju-sportu-w-gminie-polkowice-w-2027-r-konkurs-nr-1/",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "kultura fizyczna i sport"
+      ],
+      "target_groups": [
+        "sportowcy",
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": true,
+      "min_own_contribution": null,
+      "extraction_notes": "ogłoszenie z 17.11.2026",
+      "voivodeship": [
+        "dolnoslaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Polkowice"
+        }
+      ]
+    },
+    {
       "id": "g_d62bf14f4bd3db2c",
       "title": "Rozwój sportu w Gminie Ozimek – I tura 2027",
       "funder": "Gmina Ozimek",
@@ -2797,6 +3622,73 @@
         {
           "type": "gmina",
           "name": "Poznań"
+        }
+      ]
+    },
+    {
+      "id": "g_a5eb859ef1408591",
+      "title": "Wieluń: usługi opiekuńcze i specjalistyczne usługi opiekuńcze w 2027 r.",
+      "funder": "Burmistrz Wielunia",
+      "source": "Urząd Miejski w Wieluniu",
+      "description": "Powierzenie świadczenia usług opiekuńczych (ok. 12 731 godzin) i specjalistycznych usług opiekuńczych (bez usług dla osób z zaburzeniami psychicznymi) w domach mieszkańców gminy przez cały 2027 r. Usługi świadczone 7 dni w tygodniu. Oferty w zamkniętych kopertach do 1.12.2026 r.",
+      "voivodeships": [
+        "lodzkie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 600000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-01",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.bip.um.wielun.pl/bipkod/002?start=0",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "seniorzy (osoby w wieku emerytalnym)",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "seniorzy",
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "zarządzenie z 10.11.2026; ogłoszenie PDF res/serwisy/pliki/45020037; powierzenie",
+      "voivodeship": [
+        "lodzkie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Wieluń"
         }
       ]
     },
@@ -3127,6 +4019,203 @@
       ]
     },
     {
+      "id": "g_ad0cf2a4e144c53a",
+      "title": "Powiat braniewski: druga placówka opiekuńczo-wychowawcza – 14 miejsc socjalizacyjnych w 2027 r.",
+      "funder": "Zarząd Powiatu Braniewskiego",
+      "source": "Starostwo Powiatowe w Braniewie (BIP)",
+      "description": "Powierzenie prowadzenia całodobowej placówki opiekuńczo-wychowawczej typu socjalizacyjnego dla 14 dzieci z powiatu braniewskiego od 1.01 do 31.12.2027, w lokalu oferenta. Dotacja wynosi 7 700 zł miesięcznie na wychowanka i 6 160 zł za każde wolne miejsce utrzymywane w gotowości; ostateczna kwota zależy od liczby skierowanych dzieci. Mogą startować organizacje pozarządowe działające w zakresie wspierania rodziny, pieczy zastępczej lub pomocy społecznej oraz kościelne osoby prawne; do umowy potrzebne jest zezwolenie wojewody na prowadzenie placówki. Oferty papierowe osobiście, pocztą lub kurierem do PCPR w Braniewie (pl. Piłsudskiego 2, pok. 105) do 2.12.2026 r. do godz. 15:00.",
+      "voivodeships": [
+        "warminsko-mazurskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 1293600,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-02",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.powiat-braniewo.pl/attachments/download/11704",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "wspieranie rodziny i piecza zastępcza",
+        "rodzina i prawa dziecka"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "rodziny"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027-01-01 – 2027-12-31",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "Uchwała nr 284/26 Zarządu Powiatu Braniewskiego z 10.11.2026 r.; dwa odrębne ogłoszenia (placówki dla 12 i 14 wychowanków) w załącznikach DOCX. Tryb powierzenia.",
+      "voivodeship": [
+        "warminsko-mazurskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "braniewski"
+        }
+      ]
+    },
+    {
+      "id": "g_d008ef3dfd0a4c62",
+      "title": "Powiat braniewski: prowadzenie placówki opiekuńczo-wychowawczej typu socjalizacyjnego dla 12 wychowanków w 2027 r.",
+      "funder": "Zarząd Powiatu Braniewskiego",
+      "source": "Starostwo Powiatowe w Braniewie (BIP)",
+      "description": "Powierzenie prowadzenia całodobowej placówki opiekuńczo-wychowawczej typu socjalizacyjnego dla 12 dzieci z powiatu braniewskiego od 1.01 do 31.12.2027, w lokalu oferenta. Dotacja wynosi 7 700 zł miesięcznie na wychowanka i 6 160 zł za każde wolne miejsce utrzymywane w gotowości; ostateczna kwota zależy od liczby skierowanych dzieci. Mogą startować organizacje pozarządowe działające w zakresie wspierania rodziny, pieczy zastępczej lub pomocy społecznej oraz kościelne osoby prawne; do umowy potrzebne jest zezwolenie wojewody na prowadzenie placówki. Oferty papierowe osobiście, pocztą lub kurierem do PCPR w Braniewie (pl. Piłsudskiego 2, pok. 105) do 2.12.2026 r. do godz. 15:00.",
+      "voivodeships": [
+        "warminsko-mazurskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 1108800,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-02",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.powiat-braniewo.pl/uchwala/8472/uchwala-nr-284-26",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "wspieranie rodziny i piecza zastępcza",
+        "rodzina i prawa dziecka"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "rodziny"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027-01-01 – 2027-12-31",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "Uchwała nr 284/26 Zarządu Powiatu Braniewskiego z 10.11.2026 r.; dwa odrębne ogłoszenia (placówki dla 12 i 14 wychowanków) w załącznikach DOCX. Tryb powierzenia.",
+      "voivodeship": [
+        "warminsko-mazurskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "braniewski"
+        }
+      ]
+    },
+    {
+      "id": "g_3a1a9c6c4e77d2d3",
+      "title": "Powiat braniewski: prowadzenie Środowiskowego Domu Samopomocy typu A, B, C i D dla 30 osób w latach 2027–2029",
+      "funder": "Zarząd Powiatu Braniewskiego",
+      "source": "Starostwo Powiatowe w Braniewie (BIP)",
+      "description": "Powierzenie prowadzenia środowiskowego domu samopomocy dla 30 dorosłych osób z zaburzeniami psychicznymi (typy A, B, C i D) na terenie powiatu braniewskiego od 1.01.2027 do 31.12.2029, we własnej lub użyczonej bazie lokalowej oferenta. Dom ma działać co najmniej 5 dni w tygodniu po 8 godzin. Zadanie w całości finansuje dotacja z budżetu państwa przyznawana przez Wojewodę (na 2027 r. wstępnie 1 054 440 zł, tj. 2 929 zł miesięcznie na uczestnika, oraz dodatkowo 84 355,20 zł); udział uczestników jest bezpłatny. Mogą startować organizacje pozarządowe i podmioty z art. 3 ust. 3 z działalnością statutową w pomocy społecznej. Oferty papierowe osobiście, pocztą lub kurierem do PCPR w Braniewie (pl. Piłsudskiego 2, pok. 105) do 2.12.2026 r. do godz. 15:00 (liczy się data wpływu).",
+      "voivodeships": [
+        "warminsko-mazurskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 1138795.2,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-02",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.powiat-braniewo.pl/uchwala/8471/uchwala-nr-283-26",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027-01-01 – 2029-12-31",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "Uchwała nr 283/26 Zarządu Powiatu Braniewskiego z 10.11.2026 r. (ogłoszenie w załączniku DOCX). Kwota 2027: 1 054 440 zł + 84 355,20 zł; na lata 2028–2029 kwotę ustali Wojewoda. Tryb powierzenia – bez wkładu własnego.",
+      "voivodeship": [
+        "warminsko-mazurskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "braniewski"
+        }
+      ]
+    },
+    {
       "id": "g_aa7d683a799ba541",
       "title": "3.10 Ochrona bioróżnorodności na obszarach poza formami ochrony przyrody, Fundusze Europejskie dla Lubelskiego",
       "funder": "Województwo Lubelskie",
@@ -3296,6 +4385,68 @@
       "amount": "od 50 000 zł do 200 000 zł",
       "scope": "wojewodzki",
       "locality": []
+    },
+    {
+      "id": "g_9c66feb360f520d9",
+      "title": "Grudziądz: usługi wsparcia w ramach Programu Bonu Senioralnego (grudzień 2026)",
+      "funder": "Prezydent Grudziądza",
+      "source": "Urząd Miejski w Grudziądzu",
+      "description": "Świadczenie usług wsparcia w domu dla mieszkańców Grudziądza po 65. roku życia: pomoc w codziennych czynnościach, opieka higieniczna, wsparcie w korzystaniu z usług zdrowotnych i aktywizacja. Realizacja 1–31.12.2026 r. w formie powierzenia. Oferty przez generator wskazany w ogłoszeniu do 3.12.2026 r.",
+      "voivodeships": [
+        "kujawsko-pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 24720,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-03",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.grudziadz.pl/artykul/zarzadzenie-nr-648-26-w-sprawie-ogloszenia-otwartego-konkursu-ofert-na-realizacje-zadania-publi",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "seniorzy (osoby w wieku emerytalnym)"
+      ],
+      "target_groups": [
+        "seniorzy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1–31.12.2026",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie nr 648/26 z 12.11.2026; w tym 24 000 zł na wynagrodzenia i 720 zł na obsługę.",
+      "voivodeship": [
+        "kujawsko-pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Grudziądz"
+        }
+      ]
     },
     {
       "id": "g_0fa26ea8332bc4e0",
@@ -3473,6 +4624,368 @@
       "amount": "pula naboru: 2 139 946 zł (potwierdzone na stronie oficjalnej)",
       "scope": "wojewodzki",
       "locality": []
+    },
+    {
+      "id": "g_608da331474c37b0",
+      "title": "Europejska Inicjatywa Społeczna – Aglomeracja Opolska: granty na małe inwestycje lokalne",
+      "funder": "Województwo Opolskie",
+      "source": "Urząd Marszałkowski Województwa Opolskiego",
+      "description": "Granty od 40 do 80 tys. zł na małe, oddolne inwestycje lokalne, np. remont lub adaptację pomieszczeń dla mieszkańców, dostosowanie obiektów dla osób ze szczególnymi potrzebami, ścieżki edukacyjne i turystyczne, małą architekturę czy świetlice kontenerowe. Obszar: 21 gmin Aglomeracji Opolskiej (m.in. Opole, Krapkowice, Ozimek, Niemodlin, Gogolin, Zdzieszowice). Zadanie wybierają sami mieszkańcy w ankiecie przeprowadzonej przez organizację (min. 25 podpisów poparcia). Dla stowarzyszeń i fundacji działających min. rok, zarejestrowanych lub z biurem w województwie opolskim. Wkład własny nie jest wymagany. Jeden wniosek na organizację. Nabór do 4.12.2026 r., godz. 15:00.",
+      "voivodeships": [
+        "opolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": 40000,
+      "amount_max": 80000,
+      "amount_text": null,
+      "total_budget": 1167342.98,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-04",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "inne"
+      ],
+      "source_url": "https://eis.opolskie.pl/wp-content/uploads/2026/11/Ogloszenie-o-konkursie-grantowym-dla-NGO-w-ramach-projektu-EIS-dla-AO.pdf",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "rozwój wspólnot i społeczności lokalnych"
+      ],
+      "target_groups": [
+        "społeczności lokalne"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": null,
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "Projekt FEO 2021-2027, działanie 10.3; 90% puli na wnioski, 10% na tryb odwoławczy. Wniosek przez generator wskazany w ogłoszeniu (profil zaufany/podpis kwalifikowany).",
+      "voivodeship": [
+        "opolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "od 40 000 zł do 80 000 zł",
+      "scope": "wojewodzki",
+      "locality": []
+    },
+    {
+      "id": "g_bbcb3ef1e5314baa",
+      "title": "Europejska Inicjatywa Społeczna – Subregion Południowy i Brzeski: granty na małe inwestycje lokalne",
+      "funder": "Województwo Opolskie",
+      "source": "Urząd Marszałkowski Województwa Opolskiego",
+      "description": "Granty od 40 do 80 tys. zł na małe, oddolne inwestycje lokalne, np. remont lub adaptację pomieszczeń dla mieszkańców, dostosowanie obiektów dla osób ze szczególnymi potrzebami, ścieżki edukacyjne i turystyczne, małą architekturę czy świetlice kontenerowe. Obszar: 22 gminy subregionu południowego i brzeskiego (m.in. Nysa, Brzeg, Prudnik, Głuchołazy, Głubczyce, Paczków). Zadanie wybierają sami mieszkańcy w ankiecie przeprowadzonej przez organizację (min. 25 podpisów poparcia). Dla stowarzyszeń i fundacji działających min. rok, zarejestrowanych lub z biurem w województwie opolskim. Wkład własny nie jest wymagany. Jeden wniosek na organizację. Nabór do 4.12.2026 r., godz. 15:00.",
+      "voivodeships": [
+        "opolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": 40000,
+      "amount_max": 80000,
+      "amount_text": null,
+      "total_budget": 1402261.66,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-04",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "inne"
+      ],
+      "source_url": "https://eis.opolskie.pl/wp-content/uploads/2026/11/Ogloszenie-o-konkursie-grantowym-dla-NGO-w-ramach-projektu-EIS-dla-Subregionu-Poludniowego-i-Brzeskiego.pdf",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "rozwój wspólnot i społeczności lokalnych"
+      ],
+      "target_groups": [
+        "społeczności lokalne"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": null,
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "Projekt FEO 2021-2027, działanie 10.3; 90% puli na wnioski, 10% na tryb odwoławczy. Wniosek przez generator wskazany w ogłoszeniu (profil zaufany/podpis kwalifikowany).",
+      "voivodeship": [
+        "opolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "od 40 000 zł do 80 000 zł",
+      "scope": "wojewodzki",
+      "locality": []
+    },
+    {
+      "id": "g_8a81d497f111579b",
+      "title": "Europejska Inicjatywa Społeczna – Subregion Północny i Kędzierzyńsko-Strzelecki: granty na małe inwestycje lokalne",
+      "funder": "Województwo Opolskie",
+      "source": "Urząd Marszałkowski Województwa Opolskiego",
+      "description": "Granty od 40 do 80 tys. zł na małe, oddolne inwestycje lokalne, np. remont lub adaptację pomieszczeń dla mieszkańców, dostosowanie obiektów dla osób ze szczególnymi potrzebami, ścieżki edukacyjne i turystyczne, małą architekturę czy świetlice kontenerowe. Obszar: 28 gmin subregionu północnego i kędzierzyńsko-strzeleckiego (m.in. Kędzierzyn-Koźle, Kluczbork, Namysłów, Olesno, Strzelce Opolskie). Zadanie wybierają sami mieszkańcy w ankiecie przeprowadzonej przez organizację (min. 25 podpisów poparcia). Dla stowarzyszeń i fundacji działających min. rok, zarejestrowanych lub z biurem w województwie opolskim. Wkład własny nie jest wymagany. Jeden wniosek na organizację. Nabór do 4.12.2026 r., godz. 15:00.",
+      "voivodeships": [
+        "opolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": 40000,
+      "amount_max": 80000,
+      "amount_text": null,
+      "total_budget": 1467296.66,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-04",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "inne"
+      ],
+      "source_url": "https://eis.opolskie.pl/wp-content/uploads/2026/11/Ogloszenie-o-konkursie-grantowym-dla-NGO-w-ramach-projektu-EIS-dla-Subregionu-Polnocnego-i-Kedzierzynsko-Strzeleckiego.pdf",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "rozwój wspólnot i społeczności lokalnych"
+      ],
+      "target_groups": [
+        "społeczności lokalne"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": null,
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "Projekt FEO 2021-2027, działanie 10.3; 90% puli na wnioski, 10% na tryb odwoławczy. Wniosek przez generator wskazany w ogłoszeniu (profil zaufany/podpis kwalifikowany).",
+      "voivodeship": [
+        "opolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "od 40 000 zł do 80 000 zł",
+      "scope": "wojewodzki",
+      "locality": []
+    },
+    {
+      "id": "g_bb2947f581e8d978",
+      "title": "Gorzów Wielkopolski: nabór wniosków klubów sportowych na wsparcie rozwoju sportu w 2027 r.",
+      "funder": "Prezydent Miasta Gorzowa Wielkopolskiego",
+      "source": "Urząd Miasta Gorzowa Wielkopolskiego – Wydział Sportu",
+      "description": "Nabór wniosków od klubów sportowych z Gorzowa na cztery rodzaje zadań w 2027 r.: wysokie wyniki w kluczowych dyscyplinach, organizacja międzynarodowych zawodów, utrzymanie obiektów sportowych zarządzanych przez kluby oraz szkolenie sportowe osób z niepełnosprawnościami. Przy ocenie liczą się m.in. rzetelność wcześniejszych rozliczeń, przejrzystość finansów i wkład własny. Kluby z rozgrywkami jesień–wiosna, które mają już dotację na rundę wiosenną 2026/2027, nie mogą składać wniosków w zadaniu 1. Wnioski na formularzach z ogłoszenia, pisemnie (osobiście lub pocztą), do Wydziału Sportu UM, ul. Sikorskiego 4, do 4.12.2026 r.",
+      "voivodeships": [
+        "lubuskie"
+      ],
+      "recipients": [
+        "stowarzyszenie"
+      ],
+      "other_recipients": [
+        "kluby sportowe"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": null,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-04",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://www.bip.um.gorzow.pl/268/13113/Informacja_o_naborze_wnioskow_z_zakresu_wspierania_rozwoju_sportu/",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "kultura fizyczna i sport",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "sportowcy",
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": null,
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Tryb uchwały nr XXXV/394/2012 Rady Miasta Gorzowa Wlkp.; w ogłoszeniu brak kwoty. Ogłoszone w BIP 20.11.2026.",
+      "voivodeship": [
+        "lubuskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Gorzów Wielkopolski"
+        }
+      ]
+    },
+    {
+      "id": "g_ff81c839dcfefca4",
+      "title": "Kościerzyna: prowadzenie Środowiskowego Domu Samopomocy dla 30 osób w 2027 r.",
+      "funder": "Burmistrz Miasta Kościerzyna",
+      "source": "Urząd Miasta Kościerzyna / Miejski Ośrodek Pomocy Społecznej w Kościerzynie",
+      "description": "Konkurs na powierzenie prowadzenia w 2027 r. środowiskowego domu samopomocy w Kościerzynie dla 30 osób z zaburzeniami psychicznymi, z treningami umiejętności, terapią zajęciową i wsparciem w codziennym funkcjonowaniu. Planowana kwota na 2027 r. to 1 180 973 zł. Mogą startować organizacje działające w obszarze pomocy społecznej. Oferty w formie papierowej składa się w MOPS w Kościerzynie (ul. Brzechwy 5) osobiście lub pocztą – liczy się data wpływu; termin: 4.12.2026, godz. 9:00.",
+      "voivodeships": [
+        "pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 1180973,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-04",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.koscierzyna.gda.pl/?bip=2&cid=534&id=1971",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01–31.12.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie nr 0050.184.2026 z 5.11.2026; w 2026 r. na to zadanie przeznaczono 1 219 884 zł; wybór ofert do 31.12.2026.",
+      "voivodeship": [
+        "pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Kościerzyna"
+        }
+      ]
+    },
+    {
+      "id": "g_c307c34e74c8d1ba",
+      "title": "Świętochłowice: placówki opiekuńczo-wychowawcze socjalizacyjne dla 98 dzieci w 2027 r.",
+      "funder": "Dyrektor Ośrodka Pomocy Społecznej w Świętochłowicach",
+      "source": "Ośrodek Pomocy Społecznej w Świętochłowicach",
+      "description": "Prowadzenie placówek opiekuńczo-wychowawczych typu socjalizacyjnego, łącznie 98 miejsc dla dzieci ze Świętochłowic pozbawionych opieki rodziców. Placówki mogą działać także poza miastem. Oferty do 4.12.2026 r.",
+      "voivodeships": [
+        "slaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 7056000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-04",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.ops-sw.4bip.pl/index.php?id=414&idg=5&x=26&y=99",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "wspieranie rodziny i piecza zastępcza",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie 61/2026 z 12.11.2026",
+      "voivodeship": [
+        "slaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Świętochłowice"
+        }
+      ]
     },
     {
       "id": "g_753edf9e941e13f0",
@@ -4722,6 +6235,523 @@
         {
           "type": "gmina",
           "name": "Wrocław"
+        }
+      ]
+    },
+    {
+      "id": "g_456680b5c1b4d109",
+      "title": "Drawsko Pomorskie: dotacje dla klubów sportowych na rozwój sportu (2027)",
+      "funder": "Burmistrz Drawska Pomorskiego",
+      "source": "Urząd Miejski w Drawsku Pomorskim",
+      "description": "Konkurs dotacji celowych dla klubów sportowych z gminy Drawsko Pomorskie na tworzenie warunków do rozwoju sportu w 2027 r. Środki można przeznaczyć m.in. na szkolenie sportowe i obozy, sprzęt, udział w zawodach i ich organizację oraz wynajem obiektów. Dotacja pokrywa do 80% kosztów zadania. Oferty przez generator wskazany w ogłoszeniu do 7.12.2026 r., z wersją papierową w urzędzie.",
+      "voivodeships": [
+        "zachodniopomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie"
+      ],
+      "other_recipients": [
+        "kluby sportowe"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 540000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-07",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://drawsko.pl/aktualnosci-3/ogloszenie-o-otwartym-konkursie-ofert-pt-tworzenie-warunkow-w-tym-organizacyjnych-sprzyjajacych-rozwojowi-sportu-w-gminie-drawsko-pomorskie-w-2027-roku.html",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "kultura fizyczna i sport"
+      ],
+      "target_groups": [
+        "sportowcy",
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "od zawarcia umowy do 31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 20
+      },
+      "extraction_notes": "Zarządzenie nr 154/2026 z 16.11.2026; tryb uchwały o wspieraniu rozwoju sportu (kluby sportowe). Termin wg komunikatu urzędu: 7.12.2026.; min_own_contribution wyliczony jako 100% - maks. poziom dofinansowania (80%)",
+      "voivodeship": [
+        "zachodniopomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Drawsko Pomorskie"
+        }
+      ]
+    },
+    {
+      "id": "g_6d43f3cf92bb3e3d",
+      "title": "Drawsko Pomorskie: imprezy turystyki aktywnej i krajoznawstwo (2027)",
+      "funder": "Burmistrz Drawska Pomorskiego",
+      "source": "Urząd Miejski w Drawsku Pomorskim",
+      "description": "Dotacje na organizację rajdów, wycieczek i innych imprez turystyki aktywnej i kwalifikowanej oraz popularyzację krajoznawstwa wśród mieszkańców gminy Drawsko Pomorskie w 2027 r. Oferty składa się przez generator wskazany w ogłoszeniu, a podpisaną wersję papierową dostarcza do urzędu; termin: 7.12.2026 r. Wymagany wkład własny (rzeczowy lub osobowy) co najmniej 20% wartości zadania.",
+      "voivodeships": [
+        "zachodniopomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 12000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-07",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "inne"
+      ],
+      "source_url": "https://drawsko.pl/aktualnosci-3/5218-ogloszenie-o-otwartym-konkursie-ofert-pn-organizacja-imprez-turystyki-aktywnej-i-kwalifikowanej-oraz-upowszechnianie-krajoznawstwa.html",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "turystyka i krajoznawstwo"
+      ],
+      "target_groups": [
+        "ogół mieszkańców"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "od zawarcia umowy do 31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 20
+      },
+      "extraction_notes": "Zarządzenie nr 151/2026 z 16.11.2026.",
+      "voivodeship": [
+        "zachodniopomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Drawsko Pomorskie"
+        }
+      ]
+    },
+    {
+      "id": "g_3c4053f466810780",
+      "title": "Drawsko Pomorskie: pomoc rodzinom i osobom w trudnej sytuacji życiowej (2027)",
+      "funder": "Burmistrz Drawska Pomorskiego",
+      "source": "Urząd Miejski w Drawsku Pomorskim",
+      "description": "Dotacje na pomoc społeczną dla rodzin i osób z gminy Drawsko Pomorskie w trudnej sytuacji życiowej oraz na wyrównywanie ich szans w 2027 r. Oferty składa się przez generator wskazany w ogłoszeniu, a podpisaną wersję papierową dostarcza do urzędu; termin: 7.12.2026 r. Wymagany wkład własny (rzeczowy lub osobowy) co najmniej 20% wartości zadania.",
+      "voivodeships": [
+        "zachodniopomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 24000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-07",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://drawsko.pl/aktualnosci-3/ogloszenie-o-otwartym-konkursie-ofert-pn-organizacja-pomocy-rodzinom-i-osobom-z-terenu-gminy-drawsko-pomorskie-znajdujacym-sie-w-trudnej-sytuacji-zyciowej.html",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna"
+      ],
+      "target_groups": [
+        "rodziny",
+        "osoby zagrożone wykluczeniem społecznym"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "od zawarcia umowy do 31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 20
+      },
+      "extraction_notes": "Zarządzenie nr 158/2026 z 16.11.2026.",
+      "voivodeship": [
+        "zachodniopomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Drawsko Pomorskie"
+        }
+      ]
+    },
+    {
+      "id": "g_8814afe521e5d7b9",
+      "title": "Drawsko Pomorskie: profilaktyka poprzez sport (2027)",
+      "funder": "Burmistrz Drawska Pomorskiego",
+      "source": "Urząd Miejski w Drawsku Pomorskim",
+      "description": "Konkurs na zajęcia i wydarzenia sportowe pełniące funkcję profilaktyki uzależnień i patologii społecznych, głównie dla dzieci i młodzieży z gminy Drawsko Pomorskie, w 2027 r. Oferty składa się przez generator wskazany w ogłoszeniu, a podpisaną wersję papierową dostarcza do urzędu; termin: 7.12.2026 r. Wymagany wkład własny (rzeczowy lub osobowy) co najmniej 20% wartości zadania.",
+      "voivodeships": [
+        "zachodniopomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 70000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-07",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://drawsko.pl/aktualnosci-3/5223-ogloszenie-o-otwartym-konkursie-ofert-pn-profilaktyka-poprzez-sport.html",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "przeciwdziałanie uzależnieniom i patologiom",
+        "kultura fizyczna i sport"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "osoby uzależnione i zagrożone uzależnieniem"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "od zawarcia umowy do 31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 20
+      },
+      "extraction_notes": "Zarządzenie nr 156/2026 z 16.11.2026.",
+      "voivodeship": [
+        "zachodniopomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Drawsko Pomorskie"
+        }
+      ]
+    },
+    {
+      "id": "g_4020ae97189da9a1",
+      "title": "Drawsko Pomorskie: profilaktyka zdrowotna mieszkańców (2027)",
+      "funder": "Burmistrz Drawska Pomorskiego",
+      "source": "Urząd Miejski w Drawsku Pomorskim",
+      "description": "Konkurs na działania z zakresu ochrony i promocji zdrowia oraz profilaktyki zdrowotnej dla mieszkańców gminy Drawsko Pomorskie w 2027 r. Oferty składa się przez generator wskazany w ogłoszeniu, a podpisaną wersję papierową dostarcza do urzędu; termin: 7.12.2026 r. Wymagany wkład własny (rzeczowy lub osobowy) co najmniej 20% wartości zadania.",
+      "voivodeships": [
+        "zachodniopomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 10000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-07",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://drawsko.pl/aktualnosci-3/ogloszenie-o-otwartym-konkursie-pt-ochrona-i-promocja-zdrowia-w-zakresie-profilaktyki-zdrowotnej-mieszkancow-gminy-drawsko-pomorskie.html",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "ochrona i promocja zdrowia"
+      ],
+      "target_groups": [
+        "ogół mieszkańców"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "od zawarcia umowy do 31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 20
+      },
+      "extraction_notes": "Zarządzenie nr 157/2026 z 16.11.2026.",
+      "voivodeship": [
+        "zachodniopomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Drawsko Pomorskie"
+        }
+      ]
+    },
+    {
+      "id": "g_d832ee7eac4e8358",
+      "title": "Drawsko Pomorskie: przeciwdziałanie uzależnieniom w środowiskach abstynenckich (2027)",
+      "funder": "Burmistrz Drawska Pomorskiego",
+      "source": "Urząd Miejski w Drawsku Pomorskim",
+      "description": "Wsparcie działań środowisk abstynenckich: przeciwdziałanie uzależnieniom i promocja zdrowego, trzeźwego stylu życia wśród mieszkańców gminy Drawsko Pomorskie w 2027 r. Oferty składa się przez generator wskazany w ogłoszeniu, a podpisaną wersję papierową dostarcza do urzędu; termin: 7.12.2026 r. Wymagany wkład własny (rzeczowy lub osobowy) co najmniej 20% wartości zadania.",
+      "voivodeships": [
+        "zachodniopomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 40000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-07",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://drawsko.pl/aktualnosci-3/5224-ogloszenie-o-otwartym-konkursie-ofert-pn-przeciwdzialanie-uzaleznieniom-i-promocja-zdrowego-trybu-zycia-w-srodowiskach-abstynenckich.html",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "przeciwdziałanie uzależnieniom i patologiom",
+        "ochrona i promocja zdrowia"
+      ],
+      "target_groups": [
+        "osoby uzależnione i zagrożone uzależnieniem"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "od zawarcia umowy do 31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 20
+      },
+      "extraction_notes": "Zarządzenie nr 155/2026 z 16.11.2026.",
+      "voivodeship": [
+        "zachodniopomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Drawsko Pomorskie"
+        }
+      ]
+    },
+    {
+      "id": "g_0c6e55659f84ff6b",
+      "title": "Drawsko Pomorskie: życie kulturalne emerytów, rencistów i osób z niepełnosprawnościami (2027)",
+      "funder": "Burmistrz Drawska Pomorskiego",
+      "source": "Urząd Miejski w Drawsku Pomorskim",
+      "description": "Dotacje na działania kulturalne i integracyjne dla emerytów, rencistów i osób z niepełnosprawnościami z gminy Drawsko Pomorskie w 2027 r. Oferty składa się przez generator wskazany w ogłoszeniu, a podpisaną wersję papierową dostarcza do urzędu; termin: 7.12.2026 r. Wymagany wkład własny (rzeczowy lub osobowy) co najmniej 20% wartości zadania.",
+      "voivodeships": [
+        "zachodniopomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 15000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-07",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "kultura"
+      ],
+      "source_url": "https://drawsko.pl/aktualnosci-3/5220-ogloszenie-otwartego-konkursu-pn-organizacja-zycia-kulturalnego-emerytow-rencistow-i-inwalidow.html",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "seniorzy (osoby w wieku emerytalnym)",
+        "kultura, sztuka, dziedzictwo narodowe"
+      ],
+      "target_groups": [
+        "seniorzy",
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "od zawarcia umowy do 31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 20
+      },
+      "extraction_notes": "Zarządzenie nr 153/2026 z 16.11.2026.",
+      "voivodeship": [
+        "zachodniopomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Drawsko Pomorskie"
+        }
+      ]
+    },
+    {
+      "id": "g_4dacbe470fc916fd",
+      "title": "Drawsko Pomorskie: życie kulturalne mieszkańców (2027)",
+      "funder": "Burmistrz Drawska Pomorskiego",
+      "source": "Urząd Miejski w Drawsku Pomorskim",
+      "description": "Wsparcie wydarzeń i działań kulturalnych skierowanych do mieszkańców gminy Drawsko Pomorskie w 2027 r. Oferty składa się przez generator wskazany w ogłoszeniu, a podpisaną wersję papierową dostarcza do urzędu; termin: 7.12.2026 r. Wymagany wkład własny (rzeczowy lub osobowy) co najmniej 20% wartości zadania.",
+      "voivodeships": [
+        "zachodniopomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 15000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-07",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "kultura"
+      ],
+      "source_url": "https://drawsko.pl/aktualnosci-3/5219-ogloszenie-otwartego-konkursu-pn-organizacja-zycia-kulturalnego-mieszkancow-gminy-drawsko-pomorskie.html",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "kultura, sztuka, dziedzictwo narodowe"
+      ],
+      "target_groups": [
+        "ogół mieszkańców"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "od zawarcia umowy do 31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 20
+      },
+      "extraction_notes": "Zarządzenie nr 152/2026 z 16.11.2026.",
+      "voivodeship": [
+        "zachodniopomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Drawsko Pomorskie"
         }
       ]
     },
@@ -6340,6 +8370,68 @@
       ]
     },
     {
+      "id": "g_e9fed61390695f3e",
+      "title": "Powiat chrzanowski: prowadzenie środowiskowego domu samopomocy w 2027 r.",
+      "funder": "Zarząd Powiatu Chrzanowskiego",
+      "source": "Starostwo Powiatowe w Chrzanowie",
+      "description": "Prowadzenie przez cały 2027 r. środowiskowego domu samopomocy dla maksymalnie 25 osób z zaburzeniami psychicznymi i z niepełnosprawnością intelektualną z terenu powiatu. Kwota orientacyjna, zależna od dotacji wojewody. Oferty do 7.12.2026 r., godz. 12:00.",
+      "voivodeships": [
+        "malopolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 963056,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-07",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.powiat-chrzanowski.pl/aktualnosci/2026-11-06-informacja-o-ogloszeniu-otwartego-konkursu-ofert-sds-2027.html",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Uchwała 153/215/2026 z 5.11.2026",
+      "voivodeship": [
+        "malopolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "chrzanowski"
+        }
+      ]
+    },
+    {
       "id": "g_f6b6168dee03b32e",
       "title": "Powiat koniński: centrum informacji turystycznej 2027",
       "funder": "Zarząd Powiatu Konińskiego",
@@ -6400,6 +8492,72 @@
         {
           "type": "powiat",
           "name": "koniński"
+        }
+      ]
+    },
+    {
+      "id": "g_d4ef735a7781b992",
+      "title": "Powiat wieruszowski: prowadzenie placówki opiekuńczo-wychowawczej typu rodzinnego w Sokolnikach w 2027 r.",
+      "funder": "Zarząd Powiatu Wieruszowskiego",
+      "source": "Starostwo Powiatowe w Wieruszowie",
+      "description": "Powierzenie prowadzenia całodobowej placówki opiekuńczo-wychowawczej typu rodzinnego dla 8 dzieci w Sokolnikach (gmina Sokolniki) w okresie 1.01–31.12.2027. Dotacja pokrywa całość kosztów zadania i składa się z części zmiennej (zależnej od liczby dzieci) i stałej (wynagrodzenia, utrzymanie lokalu). Oferent musi prowadzić statutową działalność w zakresie pieczy zastępczej, mieć doświadczenie, zasoby kadrowe i tytuł prawny do budynku oraz zezwolenie wojewody na prowadzenie placówki (lub dokument o toczącym się postępowaniu). Oferty papierowe w zamkniętej kopercie w biurze podawczym Starostwa (ul. Rynek 1-7, Wieruszów) lub pocztą do 7.12.2026 r. do godz. 15:00.",
+      "voivodeships": [
+        "lodzkie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 471218,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-07",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.powiat-wieruszowski.pl/ogloszenie-o-otwartym-konkursie-ofert-na-powierzenie-realizac-ii.html",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "wspieranie rodziny i piecza zastępcza",
+        "rodzina i prawa dziecka"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "rodziny"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027-01-01 – 2027-12-31",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "Uchwała nr 370/2026 Zarządu Powiatu Wieruszowskiego z 16.11.2026 r.; ogłoszenie opublikowane 19.11.2026 r. Tryb powierzenia – bez wkładu własnego. Ogłoszenie w formie skanu PDF (odczytane OCR).",
+      "voivodeship": [
+        "lodzkie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "wieruszowski"
         }
       ]
     },
@@ -9291,6 +11449,132 @@
       ]
     },
     {
+      "id": "g_dce8e79a48f16ca4",
+      "title": "Świętochłowice: okresowy pobyt dla rodziców z małoletnimi dziećmi i kobiet w ciąży w 2027 r.",
+      "funder": "Dyrektor Ośrodka Pomocy Społecznej w Świętochłowicach",
+      "source": "Ośrodek Pomocy Społecznej w Świętochłowicach",
+      "description": "Zapewnienie co najmniej 4 miejsc okresowego pobytu w domu dla matek lub ojców z małoletnimi dziećmi i kobiet w ciąży (stawka 90 zł za osobodzień). Oferty do 7.12.2026 r.",
+      "voivodeships": [
+        "slaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 57600,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-07",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.ops-sw.4bip.pl/index.php?id=414&idg=5&x=26&y=99",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "rodzina i prawa dziecka"
+      ],
+      "target_groups": [
+        "rodziny",
+        "kobiety",
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie 66/2026 z 13.11.2026",
+      "voivodeship": [
+        "slaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Świętochłowice"
+        }
+      ]
+    },
+    {
+      "id": "g_874c700b1777b25c",
+      "title": "Świętochłowice: schronienie dla osób w kryzysie bezdomności w 2027 r. (3 zadania)",
+      "funder": "Dyrektor Ośrodka Pomocy Społecznej w Świętochłowicach",
+      "source": "Ośrodek Pomocy Społecznej w Świętochłowicach",
+      "description": "Trzy zadania: schronienie dla mężczyzn (min. 35 miejsc, 586 tys. zł), schronienie dla kobiet (min. 4 miejsca, 50,4 tys. zł) oraz schronisko z usługami opiekuńczymi (min. 4 miejsca, 150 tys. zł). Finansowanie według stawki za osobodzień. Oferty do 7.12.2026 r.",
+      "voivodeships": [
+        "slaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 786400,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-07",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.ops-sw.4bip.pl/index.php?id=414&idg=5&x=26&y=99",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "potrzeby mieszkaniowe"
+      ],
+      "target_groups": [
+        "osoby w kryzysie bezdomności"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie 65/2026 z 13.11.2026",
+      "voivodeship": [
+        "slaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Świętochłowice"
+        }
+      ]
+    },
+    {
       "id": "g_603f759bbfa07c62",
       "title": "Żydowska Dusza. Skarby Gminy Wyznaniowej Żydowskiej we Wrocławiu. Edukacja, kultura, 2027 rok (Wrocław, otwarty konkurs ofert)",
       "funder": "Miasto Wrocław",
@@ -10265,6 +12549,71 @@
       ]
     },
     {
+      "id": "g_2808ff957693a0fb",
+      "title": "Korczyna: usługi opiekuńcze i specjalistyczne usługi opiekuńcze w 2027 r.",
+      "funder": "Wójt Gminy Korczyna",
+      "source": "Urząd Gminy Korczyna",
+      "description": "Konkurs ofert częściowych na świadczenie w 2027 r. usług opiekuńczych dla osób, które z powodu wieku lub choroby potrzebują pomocy (150 000 zł), oraz specjalistycznych usług opiekuńczych dla dorosłych i dzieci z zaburzeniami psychicznymi (259 200 zł) na terenie gminy Korczyna. Głównym kryterium oceny jest cena godziny usługi. Oferty do 8.12.2026 r., godz. 10:00 (decyduje data wpływu).",
+      "voivodeships": [
+        "podkarpackie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 409200,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-08",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://korczyna.bip.gov.pl/articles/view/1427621",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "seniorzy (osoby w wieku emerytalnym)",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "seniorzy",
+        "osoby z niepełnosprawnościami",
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01–31.12.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie nr 430/2026 z 16.11.2026; rozstrzygnięcie do 18.12.2026.",
+      "voivodeship": [
+        "podkarpackie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Korczyna"
+        }
+      ]
+    },
+    {
       "id": "g_059100d8f2604440",
       "title": "Krobia: usługi opiekuńcze dla mieszkańców 2027",
       "funder": "Burmistrz Krobi",
@@ -10639,6 +12988,74 @@
         {
           "type": "gmina",
           "name": "Bielsko-Biała"
+        }
+      ]
+    },
+    {
+      "id": "g_a5a7c81f2d0fd086",
+      "title": "Polkowice 2027: 9 zadań – pracownia ceramiczna, uzależnienia, rehabilitacja, rodziny, harcerstwo, muzyka, historia",
+      "funder": "Burmistrz Polkowic",
+      "source": "Urząd Gminy Polkowice",
+      "description": "Zbiorczy konkurs na 2027 r. obejmuje m.in.: terapeutyczno-integracyjną pracownię ceramiczną (250 tys. zł), pomoc osobom uzależnionym i ich rodzinom (47 tys. zł), rehabilitację osób z niepełnosprawnościami (350 tys. zł), wsparcie osób z chorobami przewlekłymi (25 tys. zł), klub samopomocy (71 tys. zł), poradnictwo dla rodzin w kryzysie (100 tys. zł), działalność harcerską (20 tys. zł), edukację muzyczną dzieci (40 tys. zł) i edukację historyczną (35 tys. zł). Przy wsparciu wymagany wkład osobowy lub rzeczowy (zastępowalny finansowym); przy powierzeniu wkład nie jest wymagany. Oferty w kancelarii urzędu do 8.12.2026 r., godz. 17:00.",
+      "voivodeships": [
+        "dolnoslaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 938000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-08",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://polkowice.eu/ogloszenia/otwarty-konkurs-ofert-z-dnia-17-11-2026-r-na-realizacje-zadan-publicznych-w-roku-2027/",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "osoby niepełnosprawne",
+        "przeciwdziałanie uzależnieniom i patologiom",
+        "rodzina i prawa dziecka",
+        "kultura, sztuka, dziedzictwo narodowe",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami",
+        "rodziny",
+        "dzieci i młodzież",
+        "osoby uzależnione i zagrożone uzależnieniem"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "ogłoszenie z 17.11.2026 (PDF do odczytu); suma kwot 9 zadań",
+      "voivodeship": [
+        "dolnoslaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Polkowice"
         }
       ]
     },
@@ -11411,6 +13828,68 @@
       ]
     },
     {
+      "id": "g_d559a45640e3ede9",
+      "title": "Pruszcz Gdański: aktywność seniorów i uniwersytety III wieku (ogłoszenie nr 3)",
+      "funder": "Burmistrz Pruszcza Gdańskiego",
+      "source": "Urząd Miasta Pruszcza Gdańskiego",
+      "description": "Wsparcie działań zachęcających osoby w wieku emerytalnym do aktywnego spędzania czasu wolnego i udziału w życiu społecznym, w tym działalności uniwersytetów trzeciego wieku w Pruszczu Gdańskim. Oferty do 8.12.2026 r., godz. 15:30. Kwota i szczegółowe warunki w załączniku PDF do ogłoszenia w BIP.",
+      "voivodeships": [
+        "pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": null,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-08",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.pruszcz-gdanski.pl/otwarty-konkurs-ofert/15083/ogloszenie-otwartego-konkursu-ofert",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "seniorzy (osoby w wieku emerytalnym)",
+        "nauka, edukacja, oświata i wychowanie"
+      ],
+      "target_groups": [
+        "seniorzy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": null,
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Ogłoszenie z 17.11.2026; załącznik PDF niedostępny z naszego łącza (błąd certyfikatu SSL serwera BIP), kwota nieustalona.",
+      "voivodeship": [
+        "pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Pruszcz Gdański"
+        }
+      ]
+    },
+    {
       "id": "g_382bbc8812a3f174",
       "title": "Pruszcz Gdański: profilaktyka uzależnień – zadania zdrowia publicznego 2027",
       "funder": "Burmistrz Pruszcza Gdańskiego",
@@ -11470,6 +13949,132 @@
         {
           "type": "gmina",
           "name": "Pruszcz Gdański"
+        }
+      ]
+    },
+    {
+      "id": "g_7953caa68d0bdae7",
+      "title": "Pruszcz Gdański: specjalistyczne usługi opiekuńcze dla osób z autyzmem (ogłoszenie nr 2)",
+      "funder": "Burmistrz Pruszcza Gdańskiego",
+      "source": "Urząd Miasta Pruszcza Gdańskiego",
+      "description": "Świadczenie w miejscu zamieszkania specjalistycznych usług opiekuńczych dla mieszkańców Pruszcza Gdańskiego z zaburzeniami psychicznymi, dostosowanych do potrzeb osób ze spektrum autyzmu. Konkurs z zakresu pomocy społecznej. Oferty do 8.12.2026 r., godz. 15:30. Kwota i szczegółowe warunki w załączniku PDF do ogłoszenia w BIP.",
+      "voivodeships": [
+        "pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": null,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-08",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.pruszcz-gdanski.pl/otwarty-konkurs-ofert/15082/ogloszenie-otwartego-konkursu-ofert",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami",
+        "rodziny"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": null,
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Ogłoszenie z 17.11.2026; załącznik PDF niedostępny z naszego łącza (błąd certyfikatu SSL serwera BIP), kwota nieustalona.",
+      "voivodeship": [
+        "pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Pruszcz Gdański"
+        }
+      ]
+    },
+    {
+      "id": "g_0a9d79c6d524c8f6",
+      "title": "Puławy: placówka wsparcia dziennego typu opiekuńczego w 2027 r.",
+      "funder": "Prezydent Miasta Puławy",
+      "source": "Urząd Miasta Puławy",
+      "description": "Dotacja na prowadzenie placówki wsparcia dziennego w formie opiekuńczej dla dzieci, czynnej co najmniej 4 godziny dziennie. Oferent wnosi wkład rzeczowy lub osobowy, który można zastąpić środkami finansowymi. Oferta w generatorze wskazanym w ogłoszeniu do 8.12.2026 r. (godz. 10:00), a wersja papierowa do urzędu do 8.12.2026 r. (godz. 12:00).",
+      "voivodeships": [
+        "lubelskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 100000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-08",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.pulawy.eu/pl/organizacje-pozarzadowe/otwarte-konkursy-ofert/otwarty-konkurs-ofert-na-realizacje-zadania-publicznego-o-charakterze-pozytku-publicznego-z-zakresu-wspierania-rodziny-i-systemu-pieczy-zastepczej-w-2027-roku-ogloszenie.html",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "wspieranie rodziny i piecza zastępcza",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "rodziny"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": true,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie A/204/2026 z 16.11.2026",
+      "voivodeship": [
+        "lubelskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Puławy"
         }
       ]
     },
@@ -12586,6 +15191,138 @@
       ]
     },
     {
+      "id": "g_529eb42fec91467b",
+      "title": "Świętochłowice: Program Aktywności Lokalnej dla mieszkańców Lipin i Chropaczowa w 2027 r.",
+      "funder": "Dyrektor Ośrodka Pomocy Społecznej w Świętochłowicach",
+      "source": "Ośrodek Pomocy Społecznej w Świętochłowicach",
+      "description": "Prowadzenie Programu Aktywności Lokalnej dla dorosłych mieszkańców dzielnic Lipiny i Chropaczów, czyli działań integrujących i aktywizujących społeczność lokalną. Przy powierzeniu wkład własny nie jest obowiązkowy. Oferty do 8.12.2026 r.",
+      "voivodeships": [
+        "slaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 40000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-08",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.ops-sw.4bip.pl/index.php?id=414&idg=5&x=26&y=99",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "rozwój wspólnot i społeczności lokalnych",
+        "integracja osób zagrożonych wykluczeniem"
+      ],
+      "target_groups": [
+        "społeczności lokalne",
+        "osoby zagrożone wykluczeniem społecznym"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "Zarządzenie 63/2026 z 12.11.2026",
+      "voivodeship": [
+        "slaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Świętochłowice"
+        }
+      ]
+    },
+    {
+      "id": "g_78731aead2c904d3",
+      "title": "Świętochłowice: Świetlica Środowiskowa „Promyk” dla dzieci z Lipin i Chropaczowa w 2027 r.",
+      "funder": "Dyrektor Ośrodka Pomocy Społecznej w Świętochłowicach",
+      "source": "Ośrodek Pomocy Społecznej w Świętochłowicach",
+      "description": "Prowadzenie placówki wsparcia dziennego w formie opiekuńczej dla dzieci i młodzieży z dzielnic Lipiny i Chropaczów. Przy powierzeniu wkład własny nie jest obowiązkowy. Oferty do 8.12.2026 r.",
+      "voivodeships": [
+        "slaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 80000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-08",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.ops-sw.4bip.pl/index.php?id=414&idg=5&x=26&y=99",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "wspieranie rodziny i piecza zastępcza",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "rodziny"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "Zarządzenie 62/2026 z 12.11.2026",
+      "voivodeship": [
+        "slaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Świętochłowice"
+        }
+      ]
+    },
+    {
       "id": "g_c09d4f01b75eea82",
       "title": "„Razem w Bielsku-Białej” – centrum aktywności i wsparcia dla młodzieży (2027)",
       "funder": "Miasto Bielsko-Biała",
@@ -13224,6 +15961,68 @@
         {
           "type": "gmina",
           "name": "Poznań"
+        }
+      ]
+    },
+    {
+      "id": "g_14edc4c9d9b4a101",
+      "title": "Dąbrowa Tarnowska: prowadzenie Dziennego Domu „Senior+” w 2027 r.",
+      "funder": "Burmistrz Dąbrowy Tarnowskiej",
+      "source": "Urząd Miejski w Dąbrowie Tarnowskiej",
+      "description": "Dotacja na prowadzenie dziennego domu dla 20 seniorów z gminy. Program obejmuje zajęcia edukacyjne, kulturalne i rekreacyjne oraz wycieczki. Oferty na dziennik podawczy urzędu do 9.12.2026 r. w godzinach pracy.",
+      "voivodeships": [
+        "malopolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 390483,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-09",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://dabrowatar.pl/ogloszenie-o-otwartym-konkursie-ofert-na-realizacje-zadania-publicznego-z-zakresu-pomocy-spolecznej-prowadzenie-dziennego-domu-senior-w-2027-roku/",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "seniorzy (osoby w wieku emerytalnym)",
+        "pomoc społeczna"
+      ],
+      "target_groups": [
+        "seniorzy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie 330.879.2026 z 16.11.2026; wsparcie",
+      "voivodeship": [
+        "malopolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Dąbrowa Tarnowska"
         }
       ]
     },
@@ -15415,6 +18214,72 @@
       ]
     },
     {
+      "id": "g_ba130977bd5d213b",
+      "title": "Powiat czarnkowsko-trzcianecki: prowadzenie placówki opiekuńczo-wychowawczej w Trzciance dla 14 dzieci (2027–2031)",
+      "funder": "Zarząd Powiatu Czarnkowsko-Trzcianeckiego",
+      "source": "Starostwo Powiatowe w Czarnkowie",
+      "description": "Konkurs na powierzenie prowadzenia przez pięć lat (2027–2031) placówki opiekuńczo-wychowawczej typu socjalizacyjnego w Trzciance dla 14 dzieci w pieczy zastępczej. Łączna kwota to 5 618 225 zł (1 123 645 zł rocznie); dotacja jest wypłacana co miesiąc według liczby dzieci w placówce. Mogą startować organizacje pozarządowe działające w obszarze wspierania rodziny i pieczy zastępczej oraz kościelne osoby prawne. Do oferty trzeba dołączyć m.in. koncepcję funkcjonowania placówki. Oferty do 9.12.2026 r., godz. 15:00, w PCPR w Trzciance (ul. Mickiewicza 50).",
+      "voivodeships": [
+        "wielkopolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "kościelne osoby prawne i jednostki organizacyjne"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 5618225,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-09",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.czarnkowsko-trzcianecki.pl/artykul/21/10199/ogloszenia-otwartego-konkursu-ofert-na-realizacje-zadania-publicznego",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "wspieranie rodziny i piecza zastępcza",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "rodziny"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2031",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "Uchwała nr 460/2026 Zarządu Powiatu z 18.11.2026; kwota na 2027 r.: 1 123 645 zł; wyniki do 23.12.2026.",
+      "voivodeship": [
+        "wielkopolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "czarnkowsko-trzcianecki"
+        }
+      ]
+    },
+    {
       "id": "g_60527c6131c90ebb",
       "title": "Powiat działdowski: Ośrodek Interwencji Kryzysowej z 6 miejscami noclegowymi (2027–2031)",
       "funder": "Zarząd Powiatu Działdowskiego",
@@ -16563,6 +19428,387 @@
         {
           "type": "gmina",
           "name": "Starachowice"
+        }
+      ]
+    },
+    {
+      "id": "g_cd842b23c9f6204d",
+      "title": "Szamotuły: ekologia i ochrona zwierząt 2027 (obszar F)",
+      "funder": "Burmistrz Miasta i Gminy Szamotuły",
+      "source": "Urząd Miasta i Gminy Szamotuły (BIP)",
+      "description": "Edukacja ekologiczna i zrównoważony rozwój, ochrona siedlisk i terenów zielonych, inicjatywy „zero waste”, edukacja o ochronie przyrody i opiece nad zwierzętami oraz sterylizacja/kastracja i opieka nad zwierzętami ze schroniska. Oferty w generatorze wskazanym w ogłoszeniu, a podpisany wydruk z potwierdzeniem (lub wersja z podpisem elektronicznym) do 9.12.2026 r. do godz. 15:30. Realizacja w 2027 r.; przy wsparciu wymagany wkład rzeczowy lub osobowy (może być zastąpiony środkami finansowymi).",
+      "voivodeships": [
+        "wielkopolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 190000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-09",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "srodowisko"
+      ],
+      "source_url": "https://bip.szamotuly.pl/e,pobierz,get.html?id=52661",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "ekologia i ochrona zwierząt"
+      ],
+      "target_groups": [
+        "ogół mieszkańców"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027-01-01 – 2027-12-31",
+      "own_contribution_required": true,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie Burmistrza Miasta i Gminy Szamotuły z 18.11.2026 r. (ogłoszenie A – zarządzenie nr 624/IX/2026); konkursy obszarów A, C, D, E, F ogłoszone razem w BIP.",
+      "voivodeship": [
+        "wielkopolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Szamotuły"
+        }
+      ]
+    },
+    {
+      "id": "g_325afd8f4f8efd57",
+      "title": "Szamotuły: oświata i kultura 2027 (obszar A)",
+      "funder": "Burmistrz Miasta i Gminy Szamotuły",
+      "source": "Urząd Miasta i Gminy Szamotuły (BIP)",
+      "description": "Wsparcie lub powierzenie zadań z oświaty i kultury w gminie Szamotuły: podtrzymywanie tradycji narodowych i lokalnych, koncerty, przeglądy, konkursy i wystawy promujące lokalne talenty oraz działania dla uzdolnionych dzieci i młodzieży. Oferty w generatorze wskazanym w ogłoszeniu, a podpisany wydruk z potwierdzeniem (lub wersja z podpisem elektronicznym) do 9.12.2026 r. do godz. 15:30. Realizacja w 2027 r.; przy wsparciu wymagany wkład rzeczowy lub osobowy (może być zastąpiony środkami finansowymi).",
+      "voivodeships": [
+        "wielkopolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 50000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-09",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "kultura"
+      ],
+      "source_url": "https://bip.szamotuly.pl/e,pobierz,get.html?id=52657",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "kultura, sztuka, dziedzictwo narodowe",
+        "tradycja narodowa i świadomość obywatelska",
+        "nauka, edukacja, oświata i wychowanie"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "twórcy i artyści",
+        "ogół mieszkańców"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027-01-01 – 2027-12-31",
+      "own_contribution_required": true,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie Burmistrza Miasta i Gminy Szamotuły z 18.11.2026 r. (ogłoszenie A – zarządzenie nr 624/IX/2026); konkursy obszarów A, C, D, E, F ogłoszone razem w BIP.",
+      "voivodeship": [
+        "wielkopolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Szamotuły"
+        }
+      ]
+    },
+    {
+      "id": "g_28cd3766ed5d837c",
+      "title": "Szamotuły: pomoc społeczna i integracja 2027 (obszar D)",
+      "funder": "Burmistrz Miasta i Gminy Szamotuły",
+      "source": "Urząd Miasta i Gminy Szamotuły (BIP)",
+      "description": "Pomoc rzeczowa i usługowa dla osób potrzebujących, integracja osób starszych i z niepełnosprawnościami, edukacja zapobiegająca patologiom, reintegracja zawodowa osób zagrożonych wykluczeniem oraz aktywne i zdrowe starzenie się. Oferty w generatorze wskazanym w ogłoszeniu, a podpisany wydruk z potwierdzeniem (lub wersja z podpisem elektronicznym) do 9.12.2026 r. do godz. 15:30. Realizacja w 2027 r.; przy wsparciu wymagany wkład rzeczowy lub osobowy (może być zastąpiony środkami finansowymi).",
+      "voivodeships": [
+        "wielkopolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 100000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-09",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.szamotuly.pl/e,pobierz,get.html?id=52659",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "integracja osób zagrożonych wykluczeniem",
+        "seniorzy (osoby w wieku emerytalnym)"
+      ],
+      "target_groups": [
+        "seniorzy",
+        "osoby z niepełnosprawnościami",
+        "osoby zagrożone wykluczeniem społecznym"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027-01-01 – 2027-12-31",
+      "own_contribution_required": true,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie Burmistrza Miasta i Gminy Szamotuły z 18.11.2026 r. (ogłoszenie A – zarządzenie nr 624/IX/2026); konkursy obszarów A, C, D, E, F ogłoszone razem w BIP.",
+      "voivodeship": [
+        "wielkopolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Szamotuły"
+        }
+      ]
+    },
+    {
+      "id": "g_c3bcd1bcd44f1857",
+      "title": "Szamotuły: profilaktyka uzależnień i ochrona zdrowia 2027 (obszar E)",
+      "funder": "Burmistrz Miasta i Gminy Szamotuły",
+      "source": "Urząd Miasta i Gminy Szamotuły (BIP)",
+      "description": "Profilaktyka alkoholowa i narkotykowa oraz przeciwdziałanie przemocy (m.in. impreza propagująca trzeźwość – 6 500 zł, wypoczynek dla dzieci z rodzin z problemem uzależnień – 50 000 zł, pozalekcyjne zajęcia sportowe – 10 000 zł) oraz wsparcie osób dotkniętych utratą zdrowia, profilaktyka i promocja zdrowia, opieka hospicyjna w domu, zdrowie psychiczne seniorów – 50 000 zł. Oferty w generatorze wskazanym w ogłoszeniu, a podpisany wydruk z potwierdzeniem (lub wersja z podpisem elektronicznym) do 9.12.2026 r. do godz. 15:30. Realizacja w 2027 r.; przy wsparciu wymagany wkład rzeczowy lub osobowy (może być zastąpiony środkami finansowymi).",
+      "voivodeships": [
+        "wielkopolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 116500,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-09",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.szamotuly.pl/e,pobierz,get.html?id=52660",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "przeciwdziałanie uzależnieniom i patologiom",
+        "ochrona i promocja zdrowia"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "osoby uzależnione i zagrożone uzależnieniem",
+        "seniorzy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027-01-01 – 2027-12-31",
+      "own_contribution_required": true,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie Burmistrza Miasta i Gminy Szamotuły z 18.11.2026 r. (ogłoszenie A – zarządzenie nr 624/IX/2026); konkursy obszarów A, C, D, E, F ogłoszone razem w BIP.",
+      "voivodeship": [
+        "wielkopolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Szamotuły"
+        }
+      ]
+    },
+    {
+      "id": "g_bf8e6a67e6c0ea2b",
+      "title": "Szamotuły: turystyka i wypoczynek 2027 (obszar C)",
+      "funder": "Burmistrz Miasta i Gminy Szamotuły",
+      "source": "Urząd Miasta i Gminy Szamotuły (BIP)",
+      "description": "Aktywny wypoczynek, zwłaszcza dzieci i młodzieży (także z niepełnosprawnościami) oraz osób starszych, w tym wędkarstwo (bez szkoleń na obozach sportowych), a także działalność turystyczna i wychowawcza. Oferty w generatorze wskazanym w ogłoszeniu, a podpisany wydruk z potwierdzeniem (lub wersja z podpisem elektronicznym) do 9.12.2026 r. do godz. 15:30. Realizacja w 2027 r.; przy wsparciu wymagany wkład rzeczowy lub osobowy (może być zastąpiony środkami finansowymi).",
+      "voivodeships": [
+        "wielkopolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 37000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-09",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "inne"
+      ],
+      "source_url": "https://bip.szamotuly.pl/e,pobierz,get.html?id=52658",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "turystyka i krajoznawstwo",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "seniorzy",
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027-01-01 – 2027-12-31",
+      "own_contribution_required": true,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie Burmistrza Miasta i Gminy Szamotuły z 18.11.2026 r. (ogłoszenie A – zarządzenie nr 624/IX/2026); konkursy obszarów A, C, D, E, F ogłoszone razem w BIP.",
+      "voivodeship": [
+        "wielkopolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Szamotuły"
+        }
+      ]
+    },
+    {
+      "id": "g_1a87599a8b666043",
+      "title": "Szczecin 2027: prowadzenie placówek socjalizacyjnych dla dzieci (piecza instytucjonalna)",
+      "funder": "Miasto Szczecin",
+      "source": "Urząd Miasta Szczecin – Biuro Współpracy z Organizacjami Pozarządowymi",
+      "description": "Powierzenie całodobowej opieki i wychowania dzieci w placówkach typu socjalizacyjnego. Pula 1 192 000 zł. Oferty do 9.12.2026.",
+      "voivodeships": [
+        "zachodniopomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 1192000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-09",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.um.szczecin.pl/chapter_11257.asp?soid=6C350353C3E44D42BED134EED2D7A6BA",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "wspieranie rodziny i piecza zastępcza",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "01.01.2027–31.12.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "strona ogłoszenia w BIP UM Szczecin + załącznik RTF/DOCX z treścią ogłoszenia (LibreOffice/python-docx) 2026-11-22; nr konkursu BWOP/…/2027/006",
+      "voivodeship": [
+        "zachodniopomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Szczecin"
         }
       ]
     },
@@ -17791,6 +21037,72 @@
       ]
     },
     {
+      "id": "g_23c5cb9e6d76a301",
+      "title": "Kamień Pomorski: prowadzenie Środowiskowego Domu Samopomocy w latach 2027–2029",
+      "funder": "Burmistrz Kamienia Pomorskiego",
+      "source": "Urząd Miejski w Kamieniu Pomorskim",
+      "description": "Powierzenie prowadzenia ŚDS (typ B i O) dla osób z zaburzeniami psychicznymi i niepełnosprawnością intelektualną w latach 2027–2029. Co roku 897 153 zł (dotacja 2 929 zł miesięcznie na uczestnika). Oferty w zamkniętej kopercie do 10.12.2026 r.",
+      "voivodeships": [
+        "zachodniopomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 2691459,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-10",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://kamienpomorski.pl/strona/otwarty-konkurs-ofert-na-powierzenie-realizacji-zadania-publicznego-1",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "osoby niepełnosprawne",
+        "ochrona i promocja zdrowia"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027-2029",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "Zarządzenie 170/2026 z 18.11.2026; powierzenie",
+      "voivodeship": [
+        "zachodniopomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Kamień Pomorski"
+        }
+      ]
+    },
+    {
       "id": "g_0db4b6dd953f19b5",
       "title": "Klub samopomocy dla dorosłych z zaburzeniami psychicznymi na Bielanach (2027–2028, Warszawa)",
       "funder": "Miasto Stołeczne Warszawa",
@@ -18046,6 +21358,71 @@
         {
           "type": "gmina",
           "name": "Jastrzębie-Zdrój"
+        }
+      ]
+    },
+    {
+      "id": "g_3382892277f90ba6",
+      "title": "Konin: prowadzenie Środowiskowego Domu Samopomocy typu B dla 21 osób w 2027 r.",
+      "funder": "Prezydent Miasta Konina",
+      "source": "Urząd Miejski w Koninie",
+      "description": "Konkurs na powierzenie prowadzenia w 2027 r. środowiskowego domu samopomocy typu B dla 21 osób z niepełnosprawnością intelektualną, w obiekcie spełniającym wymagania sanitarne, architektoniczne i bezpieczeństwa. Planowana dotacja to 906 819 zł, w tym 168 711 zł na podwyższoną stawkę dla uczestników z niepełnosprawnościami sprzężonymi. Oferent musi opisać, jak zapewni dostępność. Oferty do 10.12.2026 r., godz. 15:30 (liczy się data wpływu); wybór oferty do 31.12.2026 r.",
+      "voivodeships": [
+        "wielkopolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 906819,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-10",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.konin.pl/index.php/jeden-news-1432/otwarty-konkurs-ofert-na-powierzenie-realizacji-zadania-publicznego-w-2027-r-z-zakresu-pomocy-spolecznej-prowadzenie-sds-typu-b.html",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01–31.12.2027",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "Ogłoszenie konkursowe w formie skanu PDF (odczytane OCR).",
+      "voivodeship": [
+        "wielkopolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Konin"
         }
       ]
     },
@@ -19903,6 +23280,72 @@
       ]
     },
     {
+      "id": "g_e59c630cb0d9133f",
+      "title": "Zagórz: usługi opiekuńcze w miejscu zamieszkania w 2027 r.",
+      "funder": "Dyrektor Miejsko-Gminnego Ośrodka Pomocy Społecznej w Zagórzu",
+      "source": "MGOPS w Zagórzu",
+      "description": "Powierzenie świadczenia usług opiekuńczych w domach mieszkańców gminy przez cały 2027 r. (szacunkowo ok. 5 150 godzin). Oferty pisemnie w zamkniętej kopercie do 10.12.2026 r.; liczy się data złożenia w urzędzie.",
+      "voivodeships": [
+        "podkarpackie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 233000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-10",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.zagorz.pl/artykul/ogloszenie-o-otwartym-konkursie-ofert-na-realizacje-uslug-opiekunczych-w-roku-2027",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "seniorzy (osoby w wieku emerytalnym)"
+      ],
+      "target_groups": [
+        "seniorzy",
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "ogłoszenie z 19.11.2026 (PDF attachments/1044); powierzenie",
+      "voivodeship": [
+        "podkarpackie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Zagórz"
+        }
+      ]
+    },
+    {
       "id": "g_d96999378c48f04a",
       "title": "Zajęcia sportowe dla mieszkańców Białegostoku w 2027 r.",
       "funder": "Miasto Białystok",
@@ -20917,6 +24360,73 @@
       ]
     },
     {
+      "id": "g_29212a7cda573a89",
+      "title": "Gmina Tarnowiec: usługi opiekuńcze i specjalistyczne w 2027 r.",
+      "funder": "Wójt Gminy Tarnowiec",
+      "source": "Urząd Gminy Tarnowiec / GOPS w Tarnowcu",
+      "description": "Powierzenie świadczenia usług opiekuńczych i specjalistycznych usług opiekuńczych, także dla osób z zaburzeniami psychicznymi, w miejscu zamieszkania mieszkańców gminy, którzy potrzebują pomocy z powodu wieku lub choroby. Okres: 1.01–31.12.2027. Oferty osobiście lub pocztą do 11.12.2026 r., godz. 12:00.",
+      "voivodeships": [
+        "podkarpackie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 260000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-11",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.tarnowiec.eu/aktualnosc-4482-otwarty_konkurs_ofert_na_realizacje.html",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "seniorzy (osoby w wieku emerytalnym)",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "seniorzy",
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "Zarządzenie 106/2026 z 17.11.2026; powierzenie",
+      "voivodeship": [
+        "podkarpackie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Tarnowiec"
+        }
+      ]
+    },
+    {
       "id": "g_95b37e4e00d671e1",
       "title": "Hajnówka: Miejsce Aktywności Lokalnej dla seniorów 2027",
       "funder": "Burmistrz Miasta Hajnówka",
@@ -21632,6 +25142,132 @@
       ]
     },
     {
+      "id": "g_a29fcd8a44d741df",
+      "title": "Kościerzyna: specjalistyczne usługi opiekuńcze dla osób z zaburzeniami psychicznymi (2027)",
+      "funder": "Burmistrz Miasta Kościerzyna",
+      "source": "Urząd Miasta Kościerzyna / Miejski Ośrodek Pomocy Społecznej w Kościerzynie",
+      "description": "Konkurs na świadczenie w 2027 r. specjalistycznych usług opiekuńczych dla osób z zaburzeniami psychicznymi w ich miejscu zamieszkania (ok. 3 100 godzin), przez osoby z odpowiednimi kwalifikacjami i doświadczeniem. Planowana kwota to 350 000 zł. Oferty w formie papierowej składa się w MOPS w Kościerzynie (ul. Brzechwy 5) osobiście lub pocztą – liczy się data wpływu; termin: 11.12.2026, godz. 9:00.",
+      "voivodeships": [
+        "pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 350000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-11",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.koscierzyna.gda.pl/?bip=2&cid=534&id=1976",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "osoby niepełnosprawne",
+        "ochrona i promocja zdrowia"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01–31.12.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie nr 0050.190.2026 z 18.11.2026; wybór ofert do 31.12.2026.",
+      "voivodeship": [
+        "pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Kościerzyna"
+        }
+      ]
+    },
+    {
+      "id": "g_ec236a3aa583edae",
+      "title": "Kościerzyna: usługi opiekuńcze w miejscu zamieszkania w 2027 r.",
+      "funder": "Burmistrz Miasta Kościerzyna",
+      "source": "Urząd Miasta Kościerzyna / Miejski Ośrodek Pomocy Społecznej w Kościerzynie",
+      "description": "Konkurs na świadczenie w 2027 r. usług opiekuńczych w domach mieszkańców Kościerzyny, którzy z powodu wieku, choroby lub niepełnosprawności potrzebują pomocy (ok. 28 000 godzin). Planowana kwota to 1 700 000 zł, wypłacana w miesięcznych transzach za faktycznie wykonane usługi. Oferty w formie papierowej składa się w MOPS w Kościerzynie (ul. Brzechwy 5) osobiście lub pocztą – liczy się data wpływu; termin: 11.12.2026, godz. 9:00.",
+      "voivodeships": [
+        "pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 1700000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-11",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.koscierzyna.gda.pl/?bip=2&cid=534&id=1975",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "seniorzy (osoby w wieku emerytalnym)"
+      ],
+      "target_groups": [
+        "seniorzy",
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01–31.12.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie nr 0050.192.2026 z 18.11.2026.",
+      "voivodeship": [
+        "pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Kościerzyna"
+        }
+      ]
+    },
+    {
       "id": "g_c7c12243fa60aa4f",
       "title": "Kultura, sztuka i dziedzictwo w Białymstoku – konkurs na zadania 2027",
       "funder": "Miasto Białystok",
@@ -21690,6 +25326,73 @@
         {
           "type": "gmina",
           "name": "Białystok"
+        }
+      ]
+    },
+    {
+      "id": "g_32486599584f2f57",
+      "title": "Kłodzko: profilaktyka uzależnień przez zajęcia sportowe i zdrowy styl życia w 2027 r.",
+      "funder": "Burmistrz Miasta Kłodzka",
+      "source": "Urząd Miasta w Kłodzku",
+      "description": "Dotacja na całoroczny program profilaktyczny łączący zajęcia sportowe z profilaktyką uzależnień i promocją zdrowego stylu życia dla mieszkańców Kłodzka. Wymagany wkład własny 10% (finansowy, osobowy lub rzeczowy). Oferty osobiście lub pocztą do 11.12.2026 r. (liczy się data wpływu).",
+      "voivodeships": [
+        "dolnoslaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 100000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-11",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://um.bip.klodzko.pl/index.php?akcja=info&id=17876&menu=390&n=i",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "przeciwdziałanie uzależnieniom i patologiom",
+        "kultura fizyczna i sport",
+        "ochrona i promocja zdrowia"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "osoby uzależnione i zagrożone uzależnieniem"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 10
+      },
+      "extraction_notes": "Zarządzenie 272.0050.2026 z 16.11.2026",
+      "voivodeship": [
+        "dolnoslaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Kłodzko"
         }
       ]
     },
@@ -21949,6 +25652,69 @@
         {
           "type": "gmina",
           "name": "Szczecin"
+        }
+      ]
+    },
+    {
+      "id": "g_fdf3a12f8e0ef55e",
+      "title": "Powiat dąbrowski: specjalistyczna placówka wsparcia dziennego dla 25 dzieci w 2027 r.",
+      "funder": "Zarząd Powiatu Dąbrowskiego",
+      "source": "Starostwo Powiatowe w Dąbrowie Tarnowskiej",
+      "description": "Dotacja na prowadzenie ponadgminnej placówki wsparcia dziennego w formie specjalistycznej dla 25 dzieci z powiatu (625 zł miesięcznie na uczestnika). Oferent musi zapewnić wkład rzeczowy lub osobowy, który można zastąpić środkami finansowymi. Oferty w zamkniętych kopertach do 11.12.2026 r., godz. 15:00.",
+      "voivodeships": [
+        "malopolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 187500,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-11",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://samorzad.gov.pl/web/powiat-dabrowski/ogloszenie---otwarty-konkurs-ofert",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "wspieranie rodziny i piecza zastępcza",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "rodziny"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": true,
+      "min_own_contribution": null,
+      "extraction_notes": "Uchwała 671/2026 z 19.11.2026; wsparcie",
+      "voivodeship": [
+        "malopolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "powiatowy",
+      "locality": [
+        {
+          "type": "powiat",
+          "name": "dąbrowski"
         }
       ]
     },
@@ -24752,6 +28518,73 @@
       ]
     },
     {
+      "id": "g_254fce7fa343c2b0",
+      "title": "Knurów: usługi opiekuńcze i specjalistyczne usługi opiekuńcze w 2027 r.",
+      "funder": "Prezydent Miasta Knurów",
+      "source": "Urząd Miasta Knurów / MOPS w Knurowie",
+      "description": "Powierzenie świadczenia usług opiekuńczych i specjalistycznych usług opiekuńczych (bez usług dla osób z zaburzeniami psychicznymi) w domach mieszkańców Knurowa przez cały 2027 r., szacunkowo do 6 326 godzin. Oferty w sekretariacie MOPS do 14.12.2026 r., godz. 15:30.",
+      "voivodeships": [
+        "slaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 310000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.knurow.pl/miasto-knurow/ogloszenia-urzedu/Ogloszenie/idn:6945",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "seniorzy (osoby w wieku emerytalnym)",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "seniorzy",
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "ogłoszenie z 19.11.2026; powierzenie",
+      "voivodeship": [
+        "slaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Knurów"
+        }
+      ]
+    },
+    {
       "id": "g_604bdbdc0f136219",
       "title": "Kórnik: aktywność i integracja seniorów 2027",
       "funder": "Burmistrz Miasta i Gminy Kórnik",
@@ -25334,6 +29167,507 @@
       ]
     },
     {
+      "id": "g_730d7edf739d1260",
+      "title": "Liniewo: pomoc społeczna 2027 – ŚDS w Lubieszynie, dowóz uczestników i rehabilitacja dzieci (3 zadania)",
+      "funder": "Wójt Gminy Liniewo",
+      "source": "Urząd Gminy Liniewo",
+      "description": "Trzy zadania na 2027 r.: prowadzenie usług w Środowiskowym Domu Samopomocy w Lubieszynie dla 31 osób z zaburzeniami psychicznymi (1 205 576 zł), dowóz ok. 18 uczestników do ŚDS (50 000 zł) oraz wieloprofilowa rehabilitacja dzieci i młodzieży dla ok. 10 rodzin (27 000 zł). Wymagane min. 3 lata doświadczenia w danym rodzaju usług. Oferty papierowe do 14.12.2026 r.",
+      "voivodeships": [
+        "pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 1282576,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.liniewo.pl/wp-content/uploads/2026/11/ogloszenie.pdf",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "osoby niepełnosprawne",
+        "ochrona i promocja zdrowia"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami",
+        "rodziny",
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Odrębna oferta na każde zadanie; składanie osobiście lub pocztą.",
+      "voivodeship": [
+        "pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Liniewo"
+        }
+      ]
+    },
+    {
+      "id": "g_bdb64147cec2df07",
+      "title": "Oleśnica: bezpłatne przedstawienia variete cyrkowego w 2027 r. (Oleśnicki Budżet Obywatelski)",
+      "funder": "Burmistrz Miasta Oleśnicy",
+      "source": "Urząd Miasta Oleśnicy – pożytek publiczny",
+      "description": "Realizacja bezpłatnych przedstawień variete cyrkowego na scenie w Oleśnicy, zgodnie z projektem wybranym w Oleśnickim Budżecie Obywatelskim. Z dotacji m.in. honoraria artystów, ZAiKS, obsługa techniczna, sprzątanie i ochrona, wyżywienie i noclegi artystów. Ofertę wypełnia się w generatorze wskazanym w ogłoszeniu, a wydruk składa w Punkcie Informacyjnym Urzędu Miasta Oleśnicy do 14.12.2026 r. do godz. 16:00 (liczy się data wpływu); rozpatrywane są tylko oferty złożone w obu formach.",
+      "voivodeships": [
+        "dolnoslaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 90000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "kultura"
+      ],
+      "source_url": "https://www.olesnica.pl/urzad/pozytek-publiczny/Ogloszenie-o-konkursie-Variete-cyrkowe-realizacja-bezplatnych-przedstawien-w-przestrzeni-scenicznej-projekt-OBO/idn:3289",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "kultura, sztuka, dziedzictwo narodowe"
+      ],
+      "target_groups": [
+        "ogół mieszkańców",
+        "twórcy i artyści"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027 (od podpisania umowy, najpóźniej do 31.12.2027)",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Ogłoszenie Burmistrza Miasta Oleśnicy z 20.11.2026 r. (plik DOC/PDF przy ogłoszeniu).",
+      "voivodeship": [
+        "dolnoslaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Oleśnica"
+        }
+      ]
+    },
+    {
+      "id": "g_a304f0dbaedc9b69",
+      "title": "Oleśnica: pozaszkolne zajęcia sportowe i sportowa profilaktyka uzależnień dla dzieci w 2027 r.",
+      "funder": "Burmistrz Miasta Oleśnicy",
+      "source": "Urząd Miasta Oleśnicy – pożytek publiczny",
+      "description": "Dwa obszary: (I) pozaszkolne zajęcia sportowe dla dzieci i młodzieży – 590 000 zł; (II) profilaktyka uzależnień w formie pozalekcyjnych zajęć sportowych oraz imprezy lekkoatletyczne na stadionie przy ul. Brzozowej – 305 000 zł. Zajęcia powinny odbywać się po lekcjach lub w dni wolne, a oferty profilaktyczne muszą zawierać treści wychowawcze. Forma powierzenia lub wsparcia. Ofertę wypełnia się w generatorze wskazanym w ogłoszeniu, a wydruk składa w Punkcie Informacyjnym Urzędu Miasta Oleśnicy do 14.12.2026 r. do godz. 16:00 (liczy się data wpływu); rozpatrywane są tylko oferty złożone w obu formach.",
+      "voivodeships": [
+        "dolnoslaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 895000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://www.olesnica.pl/urzad/pozytek-publiczny/Ogloszenie-o-konkursie/idn:3283",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "kultura fizyczna i sport",
+        "przeciwdziałanie uzależnieniom i patologiom",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027 (od podpisania umowy, najpóźniej do 31.12.2027)",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Ogłoszenie Burmistrza Miasta Oleśnicy z 20.11.2026 r. (plik DOC/PDF przy ogłoszeniu).",
+      "voivodeship": [
+        "dolnoslaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Oleśnica"
+        }
+      ]
+    },
+    {
+      "id": "g_7ca609de0bd1e353",
+      "title": "Oleśnica: przeciwdziałanie bezdomności zwierząt przez adopcję w 2027 r.",
+      "funder": "Burmistrz Miasta Oleśnicy",
+      "source": "Urząd Miasta Oleśnicy – pożytek publiczny",
+      "description": "Działania na rzecz adopcji zwierząt wyłapanych i będących pod opieką Gminy Miasta Oleśnicy: żywienie, pielęgnacja, weterynaria, ocena behawioralna, zdjęcia, transport, promocja i sterylizacja. Forma powierzenia lub wsparcia. Ofertę wypełnia się w generatorze wskazanym w ogłoszeniu, a wydruk składa w Punkcie Informacyjnym Urzędu Miasta Oleśnicy do 14.12.2026 r. do godz. 16:00 (liczy się data wpływu); rozpatrywane są tylko oferty złożone w obu formach.",
+      "voivodeships": [
+        "dolnoslaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 30000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "srodowisko"
+      ],
+      "source_url": "https://www.olesnica.pl/urzad/pozytek-publiczny/Ogloszenie-o-konkursie-Prowadzenie-dzialan-zmierzajacych-do-zapobiegania-bezdomnosci-zwierzat-poprzez-skuteczna-adopcje/idn:3287",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "ekologia i ochrona zwierząt"
+      ],
+      "target_groups": [
+        "ogół mieszkańców"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027 (od podpisania umowy, najpóźniej do 31.12.2027)",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Ogłoszenie Burmistrza Miasta Oleśnicy z 20.11.2026 r. (plik DOC/PDF przy ogłoszeniu).",
+      "voivodeship": [
+        "dolnoslaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Oleśnica"
+        }
+      ]
+    },
+    {
+      "id": "g_71e17fa1224785e3",
+      "title": "Oleśnica: punkt profilaktyczno-konsultacyjny dla osób z problemem narkomanii i ich rodzin w 2027 r.",
+      "funder": "Burmistrz Miasta Oleśnicy",
+      "source": "Urząd Miasta Oleśnicy – pożytek publiczny",
+      "description": "Prowadzenie na terenie Oleśnicy punktu profilaktyczno-konsultacyjnego dla osób z problemem narkotykowym oraz wsparcia terapeutycznego dla ich rodzin. Ofertę wypełnia się w generatorze wskazanym w ogłoszeniu, a wydruk składa w Punkcie Informacyjnym Urzędu Miasta Oleśnicy do 14.12.2026 r. do godz. 16:00 (liczy się data wpływu); rozpatrywane są tylko oferty złożone w obu formach.",
+      "voivodeships": [
+        "dolnoslaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 40000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.olesnica.pl/urzad/pozytek-publiczny/Ogloszenie-o-konkursie-Punkt-Profilaktyczno-konsultacyjny-dla-osob-z-problemem-narkomanii-oraz-wsparcie-terapeutyczne-dla-ich-rodzin/idn:3284",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "przeciwdziałanie uzależnieniom i patologiom",
+        "ochrona i promocja zdrowia"
+      ],
+      "target_groups": [
+        "osoby uzależnione i zagrożone uzależnieniem",
+        "rodziny"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027 (od podpisania umowy, najpóźniej do 31.12.2027)",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Ogłoszenie Burmistrza Miasta Oleśnicy z 20.11.2026 r. (plik DOC/PDF przy ogłoszeniu).",
+      "voivodeship": [
+        "dolnoslaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Oleśnica"
+        }
+      ]
+    },
+    {
+      "id": "g_1b0c34be6aefd066",
+      "title": "Oleśnica: półkolonie zimowe i edukacja obywatelska dzieci i młodzieży w 2027 r.",
+      "funder": "Burmistrz Miasta Oleśnicy",
+      "source": "Urząd Miasta Oleśnicy – pożytek publiczny",
+      "description": "Dwa zadania dla dzieci i młodzieży mieszkających lub uczących się w Oleśnicy: półkolonie w ferie zimowe na terenie miasta (70 000 zł; wypoczynek trzeba zgłosić do kuratorium) oraz działalność edukacyjna kształtująca postawy obywatelskie (22 000 zł, realizacja do 31.12.2027). Forma powierzenia lub wsparcia. Ofertę wypełnia się w generatorze wskazanym w ogłoszeniu, a wydruk składa w Punkcie Informacyjnym Urzędu Miasta Oleśnicy do 14.12.2026 r. do godz. 16:00 (liczy się data wpływu); rozpatrywane są tylko oferty złożone w obu formach.",
+      "voivodeships": [
+        "dolnoslaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 92000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "edukacja"
+      ],
+      "source_url": "https://www.olesnica.pl/urzad/pozytek-publiczny/Ogloszenie-o-konkursie-Zorganizowanie-wypoczynku-zimowego-dla-dzieci-i-mlodziezy-w-formie-polkolonii-na-terenie-miasta/idn:3288",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "dzieci i młodzież",
+        "nauka, edukacja, oświata i wychowanie",
+        "tradycja narodowa i świadomość obywatelska"
+      ],
+      "target_groups": [
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027 (od podpisania umowy, najpóźniej do 31.12.2027)",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Ogłoszenie Burmistrza Miasta Oleśnicy z 20.11.2026 r. (plik DOC/PDF przy ogłoszeniu).",
+      "voivodeship": [
+        "dolnoslaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Oleśnica"
+        }
+      ]
+    },
+    {
+      "id": "g_75dac4bbdf4d2038",
+      "title": "Oleśnica: sterylizacja zwierząt właścicielskich i akcja edukacyjna w 2027 r. (Oleśnicki Budżet Obywatelski)",
+      "funder": "Burmistrz Miasta Oleśnicy",
+      "source": "Urząd Miasta Oleśnicy – pożytek publiczny",
+      "description": "Dofinansowanie sterylizacji zwierząt należących do mieszkańców Oleśnicy (zabiegi na terenie miasta) połączone z akcją edukacyjną o sterylizacji – projekt wybrany w Oleśnickim Budżecie Obywatelskim. Ofertę wypełnia się w generatorze wskazanym w ogłoszeniu, a wydruk składa w Punkcie Informacyjnym Urzędu Miasta Oleśnicy do 14.12.2026 r. do godz. 16:00 (liczy się data wpływu); rozpatrywane są tylko oferty złożone w obu formach.",
+      "voivodeships": [
+        "dolnoslaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 66000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "srodowisko"
+      ],
+      "source_url": "https://www.olesnica.pl/urzad/pozytek-publiczny/Ogloszenie-o-konkursie-Sterylizacja-zwierzat-wlascicielskich-oraz-przeprowadzenie-akcji-edukacyjnej-w-zakresie-sterylizacji-projekt-OBO/idn:3290",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "ekologia i ochrona zwierząt"
+      ],
+      "target_groups": [
+        "ogół mieszkańców"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027 (od podpisania umowy, najpóźniej do 31.12.2027)",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Ogłoszenie Burmistrza Miasta Oleśnicy z 20.11.2026 r. (plik DOC/PDF przy ogłoszeniu).",
+      "voivodeship": [
+        "dolnoslaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Oleśnica"
+        }
+      ]
+    },
+    {
+      "id": "g_ce6702465594eaec",
+      "title": "Oleśnica: szkolenie i udział klubów sportowych w rozgrywkach ligowych w 2027 r.",
+      "funder": "Burmistrz Miasta Oleśnicy",
+      "source": "Urząd Miasta Oleśnicy – pożytek publiczny",
+      "description": "Dotacje celowe dla klubów sportowych z Oleśnicy (niedziałających dla zysku) na szkolenie dzieci, młodzieży i dorosłych oraz udział w rozgrywkach ligowych. Z dotacji można pokryć m.in. wynajem obiektów, stypendia sportowe (do 15% dotacji), zawody, wynagrodzenia trenerów, sędziów, sprzęt, badania lekarskie i księgowość. Dotacja do 80% kosztów – wymagany wkład własny min. 20%. Ofertę wypełnia się w generatorze wskazanym w ogłoszeniu, a wydruk składa w Punkcie Informacyjnym Urzędu Miasta Oleśnicy do 14.12.2026 r. do godz. 16:00 (liczy się data wpływu); rozpatrywane są tylko oferty złożone w obu formach.",
+      "voivodeships": [
+        "dolnoslaskie"
+      ],
+      "recipients": [
+        "stowarzyszenie"
+      ],
+      "other_recipients": [
+        "kluby sportowe"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 590000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://www.olesnica.pl/urzad/pozytek-publiczny/Ogloszenie-o-konkursie/idn:3282",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "kultura fizyczna i sport"
+      ],
+      "target_groups": [
+        "sportowcy",
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027 (od podpisania umowy, najpóźniej do 31.12.2027)",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 20
+      },
+      "extraction_notes": "Ogłoszenie Burmistrza Miasta Oleśnicy z 20.11.2026 r. (plik DOC/PDF przy ogłoszeniu). Tryb dotacji celowych na rozwój sportu (kluby sportowe).; min_own_contribution wyliczony jako 100% - maks. poziom dofinansowania (80%)",
+      "voivodeship": [
+        "dolnoslaskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Oleśnica"
+        }
+      ]
+    },
+    {
       "id": "g_7daa21ac10fe05e7",
       "title": "Powierzenie prowadzenia Centrów Aktywności Seniorów w Krakowie (pełne finansowanie miasta), 2027–2029",
       "funder": "Gmina Miejska Kraków",
@@ -25717,6 +30051,68 @@
         {
           "type": "gmina",
           "name": "Oleśnica"
+        }
+      ]
+    },
+    {
+      "id": "g_fa70108e35fd14dd",
+      "title": "Puławy: szkolenie sportowe, zajęcia dla dzieci, bieg i wypożyczalnia sprzętu w 2027 r.",
+      "funder": "Prezydent Miasta Puławy",
+      "source": "Urząd Miasta Puławy",
+      "description": "Miasto Puławy zleca w 2027 r. zadania z kultury fizycznej: szkolenie zawodników do wieku młodzieżowca w dyscyplinach olimpijskich (m.in. piłka nożna, ręczna, pływanie, lekkoatletyka, podnoszenie ciężarów, sporty walki, kolarstwo, koszykówka, siatkówka, tenis, badminton) i nieolimpijskich (sporty walki, akrobatyka), szkolenie drużyn seniorskich w ligach krajowych, zajęcia sportowe dla dzieci, organizację biegu oraz prowadzenie ogólnodostępnej wypożyczalni sprzętu sportowo-rekreacyjnego. Każde zadanie wymaga osobnej oferty; wymagany wkład rzeczowy lub osobowy. Realizacja 4.01–31.12.2027. Oferty w generatorze wskazanym w ogłoszeniu do 14.12.2026 r. do godz. 10:00, a podpisany wydruk w UM Puławy (ul. Lubelska 5) do 14.12.2026 r. do godz. 12:00.",
+      "voivodeships": [
+        "lubelskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 701000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://www.pulawy.eu/pl/organizacje-pozarzadowe/otwarte-konkursy-ofert/otwarty-konkurs-ofert-na-realizacje-zadan-publicznych-o-charakterze-pozytku-publicznego-z-zakresu-wspierania-i-upowszechniania-kultury-fizycznej-w-2027-roku-ogloszenie.html",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "kultura fizyczna i sport"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "sportowcy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027-01-04 – 2027-12-31",
+      "own_contribution_required": true,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie nr A/209/2026 Prezydenta Miasta Puławy z 20.11.2026 r. Łącznie 701 000 zł (szkolenie olimpijskie 551 000, nieolimpijskie 20 000, ligi seniorskie 40 000, zajęcia dla dzieci 60 000, bieg 10 000, wypożyczalnia 20 000).",
+      "voivodeship": [
+        "lubelskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Puławy"
         }
       ]
     },
@@ -26672,6 +31068,68 @@
       ]
     },
     {
+      "id": "g_ec91158c997a4e45",
+      "title": "Kościerzyna: schronienie dla osób bezdomnych, w tym schronisko z usługami opiekuńczymi (2027)",
+      "funder": "Burmistrz Miasta Kościerzyna",
+      "source": "Urząd Miasta Kościerzyna / Miejski Ośrodek Pomocy Społecznej w Kościerzynie",
+      "description": "Konkurs na zapewnienie w 2027 r. schronienia z wyżywieniem osobom bezdomnym (kobietom i mężczyznom) z Kościerzyny – w schronisku dla osób bezdomnych oraz w schronisku z usługami opiekuńczymi. Zadanie podzielono na dwie części; można złożyć ofertę na jedną lub obie. Łączna kwota na 2027 r. to 580 350 zł, a płatność zależy od faktycznej liczby osób korzystających ze schroniska. Oferty w formie papierowej składa się w MOPS w Kościerzynie (ul. Brzechwy 5) osobiście lub pocztą – liczy się data wpływu; termin: 15.12.2026, godz. 9:00.",
+      "voivodeships": [
+        "pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 580350,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-15",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.koscierzyna.gda.pl/?bip=2&cid=534&id=1974",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "integracja osób zagrożonych wykluczeniem"
+      ],
+      "target_groups": [
+        "osoby w kryzysie bezdomności"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01–31.12.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie nr 0050.194.2026 z 18.11.2026; schroniska muszą spełniać standardy z rozporządzenia z 27.04.2018.",
+      "voivodeship": [
+        "pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Kościerzyna"
+        }
+      ]
+    },
+    {
       "id": "g_2c8ac562f633ac12",
       "title": "Żagań: prowadzenie Klubu Abstynenta w 2027 r.",
       "funder": "Burmistrz Miasta Żagań",
@@ -26866,6 +31324,69 @@
         {
           "type": "gmina",
           "name": "Żagań"
+        }
+      ]
+    },
+    {
+      "id": "g_528d62a4dc3339d0",
+      "title": "Gorzów Wielkopolski: prowadzenie trzech mieszkań treningowych i/lub wspomaganych dla osób z niepełnosprawnością (2027–2029)",
+      "funder": "Prezydent Miasta Gorzowa Wielkopolskiego",
+      "source": "Urząd Miasta Gorzowa Wielkopolskiego",
+      "description": "Konkurs na prowadzenie w latach 2027–2029 trzech mieszkań treningowych lub wspomaganych dla co najmniej 10 dorosłych mieszkańców Gorzowa ze znacznym lub umiarkowanym stopniem niepełnosprawności: dwóch w lokalach miejskich (ul. Armii Polskiej) i jednego we wskazanym przez oferenta. Dotacja ma pokryć kadrę, w tym asystentów, oraz utrzymanie mieszkań. Wymagane co najmniej 3-letnie doświadczenie w prowadzeniu takich mieszkań. Ofertę przygotowuje się w generatorze wskazanym w ogłoszeniu do 16.12.2026 r., godz. 14:00, a wersję papierową z załącznikami składa w Kancelarii Urzędu Miasta (ul. Sikorskiego 4).",
+      "voivodeships": [
+        "lubuskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 315000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-16",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.bip.um.gorzow.pl/268/13111/Otwarty_konkurs_dla_organizacji_pozarzadowych_na_realizacje_zadania_z_zakresu_pomocy_spolecznej__28mieszkania_treningowe_i_2Flub_wspomagane_29/",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "osoby niepełnosprawne",
+        "potrzeby mieszkaniowe"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2029",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "105 000 zł rocznie (2027, 2028, 2029); kwota na 2027 r. z prowizorium budżetowego. Ogłoszenie opublikowane w BIP 20.11.2026. Wkład własny nieobowiązkowy, punktowany.",
+      "voivodeship": [
+        "lubuskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Gorzów Wielkopolski"
         }
       ]
     },
@@ -27937,6 +32458,68 @@
           "name": "Warszawa"
         }
       ]
+    },
+    {
+      "id": "g_edc8b8c7596b36de",
+      "title": "Konkurs Senat – Polonia 2027: opieka nad Polonią i Polakami za granicą",
+      "funder": "Marszałek Senatu RP",
+      "source": "Kancelaria Senatu",
+      "description": "Dotacje dla organizacji pozarządowych zarejestrowanych w Polsce na zadania na rzecz Polonii w 2027 r. w czterech kierunkach: wzmacnianie struktur organizacji polonijnych, media polonijne, kultura i nauka (wydarzenia, dziedzictwo, promocja kultury polskiej) oraz aktywizacja młodzieży polonijnej. Organizacje z zagranicy mogą uczestniczyć tylko jako partnerzy. Dotacja od 30 tys. do 1 mln zł (bez górnego limitu w kierunku młodzieżowym); wkład własny min. 5%, koszty administracyjne do 9% dotacji. Rejestracja w aplikacji wskazanej w ogłoszeniu do 30.11.2026 r., oferty do 28.12.2026 r., godz. 16:00.",
+      "voivodeships": [
+        "ogolnopolski"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": 30000,
+      "amount_max": 1000000,
+      "amount_text": null,
+      "total_budget": null,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-28",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "kultura"
+      ],
+      "source_url": "https://www.senat.gov.pl/polonia/konkurs-senat-polonia-2027/",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "Polonia i Polacy za granicą",
+        "kultura, sztuka, dziedzictwo narodowe",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "organizacje pozarządowe",
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 5
+      },
+      "extraction_notes": "Obowiązkowa rejestracja oferenta 16–30.11.2026 (dotychczas zarejestrowani potwierdzają dane). Budżet konkursu 2026 wyniósł ok. 72 mln zł; pula na 2027 nie podana – kwota łączna pozostawiona pusta.",
+      "voivodeship": [
+        "ogolnopolski"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "od 30 000 zł do 1 000 000 zł",
+      "scope": "ogolnopolski",
+      "locality": []
     },
     {
       "id": "g_7294bd3c9d2e72cf",
@@ -29622,6 +34205,64 @@
       ]
     },
     {
+      "id": "g_72c5d4de0000da94",
+      "title": "„Reklama Dzieciom” 2026 (34. edycja) – darowizny Fundacji TVP na projekty dla dzieci",
+      "funder": "Fundacja TVP",
+      "source": "Telewizja Polska S.A. – Centrum Informacji TVP",
+      "description": "Darowizny dla stowarzyszeń, fundacji oraz instytucji publicznych (np. szkół, przedszkoli, ośrodków szkolno-wychowawczych) prowadzących działalność opiekuńczą, wychowawczą lub zdrowotną na rzecz dzieci. Pula pochodzi z dochodu z bloku reklamowego emitowanego w TVP1 w święta (w poprzedniej edycji zebrano ok. 2,37 mln zł). Wniosek z załącznikami wysyła się pocztą do 31.12.2026 r. – decyduje data stempla.",
+      "voivodeships": [
+        "ogolnopolski"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "instytucje państwowe i samorządowe (szkoły, przedszkola, SOSW)"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": null,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-31",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://centruminformacji.tvp.pl/96336145/startuje-34-edycja-akcji-reklama-dzieciom-w-2025-roku-telewizja-polska-zebrala-ponad-2-mln-zl",
+      "collected_at": "2026-11-22",
+      "last_checked": "2026-11-22",
+      "thematic_areas": [
+        "dzieci i młodzież",
+        "ochrona i promocja zdrowia",
+        "działalność charytatywna"
+      ],
+      "target_groups": [
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": null,
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Kwota puli zależy od wpływów z emisji bloku reklamowego 25–26.12.2026 – pozostawiona pusta. Formularz i „Zasady podziału środków” podlinkowane w komunikacie.",
+      "voivodeship": [
+        "ogolnopolski"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "ogolnopolski",
+      "locality": []
+    },
+    {
       "id": "g_0364aa275e1749ff",
       "title": "Profilaktyka alkoholizmu, narkomanii i przemocy domowej w Śródmieściu (2027–2028, Warszawa)",
       "funder": "Miasto Stołeczne Warszawa",
@@ -30443,9 +35084,9 @@
       "other_recipients": [
         "instytucje i grupy lokalne"
       ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
+      "amount_min": 500,
+      "amount_max": 5000,
+      "amount_text": "od 500 do 5 000 zł",
       "total_budget": null,
       "currency": "PLN",
       "own_contribution": null,
@@ -30471,7 +35112,7 @@
       "max_project_duration": null,
       "own_contribution_required": null,
       "min_own_contribution": null,
-      "extraction_notes": "strona programu Model Group (oficjalna) 2026-11-22; kwoty grantów nieopublikowane – null",
+      "extraction_notes": "Strona programu i regulamin na stronie Model Group (oficjalne), 2026-11-22. Grant 500–5 000 zł wg strony regulaminu. Fundatorem jest spółka Model Opakowania Sp. z o.o. (nie fundacja korporacyjna); uprawnione m.in. organizacje pozarządowe, szkoły, instytucje kultury, kluby sportowe i inne podmioty działające społecznie.",
       "voivodeship": [
         "lubelskie",
         "mazowieckie",
@@ -30481,7 +35122,7 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": null,
+      "amount": "od 500 do 5 000 zł",
       "scope": "powiatowy",
       "locality": [
         {
