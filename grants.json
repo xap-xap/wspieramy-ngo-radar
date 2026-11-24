@@ -1,8 +1,8 @@
 {
   "schema_version": "2.2.0",
-  "last_updated": "2026-11-23T06:04:46+01:00",
-  "generated_at": "2026-11-23T06:04:46+01:00",
-  "count": 566,
+  "last_updated": "2026-11-24T06:03:34+01:00",
+  "generated_at": "2026-11-24T06:03:34+01:00",
+  "count": 567,
   "voivodeships": [
     {
       "code": "dolnoslaskie",
@@ -378,780 +378,6 @@
     }
   ],
   "grants": [
-    {
-      "id": "g_6df8ca91b132aef9",
-      "title": "14.6 Wsparcie mieszkańców Podkarpacia w zakresie gotowości cywilnej wobec sytuacji kryzysowych, Fundusze Europejskie dla Podkarpacia",
-      "funder": "Województwo Podkarpackie",
-      "source": "Zarząd Województwa Podkarpackiego",
-      "source_name": "Zarząd Województwa Podkarpackiego",
-      "description": "Zarząd Województwa Podkarpackiego ogłasza nabór wniosków: 14.6 Wsparcie mieszkańców Podkarpacia w zakresie gotowości cywilnej wobec sytuacji kryzysowych, Fundusze Europejskie dla Podkarpacia. Wnioski/oferty można składać do 23.11.2026 r. Dostępne środki: pula środków 36 137 500 zł. Wśród uprawnionych wnioskodawców są organizacje pozarządowe (stowarzyszenia, fundacje).",
-      "voivodeships": [
-        "podkarpackie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "przedsiębiorcy",
-        "JST i instytucje publiczne",
-        "uczelnie i jednostki naukowe"
-      ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": "pula naboru: 36 137 500 zł (potwierdzone na stronie oficjalnej)",
-      "total_budget": 36137500,
-      "currency": "PLN",
-      "own_contribution": "Dofinansowanie do 100% wydatków kwalifikowalnych",
-      "deadline": "2026-11-23",
-      "start_date": "2026-11-09",
-      "status": "aktywny",
-      "category": [
-        "ochrona_przeciwpozarowa",
-        "edukacja"
-      ],
-      "source_url": "https://www.funduszeunijne.gov.pl/nabory/146-wsparcie-mieszkancow-podkarpacia-w-zakresie-gotowosci-cywilnej-wobec-sytuacji-kryzysowych/",
-      "collected_at": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "thematic_areas": [
-        "ratownictwo, ochrona ludności i obrona cywilna"
-      ],
-      "target_groups": [],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": null,
-      "own_contribution_required": false,
-      "min_own_contribution": {
-        "type": "percent",
-        "value": 0
-      },
-      "extraction_notes": "weryfikacja ręczna 2026-11-21: termin 23.11.2026 potwierdzony na stronie IZ",
-      "voivodeship": [
-        "podkarpackie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": "pula naboru: 36 137 500 zł (potwierdzone na stronie oficjalnej)",
-      "scope": "wojewodzki",
-      "locality": []
-    },
-    {
-      "id": "g_c94693a464f9b36b",
-      "title": "5.3 Lokalna rewitalizacja, Fundusze Europejskie dla Podlaskiego",
-      "funder": "Województwo Podlaskie",
-      "source": "Urząd Marszałkowski Województwa Podlaskiego",
-      "source_name": "Urząd Marszałkowski Województwa Podlaskiego",
-      "description": "Urząd Marszałkowski Województwa Podlaskiego ogłasza nabór wniosków: 5.3 Lokalna rewitalizacja, Fundusze Europejskie dla Podlaskiego. Wnioski/oferty można składać do 23.11.2026 r. Dostępne środki: pula środków 8 000 000 zł. Wśród uprawnionych wnioskodawców są organizacje pozarządowe (stowarzyszenia, fundacje).",
-      "voivodeships": [
-        "podlaskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "JST i instytucje publiczne"
-      ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": "pula naboru: 8 000 000 zł (potwierdzone na stronie oficjalnej)",
-      "total_budget": 8000000,
-      "currency": "PLN",
-      "own_contribution": "Wkład własny min. 15%",
-      "deadline": "2026-11-23",
-      "start_date": "2026-09-07",
-      "status": "aktywny",
-      "category": [
-        "inne"
-      ],
-      "source_url": "https://www.funduszeunijne.gov.pl/nabory/53-lokalna-rewitalizacja-1/",
-      "collected_at": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "thematic_areas": [
-        "rewitalizacja"
-      ],
-      "target_groups": [],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": null,
-      "own_contribution_required": true,
-      "min_own_contribution": {
-        "type": "percent",
-        "value": 15
-      },
-      "extraction_notes": "weryfikacja ręczna 2026-11-21: termin 23.11.2026 potwierdzony",
-      "voivodeship": [
-        "podlaskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": "pula naboru: 8 000 000 zł (potwierdzone na stronie oficjalnej)",
-      "scope": "wojewodzki",
-      "locality": []
-    },
-    {
-      "id": "g_d15efadb91d2aef0",
-      "title": "LGD Korona Północnego Krakowa – nabór 7/2026: mała infrastruktura sportowa i rekreacyjno-turystyczna",
-      "funder": "Stowarzyszenie Korona Północnego Krakowa",
-      "source": "Stowarzyszenie Korona Północnego Krakowa",
-      "source_name": "Stowarzyszenie Korona Północnego Krakowa",
-      "description": "Stowarzyszenie Korona Północnego Krakowa ogłasza nabór wniosków: LGD Korona Północnego Krakowa – nabór 7/2026: mała infrastruktura sportowa i rekreacyjno-turystyczna. Wnioski/oferty można składać do 23.11.2026 r. Dostępne środki: maks. 500 000 zł na projekt. Wśród uprawnionych wnioskodawców są organizacje pozarządowe (stowarzyszenia, fundacje).",
-      "voivodeships": [
-        "malopolskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [],
-      "amount_min": 50000,
-      "amount_max": 500000,
-      "amount_text": null,
-      "total_budget": null,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-23",
-      "start_date": "2026-11-02",
-      "status": "aktywny",
-      "category": [
-        "sport"
-      ],
-      "source_url": "https://koronakrakowa.pl/2026/10/19/ogloszenie-nr-7-2026-o-naborze-wnioskow-o-przyznanie-pomocy-z-dnia-19-pazdziernika-2026-r-nabor-nr-1-158-537/",
-      "collected_at": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "thematic_areas": [
-        "kultura fizyczna i sport",
-        "turystyka i krajoznawstwo"
-      ],
-      "target_groups": [],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": null,
-      "own_contribution_required": null,
-      "min_own_contribution": null,
-      "extraction_notes": "termin 2026-11-23 potwierdzony automatycznie w treści oryginalnego ogłoszenia (2026-11-21)",
-      "voivodeship": [
-        "malopolskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": "od 50 000 zł do 500 000 zł",
-      "scope": "gminny",
-      "locality": [
-        {
-          "type": "gmina",
-          "name": "Igołomia-Wawrzeńczyce"
-        },
-        {
-          "type": "gmina",
-          "name": "Kocmyrzów-Luborzyca"
-        },
-        {
-          "type": "gmina",
-          "name": "Michałowice"
-        },
-        {
-          "type": "gmina",
-          "name": "Słomniki"
-        },
-        {
-          "type": "gmina",
-          "name": "Wielka Wieś"
-        },
-        {
-          "type": "gmina",
-          "name": "Zielonki"
-        }
-      ]
-    },
-    {
-      "id": "g_2cdfb401fd6a9e5d",
-      "title": "Mikrogranty urban lab – miasto dla młodych w szczecinie 2026",
-      "funder": "Fundacja Sektor 3",
-      "source": "Fundacja Sektor 3",
-      "source_name": "Fundacja Sektor 3",
-      "description": "Fundacja Sektor 3 ogłasza otwarty konkurs ofert: Mikrogranty urban lab – miasto dla młodych w szczecinie 2026. Wnioski/oferty można składać do 23.11.2026 r. Dostępne środki: pula środków 70 000 zł, maks. 10 000 zł na projekt. Wśród uprawnionych wnioskodawców są organizacje pozarządowe (stowarzyszenia, fundacje).",
-      "voivodeships": [
-        "zachodniopomorskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [],
-      "amount_min": null,
-      "amount_max": 10000,
-      "amount_text": null,
-      "total_budget": 70000,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-23",
-      "start_date": "2026-11-03",
-      "status": "aktywny",
-      "category": [
-        "sport",
-        "srodowisko",
-        "rozwoj_ngo"
-      ],
-      "source_url": "https://sektor3.szczecin.pl/miasto-dla-mlodych-2026-mikrogranty/",
-      "collected_at": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "thematic_areas": [
-        "kultura fizyczna i sport",
-        "ekologia i ochrona zwierząt"
-      ],
-      "target_groups": [
-        "dzieci i młodzież"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": "do 30 grudnia 2026",
-      "own_contribution_required": null,
-      "min_own_contribution": null,
-      "extraction_notes": "weryfikacja ręczna 2026-11-21: termin 23.11.2026 potwierdzony",
-      "voivodeship": [
-        "zachodniopomorskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": "do 10 000 zł",
-      "scope": "gminny",
-      "locality": [
-        {
-          "type": "gmina",
-          "name": "Szczecin"
-        }
-      ]
-    },
-    {
-      "id": "g_04b66645682a24ad",
-      "title": "Otwarty konkurs ofert na powierzenie realizacji w okresie listopad-grudzień 2026 zadania z zakresu pomocy społecznej organizacjom pozarządowym i innym uprawnionym podmiotom wskazanym w art. 3 ust. …",
-      "funder": "Miasto Opole",
-      "source": "Miasto Opole",
-      "source_name": "Miasto Opole",
-      "description": "Miasto Opole ogłasza otwarty konkurs ofert: Otwarty konkurs ofert na powierzenie realizacji w okresie listopad-grudzień 2026 zadania z zakresu pomocy społecznej organizacjom pozarządowym i innym uprawnionym podmiotom wskazanym w art. 3 ust. …. Wnioski/oferty można składać do 23.11.2026 r. Wśród uprawnionych wnioskodawców są organizacje pozarządowe (stowarzyszenia, fundacje).",
-      "voivodeships": [
-        "opolskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": null,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-23",
-      "start_date": "2026-11-02",
-      "status": "aktywny",
-      "category": [
-        "pomoc_spoleczna"
-      ],
-      "source_url": "https://bip.um.opole.pl/umo,25_7531",
-      "collected_at": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "thematic_areas": [
-        "pomoc społeczna",
-        "osoby niepełnosprawne",
-        "seniorzy (osoby w wieku emerytalnym)",
-        "ratownictwo, ochrona ludności i obrona cywilna"
-      ],
-      "target_groups": [
-        "seniorzy",
-        "osoby z niepełnosprawnościami"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": null,
-      "own_contribution_required": null,
-      "min_own_contribution": null,
-      "extraction_notes": "termin 2026-11-23 potwierdzony automatycznie w treści oryginalnego ogłoszenia (2026-11-21)",
-      "voivodeship": [
-        "opolskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": null,
-      "scope": "gminny",
-      "locality": [
-        {
-          "type": "gmina",
-          "name": "Opole"
-        }
-      ]
-    },
-    {
-      "id": "g_97e584a557e3d051",
-      "title": "Powiat koniński: prowadzenie dwóch środowiskowych domów samopomocy typu B 2027",
-      "funder": "Zarząd Powiatu Konińskiego",
-      "source": "Starostwo Powiatowe w Koninie",
-      "source_name": "Starostwo Powiatowe w Koninie",
-      "description": "Powierzenie prowadzenia dwóch środowiskowych domów samopomocy typu B dla osób z niepełnosprawnością intelektualną (30 i 40 miejsc). Dotacja na 2027 r. łącznie 2 934 858 zł (1 265 328 zł i 1 669 530 zł). Oferty w zamkniętej kopercie do 23.11.2026 r. – liczy się data wpływu do starostwa.",
-      "voivodeships": [
-        "wielkopolskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
-      ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": 2934858,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-23",
-      "start_date": null,
-      "status": "aktywny",
-      "category": [
-        "pomoc_spoleczna"
-      ],
-      "source_url": "https://bip2.wokiss.pl/koninp/bip/wspolpraca-z-organizacjami-pozarzadowymi/konkursy/ogloszenia-o-konkursach.html?pid=22408",
-      "collected_at": "2026-11-22",
-      "last_checked": "2026-11-22",
-      "thematic_areas": [
-        "pomoc społeczna",
-        "osoby niepełnosprawne"
-      ],
-      "target_groups": [
-        "osoby z niepełnosprawnościami"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": "2027-01-01 – 2027-12-31",
-      "own_contribution_required": false,
-      "min_own_contribution": {
-        "type": "percent",
-        "value": 0
-      },
-      "extraction_notes": "uchwała 403/2026; termin bardzo bliski (23.11.2026); zadanie zlecone z administracji rządowej",
-      "voivodeship": [
-        "wielkopolskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": null,
-      "scope": "powiatowy",
-      "locality": [
-        {
-          "type": "powiat",
-          "name": "koniński"
-        }
-      ]
-    },
-    {
-      "id": "g_2aa77ab745caf54f",
-      "title": "Powiat ostródzki: prowadzenie Środowiskowego Domu Samopomocy w Morągu (37 miejsc) w latach 2027–2031",
-      "funder": "Zarząd Powiatu w Ostródzie",
-      "source": "Starostwo Powiatowe w Ostródzie",
-      "source_name": "Starostwo Powiatowe w Ostródzie",
-      "description": "Powierzenie prowadzenia ŚDS typu A i B w Morągu dla 37 osób przewlekle psychicznie chorych i z niepełnosprawnością intelektualną, na pięć lat (2027–2031). Na 2027 r. przewidziano 1 511 364 zł (dotacja podstawowa i zwiększenie z programu „Za Życiem”); kwoty na kolejne lata zależą od decyzji wojewody. Oferty w starostwie do 23.11.2026 r. (poniedziałek), godz. 15:00.",
-      "voivodeships": [
-        "warminsko-mazurskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
-      ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": 1511364,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-23",
-      "start_date": null,
-      "status": "aktywny",
-      "category": [
-        "pomoc_spoleczna"
-      ],
-      "source_url": "https://www.powiat.ostroda.pl/aktualnosci/4934-ogloszenie-konkursu-ofert.html",
-      "collected_at": "2026-11-22",
-      "last_checked": "2026-11-22",
-      "thematic_areas": [
-        "pomoc społeczna",
-        "osoby niepełnosprawne"
-      ],
-      "target_groups": [
-        "osoby z niepełnosprawnościami"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": "2027–2031",
-      "own_contribution_required": null,
-      "min_own_contribution": null,
-      "extraction_notes": "Uchwała nr 98/365/2026 z 27.10.2026; kwota dotyczy 2027 r.",
-      "voivodeship": [
-        "warminsko-mazurskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": null,
-      "scope": "powiatowy",
-      "locality": [
-        {
-          "type": "powiat",
-          "name": "ostródzki"
-        }
-      ]
-    },
-    {
-      "id": "g_72c5b3ad7ca84081",
-      "title": "Powiat ostródzki: prowadzenie Środowiskowego Domu Samopomocy w Ostródzie (58 miejsc) w 2027 r.",
-      "funder": "Zarząd Powiatu w Ostródzie",
-      "source": "Starostwo Powiatowe w Ostródzie",
-      "source_name": "Starostwo Powiatowe w Ostródzie",
-      "description": "Prowadzenie ŚDS typu B dla 58 osób z niepełnosprawnością intelektualną. Ośrodek działa 5 dni w tygodniu po 8 godzin. W kwocie mieści się dotacja podstawowa i zwiększenie z programu „Za Życiem”. Oferty w starostwie do 23.11.2026 r. (poniedziałek), godz. 15:00; przy wysyłce pocztą liczy się data wpływu.",
-      "voivodeships": [
-        "warminsko-mazurskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
-      ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": 2576348,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-23",
-      "start_date": null,
-      "status": "aktywny",
-      "category": [
-        "pomoc_spoleczna"
-      ],
-      "source_url": "https://www.powiat.ostroda.pl/aktualnosci/4935-ogloszenie-konkursu-ofert-2.html",
-      "collected_at": "2026-11-22",
-      "last_checked": "2026-11-22",
-      "thematic_areas": [
-        "pomoc społeczna",
-        "osoby niepełnosprawne"
-      ],
-      "target_groups": [
-        "osoby z niepełnosprawnościami"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": "2027",
-      "own_contribution_required": null,
-      "min_own_contribution": null,
-      "extraction_notes": "uchwała z października 2026; termin 23.11.2026 godz. 15:00",
-      "voivodeship": [
-        "warminsko-mazurskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": null,
-      "scope": "powiatowy",
-      "locality": [
-        {
-          "type": "powiat",
-          "name": "ostródzki"
-        }
-      ]
-    },
-    {
-      "id": "g_b8c7916b66e59bf1",
-      "title": "Prowadzenie Krajowego Centrum Interwencyjno-Konsultacyjnego dla Ofiar Handlu Ludźmi w 2027 r.",
-      "funder": "Minister Spraw Wewnętrznych i Administracji",
-      "source": "Ministerstwo Spraw Wewnętrznych i Administracji",
-      "source_name": "Ministerstwo Spraw Wewnętrznych i Administracji",
-      "description": "Prowadzenie przez cały 2027 r. krajowego centrum pomocy ofiarom handlu ludźmi: całodobowa interwencja i konsultacje, wsparcie psychologiczne i prawne, tłumacze, transport, schronienie dla ofiar (min. 30% kosztów zadania) oraz szkolenia dla instytucji publicznych. Wymagane min. 2 lata doświadczenia; dopuszczalne oferty wspólne i częściowe. Oferty do 23.11.2026 r. pocztą lub przez e-Doręczenia.",
-      "voivodeships": [
-        "ogolnopolski"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
-      ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": 2000000,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-23",
-      "start_date": null,
-      "status": "aktywny",
-      "category": [
-        "pomoc_spoleczna"
-      ],
-      "source_url": "https://www.gov.pl/web/mswia/otwarty-konkurs-ofert-na-realizacje-w-okresie-styczen-grudzien-2027-r-zadania-publicznego-pn-prowadzenie-krajowego-centrum-interwencyjno-konsultacyjnego-dla-ofiar-handlu-ludzmi",
-      "collected_at": "2026-11-22",
-      "last_checked": "2026-11-22",
-      "thematic_areas": [
-        "porządek i bezpieczeństwo publiczne",
-        "pomoc społeczna",
-        "prawa człowieka i demokracja"
-      ],
-      "target_groups": [
-        "osoby pokrzywdzone przestępstwem",
-        "migranci i uchodźcy"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": "1.01–31.12.2027",
-      "own_contribution_required": null,
-      "min_own_contribution": null,
-      "extraction_notes": "Koszty administracyjne do 30%; ogłoszenie z 30.10.2026 w BIP MSWiA.",
-      "voivodeship": [
-        "ogolnopolski"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": null,
-      "scope": "ogolnopolski",
-      "locality": []
-    },
-    {
-      "id": "g_8ffef86413748a03",
-      "title": "Punkty nieodpłatnej pomocy prawnej i poradnictwa obywatelskiego w Krakowie w 2027 r.",
-      "funder": "Gmina Miejska Kraków",
-      "source": "Urząd Miasta Krakowa",
-      "source_name": "Urząd Miasta Krakowa",
-      "description": "Kraków powierzy organizacjom prowadzenie punktów bezpłatnych porad prawnych lub obywatelskich wraz z mediacją i edukacją prawną w 2027 r. Łącznie 1 281 312,24 zł. Startować mogą organizacje wpisane na listę Wojewody Małopolskiego, z co najmniej dwuletnim doświadczeniem w takim poradnictwie. Oferty do 23.11.2026, godz. 15:30.",
-      "voivodeships": [
-        "malopolskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
-      ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": 1281312.24,
-      "currency": "PLN",
-      "own_contribution": "nie wymagany (forma powierzenia)",
-      "deadline": "2026-11-23",
-      "start_date": null,
-      "status": "aktywny",
-      "category": [
-        "pomoc_spoleczna"
-      ],
-      "source_url": "https://www.bip.krakow.pl/?news_id=264658",
-      "collected_at": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "thematic_areas": [
-        "nieodpłatna pomoc prawna",
-        "nieodpłatne poradnictwo obywatelskie"
-      ],
-      "target_groups": [
-        "ogół mieszkańców"
-      ],
-      "min_experience_years": 2,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": "01.01.2027–31.12.2027",
-      "own_contribution_required": false,
-      "min_own_contribution": {
-        "type": "percent",
-        "value": 0
-      },
-      "extraction_notes": "źródło: ogłoszenie w BIP Miasta Krakowa (news_id=264658), 2026-11-21; wymóg wpisu na listę wojewody (art. 11d ustawy o NPP); termin krótki – 23.11.2026",
-      "voivodeship": [
-        "malopolskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": null,
-      "scope": "gminny",
-      "locality": [
-        {
-          "type": "gmina",
-          "name": "Kraków"
-        }
-      ]
-    },
-    {
-      "id": "g_9d4e81b1fbd7e5ad",
-      "title": "Włocławek: innowacja społeczna „Uważniaki” – szkolenia dla nauczycieli przedszkoli i warsztaty dla rodzin",
-      "funder": "Prezydent Miasta Włocławek",
-      "source": "Urząd Miasta Włocławek",
-      "source_name": "Urząd Miasta Włocławek",
-      "description": "Przeprowadzenie praktycznych szkoleń (6 grup) dla 124 nauczycieli z 21 miejskich przedszkoli z metody „Uważniaki” oraz 21 warsztatów pokazowych dla rodzin z dziećmi 4–6 lat. Zadanie z zakresu profilaktyki, powierzone w całości; realizacja od grudnia 2026 do lutego 2027 r. Oferty przez generator wskazany w ogłoszeniu do 23.11.2026 r.",
-      "voivodeships": [
-        "kujawsko-pomorskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
-      ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": 40000,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-23",
-      "start_date": null,
-      "status": "aktywny",
-      "category": [
-        "edukacja"
-      ],
-      "source_url": "https://bip.wloclawek.eu/25272/zarzadzenie-nr-4662026-prezydenta-miasta-wloclawek-z-dnia-02-listopada-2026-r-w-sprawie-ogloszenia-otwartego-konkursu-ofert-na-realizacje-zadania-w-zakresie-innowacji-spolecznej-pn-uwazniaki-wdrazanej-przez-miasto-wloclawek-w-ramach-projektu-pn-innowacje-w-samorzadzie-przez-organizacje-pozarzadowe-oraz-inne-podmioty-prowadzace-dzialalnosc-pozytku-publicznego.html",
-      "collected_at": "2026-11-22",
-      "last_checked": "2026-11-22",
-      "thematic_areas": [
-        "przeciwdziałanie uzależnieniom i patologiom",
-        "nauka, edukacja, oświata i wychowanie"
-      ],
-      "target_groups": [
-        "nauczyciele i kadra oświaty",
-        "rodziny",
-        "dzieci i młodzież"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": "12.2026–02.2027",
-      "own_contribution_required": null,
-      "min_own_contribution": null,
-      "extraction_notes": "Zarządzenie nr 466/2026 z 2.11.2026; projekt „Innowacje w Samorządzie”.",
-      "voivodeship": [
-        "kujawsko-pomorskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": null,
-      "scope": "gminny",
-      "locality": [
-        {
-          "type": "gmina",
-          "name": "Włocławek"
-        }
-      ]
-    },
-    {
-      "id": "g_4e14d31ef57652c5",
-      "title": "Zabrze: prowadzenie punktów NPP i NPO z mediacją i edukacją prawną w 2027 r.",
-      "funder": "Miasto Zabrze",
-      "source": "Urząd Miejski w Zabrzu",
-      "source_name": "Urząd Miejski w Zabrzu",
-      "description": "Prowadzenie w 2027 roku jednego punktu nieodpłatnej pomocy prawnej i dwóch punktów nieodpłatnego poradnictwa obywatelskiego w Zabrzu, wraz z nieodpłatną mediacją i edukacją prawną. Środki: 226 526,04 zł. Oferty do 23.11.2026, godz. 17:30 (decyduje data wpływu).",
-      "voivodeships": [
-        "slaskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
-      ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": 226526.04,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-23",
-      "start_date": null,
-      "status": "aktywny",
-      "category": [
-        "pomoc_spoleczna"
-      ],
-      "source_url": "https://mal.miastozabrze.pl/2026/11/02/otwarty-konkurs-ofert-na-prowadzenie-punktow-nieodplatnej-pomocy-prawnej-i-poradnictwa-obywatelskiego-w-2027-roku/",
-      "collected_at": "2026-11-22",
-      "last_checked": "2026-11-22",
-      "thematic_areas": [
-        "nieodpłatna pomoc prawna",
-        "nieodpłatne poradnictwo obywatelskie"
-      ],
-      "target_groups": [
-        "ogół mieszkańców"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": "01.01.2027–31.12.2027",
-      "own_contribution_required": false,
-      "min_own_contribution": {
-        "type": "percent",
-        "value": 0
-      },
-      "extraction_notes": "strona Centrum Organizacji Pozarządowych UM Zabrze + zarządzenie nr 851/ZPS/2026 z 2.11.2026 (PDF) 2026-11-22",
-      "voivodeship": [
-        "slaskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": null,
-      "scope": "gminny",
-      "locality": [
-        {
-          "type": "gmina",
-          "name": "Zabrze"
-        }
-      ]
-    },
     {
       "id": "g_40a47de5458a198e",
       "title": "Działanie 6.8 Inwestycje w infrastrukturę społeczną [nabór nr FEKP.06.08-IZ.00-311/26], Fundusze Europejskie dla Kujaw i Pomorza",
@@ -2267,7 +1493,7 @@
         "type": "percent",
         "value": 0
       },
-      "extraction_notes": "ogłoszenie Prezydenta Miasta Łodzi z 6.11.2026 (PDF z BIP UMŁ, pdftotext) 2026-11-21; termin WYLICZONY: ogłoszenie podaje '21 dni od dnia ukazania się ogłoszenia' – od 6.11.2026 daje 27.11.2026; wymagany wpis na listę Wojewody Łódzkiego (art. 11d ustawy o NPP); QA 2026-11-23: scalono z duplikatem g_fd2129850945fa1e",
+      "extraction_notes": "ogłoszenie Prezydenta Miasta Łodzi z 6.11.2026 (PDF z BIP UMŁ, pdftotext) 2026-11-21; termin WYLICZONY: ogłoszenie podaje '21 dni od dnia ukazania się ogłoszenia' – od 6.11.2026 daje 27.11.2026; wymagany wpis na listę Wojewody Łódzkiego (art. 11d ustawy o NPP); QA 2026-11-24: scalono z duplikatem g_fd2129850945fa1e",
       "voivodeship": [
         "lodzkie"
       ],
@@ -7769,7 +6995,7 @@
       "max_project_duration": "2027",
       "own_contribution_required": null,
       "min_own_contribution": null,
-      "extraction_notes": "komunikat na oficjalnej stronie miasta 2026-11-22; BIP Ełku blokuje automatyczne zapytania (403 antybot) – podział kwot na zadania niezweryfikowany; QA 2026-11-23: scalono z duplikatem g_1100d55d5f71217a",
+      "extraction_notes": "komunikat na oficjalnej stronie miasta 2026-11-22; BIP Ełku blokuje automatyczne zapytania (403 antybot) – podział kwot na zadania niezweryfikowany; QA 2026-11-24: scalono z duplikatem g_1100d55d5f71217a",
       "voivodeship": [
         "warminsko-mazurskie"
       ],
@@ -24669,6 +23895,138 @@
       ]
     },
     {
+      "id": "g_e753e0d94084dfab",
+      "title": "Elbląg: upowszechnianie kultury fizycznej wśród dzieci i młodzieży w 2027 r.",
+      "funder": "Miasto Elbląg",
+      "source": "Urząd Miejski w Elblągu",
+      "source_name": "Urząd Miejski w Elblągu",
+      "description": "Dotacje na szkolenie sportowe dzieci i młodzieży (młodzik, junior młodszy, junior, młodzieżowiec) uczestniczących we współzawodnictwie związków sportowych oraz grup początkujących w 2027 r. Dotacja do 80% kosztów, wkład własny min. 20%; oferty do 11.12.2026 r.",
+      "voivodeships": [
+        "warminsko-mazurskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "pula 2 160 000 zł",
+      "total_budget": 2160000,
+      "currency": "PLN",
+      "own_contribution": "wkład własny min. 20% całkowitej kwoty zadania",
+      "deadline": "2026-12-11",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.elblag.eu/artykul/98/11477/prezydent-miasta-elblaga-oglasza-otwarty-konkurs-ofert-na-wsparcie-realizacji-zadania-z-zakresu-wspierania-i-upowszechniania-kultury-fizycznej-pn-upowszechnianie-kultury-fizycznej-wsrod-dzieci-i-mlodziezy",
+      "collected_at": "2026-11-24",
+      "last_checked": "2026-11-24",
+      "thematic_areas": [
+        "kultura fizyczna i sport",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "sportowcy",
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "4.01.2027–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 20
+      },
+      "extraction_notes": "Ogłoszenie w BIP UM Elbląg z 19.11.2026; pełne ogłoszenie to skan PDF – odczyt OCR (tesseract pol, pdf_extracts/2026-11-24/elblag_sport_19898.ocr.txt); termin i kwota także w treści strony; forma wsparcia; min_own_contribution wyliczony jako 100% - maks. poziom dofinansowania (80%)",
+      "voivodeship": [
+        "warminsko-mazurskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "pula 2 160 000 zł",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Elbląg"
+        }
+      ]
+    },
+    {
+      "id": "g_0abfe74eb00cf35e",
+      "title": "Elbląg: wspieranie szkolenia sportowego seniorów w różnych dyscyplinach w 2027 r.",
+      "funder": "Miasto Elbląg",
+      "source": "Urząd Miejski w Elblągu",
+      "source_name": "Urząd Miejski w Elblągu",
+      "description": "Dotacje na szkolenie sportowe i udział we współzawodnictwie w kategorii senior w różnych dyscyplinach, realizowane od 4.01 do 31.12.2027 r. Dotacja do 80% kosztów (wkład własny min. 20%); oferty do 11.12.2026 r.",
+      "voivodeships": [
+        "warminsko-mazurskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "pula 2 060 000 zł",
+      "total_budget": 2060000,
+      "currency": "PLN",
+      "own_contribution": "wkład własny min. 20% całkowitej kwoty zadania",
+      "deadline": "2026-12-11",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.elblag.eu/artykul/98/11478/prezydent-miasta-elblaga-oglasza-otwarty-konkurs-ofert-na-wsparcie-realizacji-zadania-z-zakresu-wspierania-i-upowszechniania-kultury-fizycznej-pn-wspieranie-szkolenia-sportowego-w-roznych-dyscyplinach",
+      "collected_at": "2026-11-24",
+      "last_checked": "2026-11-24",
+      "thematic_areas": [
+        "kultura fizyczna i sport"
+      ],
+      "target_groups": [
+        "sportowcy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "4.01.2027–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 20
+      },
+      "extraction_notes": "Ogłoszenie w BIP UM Elbląg z 19.11.2026; pełne ogłoszenie to skan PDF – odczyt OCR (tesseract pol, pdf_extracts/2026-11-24/elblag_sport_19901.ocr.txt); termin i kwota także w treści strony; forma wsparcia; min_own_contribution wyliczony jako 100% - maks. poziom dofinansowania (80%)",
+      "voivodeship": [
+        "warminsko-mazurskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "pula 2 060 000 zł",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Elbląg"
+        }
+      ]
+    },
+    {
       "id": "g_598ecdd962395e5f",
       "title": "Gmina Augustów: odławianie i opieka nad bezdomnymi zwierzętami w 2027 r.",
       "funder": "Wójt Gminy Augustów",
@@ -28826,6 +28184,394 @@
       ]
     },
     {
+      "id": "g_ac92ef44f659e294",
+      "title": "Gorzów Wielkopolski: dofinansowanie Centrum Integracji Społecznej w latach 2027–2028",
+      "funder": "Prezydent Miasta Gorzowa Wielkopolskiego",
+      "source": "Urząd Miasta Gorzowa Wielkopolskiego",
+      "source_name": "Urząd Miasta Gorzowa Wielkopolskiego",
+      "description": "Konkurs z zakresu zdrowia publicznego na reintegrację społeczną i zawodową w Centrum Integracji Społecznej mieszkańców Gorzowa zagrożonych wykluczeniem, zwłaszcza osób uzależnionych lub zagrożonych uzależnieniem od alkoholu, w latach 2027–2028 (trzy grupy po 20 osób, 600 zł/os./mies.). Forma powierzenia z wkładem finansowym min. 5% wnioskowanej dotacji; oferty papierowe do 14.12.2026 r. (decyduje data wpływu).",
+      "voivodeships": [
+        "lubuskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 2 i 3 ustawy o pożytku publicznym prowadzące CIS"
+      ],
+      "amount_min": null,
+      "amount_max": 144000,
+      "amount_text": "864 000 zł na lata 2027–2028 (432 000 zł rocznie, 3 zadania po 144 000 zł rocznie)",
+      "total_budget": 864000,
+      "currency": "PLN",
+      "own_contribution": "wkład własny finansowy min. 5% kwoty wnioskowanej dotacji",
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.um.gorzow.pl/268/13115/Otwarty_konkurs_ofert_z_zakresu_zdrowia_publicznego_-_dzialalnosc_na_rzecz_integracji_i_reintegracji_zawodowej_i_spolecznej_w_ramach_wspierania_zatrudnienia_socjalnego_w_formie_dofinansowania_centrum_integracji_spolecznej_w_latach_2027-_2028_r__0D_0A/",
+      "collected_at": "2026-11-24",
+      "last_checked": "2026-11-24",
+      "thematic_areas": [
+        "integracja osób zagrożonych wykluczeniem",
+        "aktywizacja zawodowa",
+        "przeciwdziałanie uzależnieniom i patologiom"
+      ],
+      "target_groups": [
+        "osoby zagrożone wykluczeniem społecznym",
+        "osoby uzależnione i zagrożone uzależnieniem"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "styczeń 2027 – grudzień 2028",
+      "own_contribution_required": true,
+      "min_own_contribution": null,
+      "extraction_notes": "Ogłoszenie w BIP UM Gorzów 23.11.2026; tryb ustawy o zdrowiu publicznym; wkład min. 5% liczony od kwoty wnioskowanej dotacji (nie od kosztu całkowitego), dlatego min_own_contribution = null; jeden podmiot – jedna oferta na jedną grupę",
+      "voivodeship": [
+        "lubuskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "864 000 zł na lata 2027–2028 (432 000 zł rocznie, 3 zadania po 144 000 zł rocznie)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Gorzów Wielkopolski"
+        }
+      ]
+    },
+    {
+      "id": "g_d7f2c9c2f7f6f1db",
+      "title": "Gorzów Wielkopolski: placówki wsparcia dziennego dla dzieci w latach 2027–2028",
+      "funder": "Prezydent Miasta Gorzowa Wielkopolskiego",
+      "source": "Urząd Miasta Gorzowa Wielkopolskiego",
+      "source_name": "Urząd Miasta Gorzowa Wielkopolskiego",
+      "description": "Konkurs na prowadzenie placówek wsparcia dziennego w formie opiekuńczej, specjalistycznej lub łączonej w latach 2027–2028 (opieka, pomoc w nauce, zajęcia socjoterapeutyczne, terapeutyczne i rozwój zainteresowań dzieci). Dotacja zależy od formy placówki i liczby podopiecznych; oferent może złożyć maks. dwie oferty do 14.12.2026 r.",
+      "voivodeships": [
+        "lubuskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty uprawnione wg art. 190 ustawy o wspieraniu rodziny i systemie pieczy zastępczej"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "1 120 000 zł na lata 2027–2028 (560 000 zł rocznie)",
+      "total_budget": 1120000,
+      "currency": "PLN",
+      "own_contribution": "oferent może wykazać wkład własny finansowy i/lub osobowy",
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.um.gorzow.pl/268/13114/Otwarty_konkurs_ofert_na_realizacje_zadania_publicznego_z_zakresu_wspierania__0D_0Arodziny_i_systemu_pieczy_zastepczej_PWD_2027-2028/",
+      "collected_at": "2026-11-24",
+      "last_checked": "2026-11-24",
+      "thematic_areas": [
+        "wspieranie rodziny i piecza zastępcza",
+        "dzieci i młodzież",
+        "przeciwdziałanie uzależnieniom i patologiom"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "rodziny"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "2027–2028",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Ogłoszenie w BIP UM Gorzów 23.11.2026; forma wsparcia lub powierzenia; termin w generatorze do 14.12.2026 godz. 14:00, wersja papierowa do 14.12.2026 (data wpływu); kwota na 2027 r. z prowizorium budżetowego; finansowanie z miejskiego programu profilaktyki 2027–2030",
+      "voivodeship": [
+        "lubuskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "1 120 000 zł na lata 2027–2028 (560 000 zł rocznie)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Gorzów Wielkopolski"
+        }
+      ]
+    },
+    {
+      "id": "g_5bcb460c8d7f5b47",
+      "title": "Grudziądz 2027: sporty indywidualne (m.in. boks, biegi na orientację, jiu-jitsu) – szkolenie dzieci i młodzieży",
+      "funder": "Prezydent Grudziądza",
+      "source": "Urząd Miejski w Grudziądzu",
+      "source_name": "Urząd Miejski w Grudziądzu",
+      "description": "Dotacje na szkolenie dzieci i młodzieży w sportach indywidualnych (m.in. biegi na orientację, boks, jiu-jitsu i inne) w 2027 r. Forma wsparcia z wkładem rzeczowym lub osobowym, jedna oferta na oferenta; oferty w generatorze do 14.12.2026 r.",
+      "voivodeships": [
+        "kujawsko-pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "pula 2 000 000 zł",
+      "total_budget": 2000000,
+      "currency": "PLN",
+      "own_contribution": "oferent zapewnia wkład rzeczowy i/lub osobowy (może być zastąpiony środkami finansowymi)",
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.grudziadz.pl/artykul/ogloszenie-otwartego-konkursu-ofert-na-realizacje-zadania-publicznego-z-zakresu-wspierania-i-up-34",
+      "collected_at": "2026-11-24",
+      "last_checked": "2026-11-24",
+      "thematic_areas": [
+        "kultura fizyczna i sport",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "sportowcy",
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie Prezydenta Grudziądza, ogłoszenie PDF z BIP (pdftotext, pdf_extracts/2026-11-24/grudziadz_c7.txt); publikacja 23.11.2026; forma wsparcia",
+      "voivodeship": [
+        "kujawsko-pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "pula 2 000 000 zł",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Grudziądz"
+        }
+      ]
+    },
+    {
+      "id": "g_0282b3c4fa094238",
+      "title": "Grudziądz 2027: sporty zespołowe (koszykówka, piłka nożna, ręczna, siatkówka) – szkolenie dzieci i młodzieży",
+      "funder": "Prezydent Grudziądza",
+      "source": "Urząd Miejski w Grudziądzu",
+      "source_name": "Urząd Miejski w Grudziądzu",
+      "description": "Dotacje na szkolenie dzieci i młodzieży w sportach zespołowych (m.in. koszykówka, piłka nożna, ręczna, siatkowa) w 2027 r. Forma wsparcia z wkładem rzeczowym lub osobowym, jedna oferta na oferenta; oferty w generatorze do 14.12.2026 r.",
+      "voivodeships": [
+        "kujawsko-pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "pula 1 000 000 zł",
+      "total_budget": 1000000,
+      "currency": "PLN",
+      "own_contribution": "oferent zapewnia wkład rzeczowy i/lub osobowy (może być zastąpiony środkami finansowymi)",
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.grudziadz.pl/artykul/ogloszenie-otwartego-konkursu-ofert-na-realizacje-zadania-publicznego-z-zakresu-wspierania-i-up-35",
+      "collected_at": "2026-11-24",
+      "last_checked": "2026-11-24",
+      "thematic_areas": [
+        "kultura fizyczna i sport",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "sportowcy",
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie Prezydenta Grudziądza, ogłoszenie PDF z BIP (pdftotext, pdf_extracts/2026-11-24/grudziadz_c6.txt); publikacja 23.11.2026; forma wsparcia",
+      "voivodeship": [
+        "kujawsko-pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "pula 1 000 000 zł",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Grudziądz"
+        }
+      ]
+    },
+    {
+      "id": "g_39710f9c1fd2bc28",
+      "title": "Grudziądz: Spichlerz 57 inkubatorem aktywności społecznej – centrum aktywizacji i fundusz sąsiedzki 2027",
+      "funder": "Prezydent Grudziądza",
+      "source": "Urząd Miejski w Grudziądzu",
+      "source_name": "Urząd Miejski w Grudziądzu",
+      "description": "Powierzenie współprowadzenia Grudziądzkiego Centrum Aktywizacji Społecznej Spichlerz 57 (wsparcie NGO, grup nieformalnych i wolontariuszy, oferta kulturalna i edukacyjna) oraz roli operatora funduszu sąsiedzkiego dla inicjatyw mieszkańców w 2027 r. Oferty do 14.12.2026 r.",
+      "voivodeships": [
+        "kujawsko-pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "pula 258 000 zł",
+      "total_budget": 258000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "rozwoj_ngo"
+      ],
+      "source_url": "https://bip.grudziadz.pl/artykul/ogloszenie-otwartego-konkursu-ofert-na-realizacje-zadania-publicznego-z-zakresu-rewitalizacji-n-11",
+      "collected_at": "2026-11-24",
+      "last_checked": "2026-11-24",
+      "thematic_areas": [
+        "rewitalizacja",
+        "wsparcie organizacji pozarządowych",
+        "rozwój wspólnot i społeczności lokalnych"
+      ],
+      "target_groups": [
+        "organizacje pozarządowe",
+        "społeczności lokalne"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie nr 665/26 Prezydenta Grudziądza z 20.11.2026, PDF z BIP (pdftotext, pdf_extracts/2026-11-24/grudziadz_c9.txt); forma powierzenia; część dotacji przeznaczona na fundusz sąsiedzki",
+      "voivodeship": [
+        "kujawsko-pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "pula 258 000 zł",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Grudziądz"
+        }
+      ]
+    },
+    {
+      "id": "g_4e2a178b1943a80e",
+      "title": "Grudziądz: prowadzenie Kawiarni Spichlerz 57 – aktywizacja osób wykluczonych w 2027 r.",
+      "funder": "Prezydent Grudziądza",
+      "source": "Urząd Miejski w Grudziądzu",
+      "source_name": "Urząd Miejski w Grudziądzu",
+      "description": "Konkurs na prowadzenie kawiarni w Spichlerzu 57 na obszarze rewitalizacji jako miejsca aktywizacji społeczno-zawodowej osób wykluczonych, w tym z niepełnosprawnością, w 2027 r. Wybrana zostanie jedna oferta; forma wsparcia z wkładem rzeczowym lub osobowym, oferty do 14.12.2026 r.",
+      "voivodeships": [
+        "kujawsko-pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "pula 168 000 zł",
+      "total_budget": 168000,
+      "currency": "PLN",
+      "own_contribution": "oferent zapewnia wkład rzeczowy i/lub osobowy (może być zastąpiony środkami finansowymi)",
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.grudziadz.pl/artykul/ogloszenie-otwartego-konkursu-ofert-na-realizacje-zadania-publicznego-z-zakresu-rewitalizacji-n-12",
+      "collected_at": "2026-11-24",
+      "last_checked": "2026-11-24",
+      "thematic_areas": [
+        "rewitalizacja",
+        "integracja osób zagrożonych wykluczeniem",
+        "aktywizacja zawodowa"
+      ],
+      "target_groups": [
+        "osoby zagrożone wykluczeniem społecznym",
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie nr 668/26 Prezydenta Grudziądza z 20.11.2026, PDF z BIP (pdftotext, pdf_extracts/2026-11-24/grudziadz_c8.txt); forma wsparcia; wkład powyżej 20% dodatkowo punktowany",
+      "voivodeship": [
+        "kujawsko-pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "pula 168 000 zł",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Grudziądz"
+        }
+      ]
+    },
+    {
       "id": "g_53c4cf124084417e",
       "title": "Jadłodzielnia i podzielnia na Ochocie w latach 2027–2029 (Warszawa)",
       "funder": "Miasto Stołeczne Warszawa",
@@ -30122,6 +29868,138 @@
         {
           "type": "gmina",
           "name": "Oleśnica"
+        }
+      ]
+    },
+    {
+      "id": "g_03a5f713847dd3a1",
+      "title": "Olsztyn: szkolenie sportowe dzieci i młodzieży w ogólnopolskim współzawodnictwie sportowym w 2027 r.",
+      "funder": "Miasto Olsztyn",
+      "source": "Urząd Miasta Olsztyna",
+      "source_name": "Urząd Miasta Olsztyna",
+      "description": "Dotacje na szkolenie dzieci i młodzieży uczestniczących w systemie ogólnopolskiego współzawodnictwa sportowego, realizowane od 1.02 do 15.12.2027 r. Mogą startować wyłącznie organizacje pozarządowe i podmioty z art. 3 ust. 3 upp; wkład własny min. 10%, oferty elektroniczne do 14.12.2026 r.",
+      "voivodeships": [
+        "warminsko-mazurskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "pula 1 275 000 zł (może się zmienić po uchwaleniu budżetu na 2027 r.)",
+      "total_budget": 1275000,
+      "currency": "PLN",
+      "own_contribution": "wkład własny min. 10% kosztów całkowitych (rzeczowy lub osobowy, może być zastąpiony środkami finansowymi)",
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.olsztyn.eu/informacja/3835/otwarty-konkurs-ofert-na-realizacje-zadania-publicznego-w-zakresie-sportu-pn.-szkolenie-sportowe-dzieci-i-mlodziezy-bioracej-udzial-w-ogolnopolskim-wspolzawodnictwie-sportowym.html",
+      "collected_at": "2026-11-24",
+      "last_checked": "2026-11-24",
+      "thematic_areas": [
+        "kultura fizyczna i sport",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "sportowcy",
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.02.2027–15.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 10
+      },
+      "extraction_notes": "Ogłoszenie Prezydenta Olsztyna w BIP UM Olsztyn (treść na stronie); forma wsparcia; wersja elektroniczna do 14.12.2026 23:59, papierowa – data stempla do 15.12.2026",
+      "voivodeship": [
+        "warminsko-mazurskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "pula 1 275 000 zł (może się zmienić po uchwaleniu budżetu na 2027 r.)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Olsztyn"
+        }
+      ]
+    },
+    {
+      "id": "g_db65e03744e0539d",
+      "title": "Olsztyn: wspieranie szkolenia sportowego wszystkich kategorii wiekowych w 2027 r.",
+      "funder": "Miasto Olsztyn",
+      "source": "Urząd Miasta Olsztyna",
+      "source_name": "Urząd Miasta Olsztyna",
+      "description": "Dotacje dla klubów i organizacji sportowych na szkolenie sportowe zawodników wszystkich kategorii wiekowych w różnych dyscyplinach, realizowane od 1.02 do 15.12.2027 r. Wymagany wkład własny min. 10% kosztów; oferty elektroniczne do 14.12.2026 r. (23:59), wersja papierowa pocztą do 15.12.2026 r.",
+      "voivodeships": [
+        "warminsko-mazurskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "pula 1 725 000 zł (może się zmienić po uchwaleniu budżetu na 2027 r.)",
+      "total_budget": 1725000,
+      "currency": "PLN",
+      "own_contribution": "wkład własny min. 10% kosztów całkowitych (rzeczowy lub osobowy, może być zastąpiony środkami finansowymi)",
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.olsztyn.eu/informacja/3836/otwarty-konkurs-ofert-na-realizacje-zadania-publicznego-w-zakresie-sportu-pn.-wspieranie-szkolenia-sportowego-wszystkich-kategorii-wiekowych-w-roznych-dyscyplinach-sportowych.html",
+      "collected_at": "2026-11-24",
+      "last_checked": "2026-11-24",
+      "thematic_areas": [
+        "kultura fizyczna i sport"
+      ],
+      "target_groups": [
+        "sportowcy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.02.2027–15.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 10
+      },
+      "extraction_notes": "Ogłoszenie Prezydenta Olsztyna w BIP UM Olsztyn (treść na stronie); forma wsparcia; wersja elektroniczna do 14.12.2026 23:59, papierowa – data stempla do 15.12.2026; dotacja możliwa także na stypendia sportowe",
+      "voivodeship": [
+        "warminsko-mazurskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "pula 1 725 000 zł (może się zmienić po uchwaleniu budżetu na 2027 r.)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Olsztyn"
         }
       ]
     },
@@ -31495,6 +31373,143 @@
       ]
     },
     {
+      "id": "g_94c14de867099b24",
+      "title": "Łódź: poradnictwo specjalistyczne i prowadzenie trzech domów pomocy społecznej w 2027 r.",
+      "funder": "Miasto Łódź",
+      "source": "Urząd Miasta Łodzi",
+      "source_name": "Urząd Miasta Łodzi",
+      "description": "Miasto Łódź (MOPS) zleca w 2027 r. cztery zadania z pomocy społecznej: prowadzenie jednostek specjalistycznego poradnictwa (do 145 169 zł) oraz trzech domów pomocy społecznej – dla osób przewlekle psychicznie chorych (w tym ponadgminnego) i dla dorosłych mężczyzn z niepełnosprawnością intelektualną. Oferty składa się w generatorze w ciągu 21 dni od ogłoszenia, a potwierdzenie w MOPS przy ul. Kilińskiego 102/102a.",
+      "voivodeships": [
+        "lodzkie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "zad. 1: do 145 169 zł; zad. 2: do 5 144 902 zł; zad. 3: do 2 583 203 zł; zad. 4: do 929 070 zł (2027)",
+      "total_budget": 8802344,
+      "currency": "PLN",
+      "own_contribution": "wkład własny min. 5% (zad. 1) i min. 0,01% (zad. 2–4) – rzeczowy lub osobowy, może być zastąpiony środkami finansowymi",
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.uml.lodz.pl/urzad-miasta/ogloszenia-i-zawiadomienia/ogloszenia-urzedu-miasta-lodzi/ogloszenie/otwarty-konkurs-ofert-w-formie-wsparcia-realizacji-zadan-publicznych-w-zakresie-pomocy-spolecznej-w-tym-pomocy-rodzinom-i-osobom-w-trudnej-sytuacji-zyciowej-oraz-wyrownywania-szans-tych-rodzin-i-osob-6-id186439/2026/11/23/",
+      "collected_at": "2026-11-24",
+      "last_checked": "2026-11-24",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami",
+        "osoby zagrożone wykluczeniem społecznym",
+        "rodziny"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0.01
+      },
+      "extraction_notes": "Zarządzenie nr 2525/2026 Prezydenta Miasta Łodzi, ogłoszenie PDF z BIP UMŁ (pdftotext, pdf_extracts/2026-11-24/lodz_mops_2525.txt); forma wsparcia; termin WYLICZONY: oferty w generatorze w terminie 21 dni od dnia ogłoszenia – ogłoszenie w BIP 23.11.2026 → 14.12.2026; min. wkład 5% dla zad. 1, 0,01% dla zad. 2–4; zad. 2–4 wymagają zezwolenia wojewody na prowadzenie DPS",
+      "voivodeship": [
+        "lodzkie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "zad. 1: do 145 169 zł; zad. 2: do 5 144 902 zł; zad. 3: do 2 583 203 zł; zad. 4: do 929 070 zł (2027)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Łódź"
+        }
+      ]
+    },
+    {
+      "id": "g_c531654d893f312b",
+      "title": "Łódź: przeciwdziałanie uzależnieniom 2027 – hostele, dożywianie, jadłodajnie i placówki wsparcia dziennego",
+      "funder": "Miasto Łódź",
+      "source": "Urząd Miasta Łodzi",
+      "source_name": "Urząd Miasta Łodzi",
+      "description": "Konkurs w ramach miejskiego programu profilaktyki alkoholowej i przeciwdziałania narkomanii na 2027 r.: hostele dla osób uzależnionych od alkoholu i narkotyków, dożywianie i banki żywności, jadłodajnie i kuchnie społeczne, punkt pomocy charytatywnej oraz placówki wsparcia dziennego dla dzieci z rodzin z problemem alkoholowym (do 100 tys. zł na placówkę). Wymagany wkład własny min. 5%; oferty w generatorze w ciągu 21 dni od ogłoszenia.",
+      "voivodeships": [
+        "lodzkie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "7 zadań: 160 000 zł, 130 000 zł, 525 600 zł, 50 333 zł, 925 648 zł, 599 942 zł, 135 000 zł (2027); placówka wsparcia dziennego maks. 100 000 zł",
+      "total_budget": 2526523,
+      "currency": "PLN",
+      "own_contribution": "wkład własny min. 5% całkowitego kosztu (rzeczowy lub osobowy, może być zastąpiony środkami finansowymi)",
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.uml.lodz.pl/urzad-miasta/ogloszenia-i-zawiadomienia/ogloszenia-urzedu-miasta-lodzi/ogloszenie/otwarty-konkurs-ofert-w-formie-wsparcia-realizacji-zadan-publicznych-w-zakresie-przeciwdzialania-uzaleznieniom-i-patologiom-spolecznym-8-id186421/2026/11/23/",
+      "collected_at": "2026-11-24",
+      "last_checked": "2026-11-24",
+      "thematic_areas": [
+        "przeciwdziałanie uzależnieniom i patologiom",
+        "pomoc społeczna",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "osoby uzależnione i zagrożone uzależnieniem",
+        "dzieci i młodzież",
+        "osoby zagrożone wykluczeniem społecznym"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 5
+      },
+      "extraction_notes": "Zarządzenie nr 2507/2026 Prezydenta Miasta Łodzi, ogłoszenie PDF z BIP UMŁ (pdftotext, pdf_extracts/2026-11-24/lodz_mops_2507.txt); forma wsparcia; termin WYLICZONY: 21 dni od ogłoszenia w BIP 23.11.2026 → 14.12.2026; pula = suma 7 zadań",
+      "voivodeship": [
+        "lodzkie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "7 zadań: 160 000 zł, 130 000 zł, 525 600 zł, 50 333 zł, 925 648 zł, 599 942 zł, 135 000 zł (2027); placówka wsparcia dziennego maks. 100 000 zł",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Łódź"
+        }
+      ]
+    },
+    {
       "id": "g_d04df3b638d7229d",
       "title": "12.1 Rewitalizacja obszarów miejskich, Fundusze Europejskie dla Warmii i Mazur",
       "funder": "Województwo Warmińsko-Mazurskie",
@@ -31741,6 +31756,69 @@
         {
           "type": "gmina",
           "name": "Strzegom"
+        }
+      ]
+    },
+    {
+      "id": "g_098e17c249708975",
+      "title": "Zielona Góra: wypoczynek zimowy dzieci i młodzieży – Akcja Zima 2027",
+      "funder": "Miasto Zielona Góra",
+      "source": "Miasto Zielona Góra",
+      "source_name": "Miasto Zielona Góra",
+      "description": "Dotacje na kolonie, obozy, zimowiska, półkolonie, biwaki i rajdy oraz inne formy zagospodarowania czasu wolnego dzieci i młodzieży w ferie zimowe 2027 (realizacja 1.02–31.03.2027). Jedna oferta maks. 15 tys. zł, co najmniej 10 uczestników, do 2 ofert na oferenta; oferty papierowe (wydruk z generatora) do 15.12.2026 r., godz. 15:30.",
+      "voivodeships": [
+        "lubuskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": 15000,
+      "amount_text": "pula 100 000 zł; maks. 15 000 zł na ofertę",
+      "total_budget": 100000,
+      "currency": "PLN",
+      "own_contribution": "w formie wsparcia oferent zapewnia wkład rzeczowy lub osobowy (może być zastąpiony środkami finansowymi)",
+      "deadline": "2026-12-15",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "edukacja"
+      ],
+      "source_url": "https://bip.zielonagora.pl/496/29629/Otwarty_konkurs_ofert_na_realizacje_zadan_publicznych_Miasta_Zielona_Gora_w_2027_roku_w_zakresie_dzialalnosci_na_rzecz_dzieci_i_mlodziezy_2C_w_tym_pracy_z_mlodzieza_oraz_wypoczynku_dzieci_i_mlodziezy/",
+      "collected_at": "2026-11-24",
+      "last_checked": "2026-11-24",
+      "thematic_areas": [
+        "dzieci i młodzież",
+        "nauka, edukacja, oświata i wychowanie"
+      ],
+      "target_groups": [
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.02.2027–31.03.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie nr 1213.2026 Prezydenta Miasta Zielona Góra z 20.11.2026 (PDF z BIP, pdftotext, pdf_extracts/2026-11-24/zielonagora_zg_dm.txt); opublikowane 23.11.2026; forma wsparcia lub powierzenia; wkład własny (rzeczowy/osobowy) wymagany przy wsparciu, bez minimalnego %",
+      "voivodeship": [
+        "lubuskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "pula 100 000 zł; maks. 15 000 zł na ofertę",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Zielona Góra"
         }
       ]
     },
@@ -32063,7 +32141,7 @@
       "max_project_duration": "1.01.2027–31.12.2029",
       "own_contribution_required": null,
       "min_own_contribution": null,
-      "extraction_notes": "105 000 zł rocznie (2027, 2028, 2029); kwota na 2027 r. z prowizorium budżetowego. Ogłoszenie opublikowane w BIP 20.11.2026. Wkład własny nieobowiązkowy, punktowany.; QA 2026-11-23: scalono z duplikatem g_528d62a4dc3339d0",
+      "extraction_notes": "105 000 zł rocznie (2027, 2028, 2029); kwota na 2027 r. z prowizorium budżetowego. Ogłoszenie opublikowane w BIP 20.11.2026. Wkład własny nieobowiązkowy, punktowany.; QA 2026-11-24: scalono z duplikatem g_528d62a4dc3339d0",
       "voivodeship": [
         "lubuskie"
       ],
