@@ -1,8 +1,8 @@
 {
   "schema_version": "2.2.0",
-  "last_updated": "2026-11-24T06:03:34+01:00",
-  "generated_at": "2026-11-24T06:03:34+01:00",
-  "count": 567,
+  "last_updated": "2026-11-25T06:09:16+01:00",
+  "generated_at": "2026-11-25T06:09:16+01:00",
+  "count": 571,
   "voivodeships": [
     {
       "code": "dolnoslaskie",
@@ -378,375 +378,6 @@
     }
   ],
   "grants": [
-    {
-      "id": "g_40a47de5458a198e",
-      "title": "Działanie 6.8 Inwestycje w infrastrukturę społeczną [nabór nr FEKP.06.08-IZ.00-311/26], Fundusze Europejskie dla Kujaw i Pomorza",
-      "funder": "Województwo Kujawsko-Pomorskie",
-      "source": "Województwo Kujawsko-Pomorskie",
-      "source_name": "Województwo Kujawsko-Pomorskie",
-      "description": "Województwo Kujawsko-Pomorskie ogłasza nabór wniosków: Działanie 6.8 Inwestycje w infrastrukturę społeczną [nabór nr FEKP.06.08-IZ.00-311/26], Fundusze Europejskie dla Kujaw i Pomorza. Wnioski/oferty można składać do 24.11.2026 r. Dostępne środki: pula środków 12 121 267,13 zł. Wśród uprawnionych wnioskodawców są organizacje pozarządowe (stowarzyszenia, fundacje).",
-      "voivodeships": [
-        "kujawsko-pomorskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "JST i instytucje publiczne"
-      ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": "pula naboru: 12 121 267,13 zł (potwierdzone na stronie oficjalnej)",
-      "total_budget": 12121267.13,
-      "currency": "PLN",
-      "own_contribution": "Maks. dofinansowanie 95%, wkład własny min. 5%",
-      "deadline": "2026-11-24",
-      "start_date": "2026-10-15",
-      "status": "aktywny",
-      "category": [
-        "pomoc_spoleczna"
-      ],
-      "source_url": "https://www.funduszeunijne.gov.pl/nabory/dzialanie-68-inwestycje-w-infrastrukture-spoleczna-nabor-nr-fekp0608-iz00-31126/",
-      "collected_at": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "thematic_areas": [],
-      "target_groups": [],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": null,
-      "own_contribution_required": true,
-      "min_own_contribution": {
-        "type": "percent",
-        "value": 5
-      },
-      "extraction_notes": "termin 24.11.2026 potwierdzony (źródło: https://www.funduszeunijne.gov.pl/nabory/dzialanie-68-inwestycje-w-infrastrukture-spoleczna-nabor-nr-fekp0608-iz00-31126/ – mojregion.eu (ogłoszenie FEKP.06.08)); weryfikacja ręczna 2026-11-21: NGO mogą wnioskować wyłącznie w zakresie mieszkań z usługami/mieszkań wspomaganych; termin 24.11.2026 potwierdzony",
-      "voivodeship": [
-        "kujawsko-pomorskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": "pula naboru: 12 121 267,13 zł (potwierdzone na stronie oficjalnej)",
-      "scope": "wojewodzki",
-      "locality": []
-    },
-    {
-      "id": "g_549af9b930732954",
-      "title": "Otwarty konkurs ofert na realizację zadań publicznych Miasta Zielona Góra w 2026 roku w zakresie wspierania i upowszechniania kultury fizycznej.",
-      "funder": "Miasto Zielona Góra",
-      "source": "Miasto Zielona Góra",
-      "source_name": "Miasto Zielona Góra",
-      "description": "Miasto Zielona Góra ogłasza otwarty konkurs ofert: Otwarty konkurs ofert na realizację zadań publicznych Miasta Zielona Góra w 2026 roku w zakresie wspierania i upowszechniania kultury fizycznej. Wnioski/oferty można składać do 24.11.2026 r. Wśród uprawnionych wnioskodawców są organizacje pozarządowe (stowarzyszenia, fundacje).",
-      "voivodeships": [
-        "lubuskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": null,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-24",
-      "start_date": "2026-11-03",
-      "status": "aktywny",
-      "category": [
-        "sport"
-      ],
-      "source_url": "https://bip.zielonagora.pl/496/29506/Otwarty_konkurs_ofert_na_realizacje_zadan_publicznych_Miasta_Zielona_Gora_w_2026_roku_w_zakresie_wspierania_i_upowszechniania_kultury_fizycznej/",
-      "collected_at": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "thematic_areas": [
-        "kultura fizyczna i sport"
-      ],
-      "target_groups": [],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": null,
-      "own_contribution_required": null,
-      "min_own_contribution": null,
-      "extraction_notes": "weryfikacja ręczna 2026-11-21: termin 24.11.2026 potwierdzony w PDF ogłoszenia",
-      "voivodeship": [
-        "lubuskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": null,
-      "scope": "gminny",
-      "locality": [
-        {
-          "type": "gmina",
-          "name": "Zielona Góra"
-        }
-      ]
-    },
-    {
-      "id": "g_abeb994ab4080605",
-      "title": "Powiat krośnieński: mieszkanie treningowe dla 6 osób i wspomagane dla 1 osoby w 2027 r.",
-      "funder": "Zarząd Powiatu Krośnieńskiego",
-      "source": "Starostwo Powiatowe w Krośnie",
-      "source_name": "Starostwo Powiatowe w Krośnie",
-      "description": "Wsparcie prowadzenia mieszkania treningowego (6 miejsc) i wspomaganego (1 miejsce) dla dorosłych potrzebujących pomocy w codziennym funkcjonowaniu, m.in. osób z zaburzeniami psychicznymi, bezdomnych i opuszczających pieczę. Oferty w zamkniętej kopercie w starostwie w ciągu 21 dni od publikacji ogłoszenia (3.11.2026), czyli do ok. 24.11.2026 r. Termin wyliczony – sprawdź w ogłoszeniu.",
-      "voivodeships": [
-        "podkarpackie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
-      ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": 235200,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-24",
-      "start_date": null,
-      "status": "aktywny",
-      "category": [
-        "pomoc_spoleczna"
-      ],
-      "source_url": "https://powiat.krosno.pl/aktualnosc-4342-ogloszenie_zarzadu_powiatu.html",
-      "collected_at": "2026-11-22",
-      "last_checked": "2026-11-22",
-      "thematic_areas": [
-        "pomoc społeczna",
-        "potrzeby mieszkaniowe",
-        "osoby niepełnosprawne"
-      ],
-      "target_groups": [
-        "osoby z niepełnosprawnościami",
-        "osoby w kryzysie bezdomności",
-        "osoby zagrożone wykluczeniem społecznym"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": "2027",
-      "own_contribution_required": null,
-      "min_own_contribution": null,
-      "extraction_notes": "termin wyliczony: 21 dni od publikacji 3.11.2026",
-      "voivodeship": [
-        "podkarpackie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": null,
-      "scope": "powiatowy",
-      "locality": [
-        {
-          "type": "powiat",
-          "name": "krośnieński"
-        }
-      ]
-    },
-    {
-      "id": "g_42c82d511cefb106",
-      "title": "Prowadzenie punktów nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego w Opolu w 2027",
-      "funder": "Miasto Opole",
-      "source": "Miasto Opole",
-      "source_name": "Miasto Opole",
-      "description": "Miasto Opole ogłasza otwarty konkurs ofert: Prowadzenie punktów nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego w Opolu w 2027. Wnioski/oferty można składać do 24.11.2026 r. Wśród uprawnionych wnioskodawców są organizacje pozarządowe (stowarzyszenia, fundacje).",
-      "voivodeships": [
-        "opolskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": null,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-24",
-      "start_date": "2026-11-02",
-      "status": "aktywny",
-      "category": [
-        "pomoc_spoleczna"
-      ],
-      "source_url": "https://bip.um.opole.pl/umo,25_7545",
-      "collected_at": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "thematic_areas": [
-        "nieodpłatna pomoc prawna",
-        "nieodpłatne poradnictwo obywatelskie"
-      ],
-      "target_groups": [],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": null,
-      "own_contribution_required": null,
-      "min_own_contribution": null,
-      "extraction_notes": "termin 2026-11-24 potwierdzony automatycznie w treści oryginalnego ogłoszenia (2026-11-21)",
-      "voivodeship": [
-        "opolskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": null,
-      "scope": "gminny",
-      "locality": [
-        {
-          "type": "gmina",
-          "name": "Opole"
-        }
-      ]
-    },
-    {
-      "id": "g_31e38f37cb193a82",
-      "title": "Punkty nieodpłatnej pomocy prawnej i poradnictwa obywatelskiego w Piotrkowie Trybunalskim w 2027 r.",
-      "funder": "Miasto Piotrków Trybunalski",
-      "source": "Urząd Miasta Piotrkowa Trybunalskiego",
-      "source_name": "Urząd Miasta Piotrkowa Trybunalskiego",
-      "description": "Miasto powierzy prowadzenie dwóch punktów: jednego z bezpłatną pomocą prawną i jednego z poradnictwem obywatelskim, każdy z mediacją i edukacją prawną. Na każdy punkt 74 341,02 zł (razem 148 682,04 zł). Oferty papierowo do 24.11.2026, godz. 15:30.",
-      "voivodeships": [
-        "lodzkie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [],
-      "amount_min": null,
-      "amount_max": 74341.02,
-      "amount_text": null,
-      "total_budget": 148682.04,
-      "currency": "PLN",
-      "own_contribution": "nie wymagany (forma powierzenia)",
-      "deadline": "2026-11-24",
-      "start_date": "2026-11-03",
-      "status": "aktywny",
-      "category": [
-        "pomoc_spoleczna"
-      ],
-      "source_url": "https://www.piotrkow.pl/content/files/zalacznik-1-1793791837.docx",
-      "collected_at": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "thematic_areas": [
-        "nieodpłatna pomoc prawna",
-        "nieodpłatne poradnictwo obywatelskie"
-      ],
-      "target_groups": [
-        "ogół mieszkańców"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": "01.01.2027–31.12.2027",
-      "own_contribution_required": false,
-      "min_own_contribution": {
-        "type": "percent",
-        "value": 0
-      },
-      "extraction_notes": "źródło: załącznik nr 1 do zarządzenia nr 315 Prezydenta Miasta Piotrkowa Trybunalskiego z 3.11.2026 (DOCX na stronie miasta), 2026-11-21; wymagany wpis na listę wojewody",
-      "voivodeship": [
-        "lodzkie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": "do 74 341 zł",
-      "scope": "gminny",
-      "locality": [
-        {
-          "type": "gmina",
-          "name": "Piotrków Trybunalski"
-        }
-      ]
-    },
-    {
-      "id": "g_133b9e6c3d32b9cd",
-      "title": "Punkty nieodpłatnej pomocy prawnej i poradnictwa obywatelskiego w Tychach w 2027 r.",
-      "funder": "Miasto Tychy",
-      "source": "Urząd Miasta Tychy",
-      "source_name": "Urząd Miasta Tychy",
-      "description": "Prowadzenie w 2027 roku jednego punktu nieodpłatnej pomocy prawnej i dwóch punktów nieodpłatnego poradnictwa obywatelskiego w Tychach, wraz z edukacją prawną. Na jeden punkt 74 730,24 zł, łącznie 224 190,72 zł; lokale zapewnia miasto. Dla organizacji z listy wojewody śląskiego; oddzielna oferta na każdy punkt. Oferty do 24.11.2026.",
-      "voivodeships": [
-        "slaskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
-      ],
-      "amount_min": null,
-      "amount_max": 74730.24,
-      "amount_text": null,
-      "total_budget": 224190.72,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-24",
-      "start_date": null,
-      "status": "aktywny",
-      "category": [
-        "pomoc_spoleczna"
-      ],
-      "source_url": "https://bip.umtychy.pl/otwarte-konkursy-ofert/1470",
-      "collected_at": "2026-11-22",
-      "last_checked": "2026-11-22",
-      "thematic_areas": [
-        "nieodpłatna pomoc prawna",
-        "nieodpłatne poradnictwo obywatelskie"
-      ],
-      "target_groups": [
-        "ogół mieszkańców"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": "01.01.2027–31.12.2027",
-      "own_contribution_required": false,
-      "min_own_contribution": {
-        "type": "percent",
-        "value": 0
-      },
-      "extraction_notes": "BIP UM Tychy + ogłoszenie konkursowe (DOCX) 2026-11-22; wkładu własnego nie wycenia się w ofercie",
-      "voivodeship": [
-        "slaskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": "do 74 730 zł",
-      "scope": "gminny",
-      "locality": [
-        {
-          "type": "gmina",
-          "name": "Tychy"
-        }
-      ]
-    },
     {
       "id": "g_b87da2391a4f65c4",
       "title": "Grudziądz: posiłek wigilijny dla 400 osób w kryzysie bezdomności lub w niedostatku (2026)",
@@ -1493,7 +1124,7 @@
         "type": "percent",
         "value": 0
       },
-      "extraction_notes": "ogłoszenie Prezydenta Miasta Łodzi z 6.11.2026 (PDF z BIP UMŁ, pdftotext) 2026-11-21; termin WYLICZONY: ogłoszenie podaje '21 dni od dnia ukazania się ogłoszenia' – od 6.11.2026 daje 27.11.2026; wymagany wpis na listę Wojewody Łódzkiego (art. 11d ustawy o NPP); QA 2026-11-24: scalono z duplikatem g_fd2129850945fa1e",
+      "extraction_notes": "ogłoszenie Prezydenta Miasta Łodzi z 6.11.2026 (PDF z BIP UMŁ, pdftotext) 2026-11-21; termin WYLICZONY: ogłoszenie podaje '21 dni od dnia ukazania się ogłoszenia' – od 6.11.2026 daje 27.11.2026; wymagany wpis na listę Wojewody Łódzkiego (art. 11d ustawy o NPP); QA 2026-11-25: scalono z duplikatem g_fd2129850945fa1e",
       "voivodeship": [
         "lodzkie"
       ],
@@ -2204,6 +1835,69 @@
         {
           "type": "gmina",
           "name": "Warszawa"
+        }
+      ]
+    },
+    {
+      "id": "g_55d5b87ae08784aa",
+      "title": "Łódź: dotacje na prace konserwatorskie, restauratorskie i budowlane przy zabytkach w 2027 r.",
+      "funder": "Miasto Łódź",
+      "source": "Urząd Miasta Łodzi",
+      "source_name": "Urząd Miasta Łodzi",
+      "description": "Miasto Łódź przyjmuje wnioski o dotacje na prace konserwatorskie, restauratorskie lub roboty budowlane przy zabytkach z rejestru lub gminnej ewidencji położonych w Łodzi. O dotację może starać się m.in. stowarzyszenie lub fundacja mająca tytuł prawny do zabytku; standardowo miasto finansuje połowę nakładów koniecznych, wyjątkowo całość.",
+      "voivodeships": [
+        "lodzkie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "osoby fizyczne",
+        "inne jednostki organizacyjne posiadające tytuł prawny do zabytku"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "standardowo połowa nakładów koniecznych (50%), wyjątkowo całość (100%)",
+      "total_budget": null,
+      "currency": "PLN",
+      "own_contribution": "standardowo miasto pokrywa połowę nakładów koniecznych (50%), wyjątkowo całość – przy szczególnej wartości zabytku lub pilnej potrzebie prac",
+      "deadline": "2026-11-30",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "kultura"
+      ],
+      "source_url": "https://bip.uml.lodz.pl/urzad-miasta/ogloszenia-i-zawiadomienia/ogloszenia-urzedu-miasta-lodzi/ogloszenie/nabor-wnioskow-w-terminie-do-dnia-30-listopada-2026-r-na-wykonanie-prac-konserwatorskich-restauratorskich-lub-robot-budowlanych-przy-zabytkach-wpisanych-do-rejestru-zabytkow-lub-znajdujacych-sie-w-gminnej-ewidencji-zabytkow-polozonych-na-obszarze-miasta-lodzi-na-ktore-miasto-lodz-udzieli-dotacji-w-2027-r-id179680/2026/09/23/",
+      "collected_at": "2026-11-25",
+      "last_checked": "2026-11-25",
+      "thematic_areas": [
+        "kultura, sztuka, dziedzictwo narodowe"
+      ],
+      "target_groups": [
+        "ogół mieszkańców"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "prace do 5.12.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie nr 2050/2026 Prezydenta Miasta Łodzi, załącznik nr 1 – ogłoszenie (PDF z BIP UMŁ, pdftotext → pdf_extracts/2026-11-25/lodz_zabytki_2050_2026.txt); wnioski papierowe do 30.11.2026 (decyduje data wpływu); uprawnieni: osoby fizyczne i jednostki organizacyjne z tytułem prawnym do zabytku – NGO tylko jako właściciel/posiadacz zabytku; rozstrzygnięcie po uchwaleniu budżetu 2027",
+      "voivodeship": [
+        "lodzkie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "standardowo połowa nakładów koniecznych (50%), wyjątkowo całość (100%)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Łódź"
         }
       ]
     },
@@ -4093,6 +3787,71 @@
         {
           "type": "gmina",
           "name": "Kościerzyna"
+        }
+      ]
+    },
+    {
+      "id": "g_04662354c00a66de",
+      "title": "Krapkowice: wsparcie rozwoju sportu – konkurs projektów dla klubów sportowych na 2027 r.",
+      "funder": "Gmina Krapkowice",
+      "source": "Gmina Krapkowice",
+      "source_name": "Gmina Krapkowice",
+      "description": "Gmina Krapkowice przyjmuje wnioski klubów sportowych na projekty poprawiające warunki uprawiania sportu w 2027 r. Dotacja może pokryć do 90% kosztów projektu, a klub musi wnieść co najmniej 10% wkładu finansowego.",
+      "voivodeships": [
+        "opolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "kluby sportowe w rozumieniu ustawy o sporcie (bez względu na formę prawną)"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "planowana pula 820 000 zł (2027); dotacja do 90% kosztów projektu",
+      "total_budget": 820000,
+      "currency": "PLN",
+      "own_contribution": "wkład własny finansowy klubu min. 10% kosztów projektu",
+      "deadline": "2026-12-04",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.krapkowice.pl/19463/konkurs-projektow-wsparcie-rozwoju-sportu-na-terenie-gminy-krapkowice-w-2027-roku.html",
+      "collected_at": "2026-11-25",
+      "last_checked": "2026-11-25",
+      "thematic_areas": [
+        "kultura fizyczna i sport"
+      ],
+      "target_groups": [
+        "sportowcy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "od podpisania umowy do 15.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 10
+      },
+      "extraction_notes": "Zarządzenie nr 594/2026 Burmistrza Krapkowic (konkurs na podstawie ustawy o sporcie); strona BIP + PDF szczegółowych warunków (pdf_extracts/2026-11-25/krapkowice_sport_2027.txt); termin składania wniosków 4.12.2026 godz. 14:00; uprawnione kluby sportowe (art. 3 ust. 2 i art. 4 ustawy o sporcie) – zwykle stowarzyszenia; min_own_contribution wyliczony jako 100% - maks. poziom dofinansowania (90%)",
+      "voivodeship": [
+        "opolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "planowana pula 820 000 zł (2027); dotacja do 90% kosztów projektu",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Krapkowice"
         }
       ]
     },
@@ -6995,7 +6754,7 @@
       "max_project_duration": "2027",
       "own_contribution_required": null,
       "min_own_contribution": null,
-      "extraction_notes": "komunikat na oficjalnej stronie miasta 2026-11-22; BIP Ełku blokuje automatyczne zapytania (403 antybot) – podział kwot na zadania niezweryfikowany; QA 2026-11-24: scalono z duplikatem g_1100d55d5f71217a",
+      "extraction_notes": "komunikat na oficjalnej stronie miasta 2026-11-22; BIP Ełku blokuje automatyczne zapytania (403 antybot) – podział kwot na zadania niezweryfikowany; QA 2026-11-25: scalono z duplikatem g_1100d55d5f71217a",
       "voivodeship": [
         "warminsko-mazurskie"
       ],
@@ -31630,6 +31389,472 @@
       ]
     },
     {
+      "id": "g_c85a3bbe8c330d5d",
+      "title": "Elbląg: dom dla matek z małoletnimi dziećmi i kobiet w ciąży z interwencją kryzysową (2027–2030)",
+      "funder": "Miasto Elbląg",
+      "source": "Urząd Miejski w Elblągu",
+      "source_name": "Urząd Miejski w Elblągu",
+      "description": "Czteroletni konkurs Miasta Elbląga na prowadzenie ośrodka wsparcia – domu dla matek z małoletnimi dziećmi i kobiet w ciąży, realizującego też zadania interwencji kryzysowej. Zadanie może być powierzone lub wsparte; budżet to 340 tys. zł rocznie.",
+      "voivodeships": [
+        "warminsko-mazurskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "1 360 000 zł w latach 2027–2030 (340 000 zł rocznie)",
+      "total_budget": 1360000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-15",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.elblag.eu/artykul/98/11525/prezydent-miasta-elblaga-oglasza-otwarty-konkurs-ofert-na-powierzenie-lub-wsparcie-realizacji-zadania-z-zakresu-pomocy-spolecznej-pn-prowadzenie-osrodka-wsparcia-domu-dla-matek-z-maloletnimi-dziecmi-i-kobiet-w-ciazy-realizujacego-rowniez-zadania-z-zakresu-interwencji-kryzysowej",
+      "collected_at": "2026-11-25",
+      "last_checked": "2026-11-25",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "rodzina i prawa dziecka"
+      ],
+      "target_groups": [
+        "kobiety",
+        "rodziny",
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2030",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Ogłoszenie Prezydenta Miasta Elbląga w BIP (strona + PDF ogłoszenia, pdftotext → pdf_extracts/2026-11-25/elblag_11525.txt); forma wsparcia; termin składania ofert 15.12.2026 (generator ofert lub papierowo w Urzędzie Miejskim); forma powierzenia lub wsparcia; ogłoszenie nie określa minimalnego wkładu własnego; uprawnieni: organizacje z działalnością statutową w dziedzinie pomocy społecznej",
+      "voivodeship": [
+        "warminsko-mazurskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "1 360 000 zł w latach 2027–2030 (340 000 zł rocznie)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Elbląg"
+        }
+      ]
+    },
+    {
+      "id": "g_5f4deecbf74d6288",
+      "title": "Elbląg: działania profilaktyczne i wspierające dla osób utrzymujących abstynencję w 2027 r.",
+      "funder": "Miasto Elbląg",
+      "source": "Urząd Miejski w Elblągu",
+      "source_name": "Urząd Miejski w Elblągu",
+      "description": "Konkurs Miasta Elbląga na wsparcie w 2027 r. działań profilaktycznych i wspierających dla osób utrzymujących abstynencję. Mogą startować organizacje działające statutowo w obszarze przeciwdziałania uzależnieniom.",
+      "voivodeships": [
+        "warminsko-mazurskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "50 000 zł (2027)",
+      "total_budget": 50000,
+      "currency": "PLN",
+      "own_contribution": "wkład własny min. 20% całkowitej kwoty zadania (wkład rzeczowy/osobowy może być zastąpiony środkami finansowymi)",
+      "deadline": "2026-12-15",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.elblag.eu/artykul/98/11521/prezydent-miasta-elblaga-oglasza-otwarty-konkurs-ofert-na-wsparcie-realizacji-zadania-z-zakresu-przeciwdzialania-uzaleznieniom-i-patologiom-spolecznym-pn-dzialania-profilaktyczne-i-wspierajace-dla-osob-utrzymujacych-abstynencje",
+      "collected_at": "2026-11-25",
+      "last_checked": "2026-11-25",
+      "thematic_areas": [
+        "przeciwdziałanie uzależnieniom i patologiom",
+        "ochrona i promocja zdrowia"
+      ],
+      "target_groups": [
+        "osoby uzależnione i zagrożone uzależnieniem"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 20
+      },
+      "extraction_notes": "Ogłoszenie Prezydenta Miasta Elbląga w BIP (strona + PDF ogłoszenia, pdftotext → pdf_extracts/2026-11-25/elblag_11521.txt); forma wsparcia; termin składania ofert 15.12.2026 (generator ofert lub papierowo w Urzędzie Miejskim); uprawnieni: organizacje z działalnością statutową w dziedzinie przeciwdziałania uzależnieniom i patologiom społecznym",
+      "voivodeship": [
+        "warminsko-mazurskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "50 000 zł (2027)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Elbląg"
+        }
+      ]
+    },
+    {
+      "id": "g_0138204859299c57",
+      "title": "Elbląg: posiłki dla osób bezdomnych, w tym z problemem alkoholowym (I–IV 2027)",
+      "funder": "Miasto Elbląg",
+      "source": "Urząd Miejski w Elblągu",
+      "source_name": "Urząd Miejski w Elblągu",
+      "description": "Miasto Elbląg dofinansuje wydawanie posiłków osobom bezdomnym, w tym z problemem alkoholowym, w okresie od stycznia do połowy kwietnia 2027 r. Wymagany wkład własny min. 20%.",
+      "voivodeships": [
+        "warminsko-mazurskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "78 000 zł (2027)",
+      "total_budget": 78000,
+      "currency": "PLN",
+      "own_contribution": "wkład własny min. 20% całkowitej kwoty zadania (wkład rzeczowy/osobowy może być zastąpiony środkami finansowymi)",
+      "deadline": "2026-12-15",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.elblag.eu/artykul/98/11526/prezydent-miasta-elblaga-oglasza-otwarty-konkurs-ofert-na-wsparcie-realizacji-zadania-z-zakresu-przeciwdzialania-uzaleznieniom-i-patologiom-spolecznym-pn-posilki-dla-osob-bezdomnych-w-tym-dla-osob-z-problemem-alkoholowym",
+      "collected_at": "2026-11-25",
+      "last_checked": "2026-11-25",
+      "thematic_areas": [
+        "przeciwdziałanie uzależnieniom i patologiom",
+        "pomoc społeczna",
+        "działalność charytatywna"
+      ],
+      "target_groups": [
+        "osoby w kryzysie bezdomności",
+        "osoby uzależnione i zagrożone uzależnieniem"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–15.04.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 20
+      },
+      "extraction_notes": "Ogłoszenie Prezydenta Miasta Elbląga w BIP (strona + PDF ogłoszenia, pdftotext → pdf_extracts/2026-11-25/elblag_11526.txt); forma wsparcia; termin składania ofert 15.12.2026 (generator ofert lub papierowo w Urzędzie Miejskim); uprawnieni: organizacje z działalnością statutową w dziedzinie przeciwdziałania uzależnieniom i patologiom społecznym",
+      "voivodeship": [
+        "warminsko-mazurskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "78 000 zł (2027)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Elbląg"
+        }
+      ]
+    },
+    {
+      "id": "g_6af787c541846d75",
+      "title": "Elbląg: punkt konsultacyjno-informacyjny i programy dla osób uzależnionych i ich rodzin w 2027 r.",
+      "funder": "Miasto Elbląg",
+      "source": "Urząd Miejski w Elblągu",
+      "source_name": "Urząd Miejski w Elblągu",
+      "description": "Miasto Elbląg wesprze prowadzenie punktu konsultacyjno-informacyjnego (wsparcie psychologiczno-pedagogiczne i edukacyjne) oraz programy profilaktyczne, terapeutyczne i rehabilitacyjne dla osób uzależnionych, współuzależnionych i ich rodzin.",
+      "voivodeships": [
+        "warminsko-mazurskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "150 000 zł (2027)",
+      "total_budget": 150000,
+      "currency": "PLN",
+      "own_contribution": "wkład własny min. 20% całkowitej kwoty zadania (wkład rzeczowy/osobowy może być zastąpiony środkami finansowymi)",
+      "deadline": "2026-12-15",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.elblag.eu/artykul/98/11530/prezydent-miasta-elblaga-oglasza-otwarty-konkurs-ofert-na-wsparcie-realizacji-zadania-z-zakresu-przeciwdzialania-uzaleznieniom-i-patologiom-spolecznym-pn-prowadzenie-punktu-konsultacyjno-informacyjnego-jako-wsparcia-psychologiczno-pedagogicznego-i-edukacyjnego-oraz-realizacja-programow-profilaktycznych-terapeutycznych-i-rehabilitacyjnych-dla-osob-uzaleznionych-wspoluzaleznionych-i-ich-rodzin",
+      "collected_at": "2026-11-25",
+      "last_checked": "2026-11-25",
+      "thematic_areas": [
+        "przeciwdziałanie uzależnieniom i patologiom",
+        "ochrona i promocja zdrowia"
+      ],
+      "target_groups": [
+        "osoby uzależnione i zagrożone uzależnieniem",
+        "rodziny"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 20
+      },
+      "extraction_notes": "Ogłoszenie Prezydenta Miasta Elbląga w BIP (strona + PDF ogłoszenia, pdftotext → pdf_extracts/2026-11-25/elblag_11530.txt); forma wsparcia; termin składania ofert 15.12.2026 (generator ofert lub papierowo w Urzędzie Miejskim); uprawnieni: organizacje pozarządowe z działalnością statutową w dziedzinie przeciwdziałania uzależnieniom",
+      "voivodeship": [
+        "warminsko-mazurskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "150 000 zł (2027)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Elbląg"
+        }
+      ]
+    },
+    {
+      "id": "g_ef8e1888af5aa513",
+      "title": "Elbląg: reintegracja społeczno-zawodowa osób zagrożonych wykluczeniem w 2027 r.",
+      "funder": "Miasto Elbląg",
+      "source": "Urząd Miejski w Elblągu",
+      "source_name": "Urząd Miejski w Elblągu",
+      "description": "Miasto Elbląg wesprze w 2027 r. działania na rzecz reintegracji społecznej i zawodowej osób zagrożonych wykluczeniem społecznym. Konkurs skierowany do organizacji działających statutowo w tym obszarze.",
+      "voivodeships": [
+        "warminsko-mazurskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "100 000 zł (2027)",
+      "total_budget": 100000,
+      "currency": "PLN",
+      "own_contribution": "wkład własny min. 20% całkowitej kwoty zadania (wkład rzeczowy/osobowy może być zastąpiony środkami finansowymi)",
+      "deadline": "2026-12-15",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.elblag.eu/artykul/98/11523/prezydent-miasta-elblaga-oglasza-otwarty-konkurs-ofert-na-wsparcie-realizacji-zadania-z-zakresu-dzialalnosci-na-rzecz-integracji-i-reintegracji-zawodowej-i-spolecznej-osob-zagrozonych-wykluczeniem-spolecznym-pn-dzialania-z-zakresu-reintegracji-spoleczno-zawodowej-osob-zagrozonych-wykluczeniem-spolecznym",
+      "collected_at": "2026-11-25",
+      "last_checked": "2026-11-25",
+      "thematic_areas": [
+        "integracja osób zagrożonych wykluczeniem",
+        "aktywizacja zawodowa"
+      ],
+      "target_groups": [
+        "osoby zagrożone wykluczeniem społecznym"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 20
+      },
+      "extraction_notes": "Ogłoszenie Prezydenta Miasta Elbląga w BIP (strona + PDF ogłoszenia, pdftotext → pdf_extracts/2026-11-25/elblag_11523.txt); forma wsparcia; termin składania ofert 15.12.2026 (generator ofert lub papierowo w Urzędzie Miejskim); uprawnieni: organizacje z działalnością statutową w dziedzinie integracji i reintegracji zawodowej i społecznej",
+      "voivodeship": [
+        "warminsko-mazurskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "100 000 zł (2027)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Elbląg"
+        }
+      ]
+    },
+    {
+      "id": "g_0e86f2e8515f737c",
+      "title": "Elbląg: wsparcie specjalistyczne dla rodzin w kryzysie w 2027 r.",
+      "funder": "Miasto Elbląg",
+      "source": "Urząd Miejski w Elblągu",
+      "source_name": "Urząd Miejski w Elblągu",
+      "description": "Konkurs Miasta Elbląga na specjalistyczne wsparcie rodzin w kryzysie w 2027 r., realizowane w ramach przeciwdziałania uzależnieniom i patologiom społecznym. Wymagany wkład własny min. 20%.",
+      "voivodeships": [
+        "warminsko-mazurskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "50 000 zł (2027)",
+      "total_budget": 50000,
+      "currency": "PLN",
+      "own_contribution": "wkład własny min. 20% całkowitej kwoty zadania (wkład rzeczowy/osobowy może być zastąpiony środkami finansowymi)",
+      "deadline": "2026-12-15",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.elblag.eu/artykul/98/11527/prezydent-miasta-elblaga-oglasza-otwarty-konkurs-ofert-na-wsparcie-realizacji-zadania-z-zakresu-przeciwdzialania-uzaleznieniom-i-patologiom-spolecznym-pn-wsparcie-specjalistyczne-dla-rodzin-w-kryzysie",
+      "collected_at": "2026-11-25",
+      "last_checked": "2026-11-25",
+      "thematic_areas": [
+        "przeciwdziałanie uzależnieniom i patologiom",
+        "rodzina i prawa dziecka"
+      ],
+      "target_groups": [
+        "rodziny",
+        "osoby uzależnione i zagrożone uzależnieniem"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 20
+      },
+      "extraction_notes": "Ogłoszenie Prezydenta Miasta Elbląga w BIP (strona + PDF ogłoszenia, pdftotext → pdf_extracts/2026-11-25/elblag_11527.txt); forma wsparcia; termin składania ofert 15.12.2026 (generator ofert lub papierowo w Urzędzie Miejskim); uprawnieni: organizacje pozarządowe z działalnością statutową w dziedzinie przeciwdziałania uzależnieniom",
+      "voivodeship": [
+        "warminsko-mazurskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "50 000 zł (2027)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Elbląg"
+        }
+      ]
+    },
+    {
+      "id": "g_14aacb78f619d54b",
+      "title": "Elbląg: zapobieganie ubóstwu i wsparcie dystrybucji żywności w 2027 r.",
+      "funder": "Miasto Elbląg",
+      "source": "Urząd Miejski w Elblągu",
+      "source_name": "Urząd Miejski w Elblągu",
+      "description": "Miasto Elbląg dofinansuje w 2027 r. działania organizacji związane z dystrybucją żywności dla najuboższych mieszkańców. Przewidziano jednego realizatora; wymagany wkład własny co najmniej 20%.",
+      "voivodeships": [
+        "warminsko-mazurskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "80 000 zł (2027)",
+      "total_budget": 80000,
+      "currency": "PLN",
+      "own_contribution": "wkład własny min. 20% całkowitej kwoty zadania (wkład rzeczowy/osobowy może być zastąpiony środkami finansowymi)",
+      "deadline": "2026-12-15",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.elblag.eu/artykul/98/11520/prezydent-miasta-elblaga-oglasza-otwarty-konkurs-ofert-na-wsparcie-realizacji-zadania-z-zakresu-pomocy-spolecznej-w-tym-pomocy-rodzinom-i-osobom-w-trudnej-sytuacji-zyciowej-oraz-wyrownywania-szans-tych-rodzin-i-osob-pn-zapobieganie-zjawisku-ubostwa-i-wsparcie-dystrybucji-zywnosci",
+      "collected_at": "2026-11-25",
+      "last_checked": "2026-11-25",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "działalność charytatywna"
+      ],
+      "target_groups": [
+        "osoby zagrożone wykluczeniem społecznym",
+        "rodziny"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 20
+      },
+      "extraction_notes": "Ogłoszenie Prezydenta Miasta Elbląga w BIP (strona + PDF ogłoszenia, pdftotext → pdf_extracts/2026-11-25/elblag_11520.txt); forma wsparcia; termin składania ofert 15.12.2026 (generator ofert lub papierowo w Urzędzie Miejskim); uprawnieni: organizacje prowadzące działalność statutową w zakresie pomocy społecznej",
+      "voivodeship": [
+        "warminsko-mazurskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "80 000 zł (2027)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Elbląg"
+        }
+      ]
+    },
+    {
       "id": "g_ec91158c997a4e45",
       "title": "Kościerzyna: schronienie dla osób bezdomnych, w tym schronisko z usługami opiekuńczymi (2027)",
       "funder": "Burmistrz Miasta Kościerzyna",
@@ -32024,6 +32249,70 @@
       ]
     },
     {
+      "id": "g_5db69a6ce175b2ce",
+      "title": "Gorzów Wielkopolski: całodobowa placówka dla osób nietrzeźwych oraz ogrzewalnia 2027–2028",
+      "funder": "Prezydent Miasta Gorzowa Wielkopolskiego",
+      "source": "Urząd Miasta Gorzowa Wielkopolskiego",
+      "source_name": "Urząd Miasta Gorzowa Wielkopolskiego",
+      "description": "Konkurs Miasta Gorzowa Wlkp. na prowadzenie w latach 2027–2028 całodobowej placówki dla osób nietrzeźwych i ogrzewalni (sezonowo do 15 miejsc dla nietrzeźwych i 10 w ogrzewalni, latem 25 miejsc). Wymagane co najmniej 2 lata doświadczenia w podobnych zadaniach.",
+      "voivodeships": [
+        "lubuskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "1 200 000 zł (2027: 800 000 zł; 2028: 400 000 zł)",
+      "total_budget": 1200000,
+      "currency": "PLN",
+      "own_contribution": "oferent może wykazać wkład własny finansowy i/lub niefinansowy osobowy (forma wsparcia lub powierzenia)",
+      "deadline": "2026-12-16",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.um.gorzow.pl/268/13126/Otwarty_konkurs_ofert_dla_organizacji_pozarzadowych_na_realizacje_zadania_z_zakresu_pomocy_spolecznej_-_Prowadzenie_calodobowej_placowki_dla_osob_nietrzezwych_oraz_ogrzewalni/",
+      "collected_at": "2026-11-25",
+      "last_checked": "2026-11-25",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "przeciwdziałanie uzależnieniom i patologiom"
+      ],
+      "target_groups": [
+        "osoby uzależnione i zagrożone uzależnieniem",
+        "osoby w kryzysie bezdomności"
+      ],
+      "min_experience_years": 2,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–30.06.2028",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Ogłoszenie Prezydenta Miasta Gorzowa Wlkp. w BIP z 24.11.2026 (treść HTML); oferty w generatorze do 16.12.2026 godz. 14:00; forma wsparcia lub powierzenia; wymagane min. 2 lata doświadczenia w realizacji podobnych zadań; kwota 2027 z prowizorium budżetowego",
+      "voivodeship": [
+        "lubuskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "1 200 000 zł (2027: 800 000 zł; 2028: 400 000 zł)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Gorzów Wielkopolski"
+        }
+      ]
+    },
+    {
       "id": "g_16e06eadd06932bd",
       "title": "NOWEFIO 2027 – Priorytety 2–4 (dobro wspólne, życie publiczne, kompetencje organizacji)",
       "funder": "Narodowy Instytut Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego",
@@ -32141,7 +32430,7 @@
       "max_project_duration": "1.01.2027–31.12.2029",
       "own_contribution_required": null,
       "min_own_contribution": null,
-      "extraction_notes": "105 000 zł rocznie (2027, 2028, 2029); kwota na 2027 r. z prowizorium budżetowego. Ogłoszenie opublikowane w BIP 20.11.2026. Wkład własny nieobowiązkowy, punktowany.; QA 2026-11-24: scalono z duplikatem g_528d62a4dc3339d0",
+      "extraction_notes": "105 000 zł rocznie (2027, 2028, 2029); kwota na 2027 r. z prowizorium budżetowego. Ogłoszenie opublikowane w BIP 20.11.2026. Wkład własny nieobowiązkowy, punktowany.; QA 2026-11-25: scalono z duplikatem g_528d62a4dc3339d0",
       "voivodeship": [
         "lubuskie"
       ],
