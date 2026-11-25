@@ -1,8 +1,8 @@
 {
   "schema_version": "2.2.0",
-  "last_updated": "2026-11-25T06:09:16+01:00",
-  "generated_at": "2026-11-25T06:09:16+01:00",
-  "count": 571,
+  "last_updated": "2026-11-25T06:55:08+01:00",
+  "generated_at": "2026-11-25T06:55:08+01:00",
+  "count": 570,
   "voivodeships": [
     {
       "code": "dolnoslaskie",
@@ -1835,69 +1835,6 @@
         {
           "type": "gmina",
           "name": "Warszawa"
-        }
-      ]
-    },
-    {
-      "id": "g_55d5b87ae08784aa",
-      "title": "Łódź: dotacje na prace konserwatorskie, restauratorskie i budowlane przy zabytkach w 2027 r.",
-      "funder": "Miasto Łódź",
-      "source": "Urząd Miasta Łodzi",
-      "source_name": "Urząd Miasta Łodzi",
-      "description": "Miasto Łódź przyjmuje wnioski o dotacje na prace konserwatorskie, restauratorskie lub roboty budowlane przy zabytkach z rejestru lub gminnej ewidencji położonych w Łodzi. O dotację może starać się m.in. stowarzyszenie lub fundacja mająca tytuł prawny do zabytku; standardowo miasto finansuje połowę nakładów koniecznych, wyjątkowo całość.",
-      "voivodeships": [
-        "lodzkie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "osoby fizyczne",
-        "inne jednostki organizacyjne posiadające tytuł prawny do zabytku"
-      ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": "standardowo połowa nakładów koniecznych (50%), wyjątkowo całość (100%)",
-      "total_budget": null,
-      "currency": "PLN",
-      "own_contribution": "standardowo miasto pokrywa połowę nakładów koniecznych (50%), wyjątkowo całość – przy szczególnej wartości zabytku lub pilnej potrzebie prac",
-      "deadline": "2026-11-30",
-      "start_date": null,
-      "status": "aktywny",
-      "category": [
-        "kultura"
-      ],
-      "source_url": "https://bip.uml.lodz.pl/urzad-miasta/ogloszenia-i-zawiadomienia/ogloszenia-urzedu-miasta-lodzi/ogloszenie/nabor-wnioskow-w-terminie-do-dnia-30-listopada-2026-r-na-wykonanie-prac-konserwatorskich-restauratorskich-lub-robot-budowlanych-przy-zabytkach-wpisanych-do-rejestru-zabytkow-lub-znajdujacych-sie-w-gminnej-ewidencji-zabytkow-polozonych-na-obszarze-miasta-lodzi-na-ktore-miasto-lodz-udzieli-dotacji-w-2027-r-id179680/2026/09/23/",
-      "collected_at": "2026-11-25",
-      "last_checked": "2026-11-25",
-      "thematic_areas": [
-        "kultura, sztuka, dziedzictwo narodowe"
-      ],
-      "target_groups": [
-        "ogół mieszkańców"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": "prace do 5.12.2027",
-      "own_contribution_required": null,
-      "min_own_contribution": null,
-      "extraction_notes": "Zarządzenie nr 2050/2026 Prezydenta Miasta Łodzi, załącznik nr 1 – ogłoszenie (PDF z BIP UMŁ, pdftotext → pdf_extracts/2026-11-25/lodz_zabytki_2050_2026.txt); wnioski papierowe do 30.11.2026 (decyduje data wpływu); uprawnieni: osoby fizyczne i jednostki organizacyjne z tytułem prawnym do zabytku – NGO tylko jako właściciel/posiadacz zabytku; rozstrzygnięcie po uchwaleniu budżetu 2027",
-      "voivodeship": [
-        "lodzkie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": "standardowo połowa nakładów koniecznych (50%), wyjątkowo całość (100%)",
-      "scope": "gminny",
-      "locality": [
-        {
-          "type": "gmina",
-          "name": "Łódź"
         }
       ]
     },
