@@ -1,8 +1,8 @@
 {
   "schema_version": "2.2.0",
-  "last_updated": "2026-11-25T06:55:08+01:00",
-  "generated_at": "2026-11-25T06:55:08+01:00",
-  "count": 570,
+  "last_updated": "2026-11-26T06:01:29+01:00",
+  "generated_at": "2026-11-26T06:01:29+01:00",
+  "count": 576,
   "voivodeships": [
     {
       "code": "dolnoslaskie",
@@ -378,132 +378,6 @@
     }
   ],
   "grants": [
-    {
-      "id": "g_b87da2391a4f65c4",
-      "title": "Grudziądz: posiłek wigilijny dla 400 osób w kryzysie bezdomności lub w niedostatku (2026)",
-      "funder": "Prezydent Grudziądza",
-      "source": "Urząd Miejski w Grudziądzu",
-      "source_name": "Urząd Miejski w Grudziądzu",
-      "description": "Przygotowanie i rozdanie 24 grudnia 2026 r. 400 zestawów posiłku wigilijnego (cztery tradycyjne potrawy) dla osób w kryzysie bezdomności i żyjących w niedostatku z Grudziądza. Wybrana zostanie jedna oferta. Wymagany wkład osobowy lub rzeczowy (można go zastąpić środkami finansowymi). Oferty przez generator wskazany w ogłoszeniu do 25.11.2026 r.",
-      "voivodeships": [
-        "kujawsko-pomorskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
-      ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": 22000,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-25",
-      "start_date": null,
-      "status": "aktywny",
-      "category": [
-        "pomoc_spoleczna"
-      ],
-      "source_url": "https://bip.grudziadz.pl/pliki/grudziadz/zalaczniki/32890/ogloszenie-konkursu-posilek-wigilijny-2026.pdf",
-      "collected_at": "2026-11-22",
-      "last_checked": "2026-11-22",
-      "thematic_areas": [
-        "pomoc społeczna",
-        "działalność charytatywna"
-      ],
-      "target_groups": [
-        "osoby w kryzysie bezdomności",
-        "osoby zagrożone wykluczeniem społecznym"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": "grudzień 2026",
-      "own_contribution_required": true,
-      "min_own_contribution": null,
-      "extraction_notes": "Zarządzenie nr 631/26 z 3.11.2026; wsparcie realizacji zadania.",
-      "voivodeship": [
-        "kujawsko-pomorskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": null,
-      "scope": "gminny",
-      "locality": [
-        {
-          "type": "gmina",
-          "name": "Grudziądz"
-        }
-      ]
-    },
-    {
-      "id": "g_ee030907b34e855e",
-      "title": "Pomagamy z Każdym Krokiem – granty na wsparcie psychologiczne dzieci i młodzieży",
-      "funder": "Fundacja PKO Banku Polskiego",
-      "source": "Fundacja PKO Banku Polskiego",
-      "source_name": "Fundacja PKO Banku Polskiego",
-      "description": "Program regrantingowy finansowany przez Fundację PKO Banku Polskiego, prowadzony przez Fundację Dajemy Dzieciom Siłę. Granty na bezpłatne wsparcie psychologiczne/psychoterapeutyczne dzieci i młodzieży w kryzysie psychicznym lub doświadczających przemocy. Ścieżka I – podmioty z Sieci Centrów Pomocy Dzieciom; Ścieżka II – granty lokalne w 20 miejscowościach 10. PKO Biegu Charytatywnego.",
-      "voivodeships": [
-        "ogolnopolski"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "podmioty publiczne (wydatki budżetowe min. 200 tys. zł)"
-      ],
-      "amount_min": null,
-      "amount_max": 100000,
-      "amount_text": "Ścieżka I: do 100 000 zł (maks. 10 grantów); Ścieżka II: 60 000–75 000 zł (po 1 grancie na miejscowość)",
-      "total_budget": null,
-      "currency": "PLN",
-      "own_contribution": "Wkład własny nie jest wymagany",
-      "deadline": "2026-11-25",
-      "start_date": "2026-11-04",
-      "status": "aktywny",
-      "category": [
-        "pomoc_spoleczna"
-      ],
-      "source_url": "https://www.fundacjapkobp.pl/pomagamy-z-kazdym-krokiem",
-      "collected_at": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "thematic_areas": [
-        "ochrona i promocja zdrowia",
-        "dzieci i młodzież",
-        "rodzina i prawa dziecka"
-      ],
-      "target_groups": [
-        "dzieci i młodzież"
-      ],
-      "min_experience_years": 3,
-      "min_years_of_activity": 3,
-      "min_revenue": "200 000 zł przychodu za 2025 r. (organizacje pozarządowe)",
-      "requires_opp": false,
-      "max_project_duration": "10 miesięcy (1.02–30.11.2027)",
-      "own_contribution_required": false,
-      "min_own_contribution": {
-        "type": "percent",
-        "value": 0
-      },
-      "extraction_notes": "Wymagane Standardy Ochrony Małoletnich wprowadzone do 31.08.2026; rejestracja najpóźniej 31.08.2023; Ścieżka II – 20 miejscowości: Bydgoszcz, Gdańsk, Gorzów Wlkp., Kielce, Kołobrzeg, Kozienice, Kraków, Krosno, Lębork, Lidzbark Warmiński, Łomża, Łódź, Oleśnica, Opole, Pleszew, Poznań, Ruda Śląska, Stalowa Wola, Warszawa, Zamość; wnioski e-mailem na konkurs.grantowy@fdds.pl (podpis kwalifikowany)",
-      "voivodeship": [
-        "ogolnopolski"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": "Ścieżka I: do 100 000 zł (maks. 10 grantów); Ścieżka II: 60 000–75 000 zł (po 1 grancie na miejscowość)",
-      "scope": "ogolnopolski",
-      "locality": []
-    },
     {
       "id": "g_6bc280257dc032c1",
       "title": "FEOP.05.03 Wyrównywanie szans kobiet i mężczyzn na rynku pracy — typ 1",
@@ -1124,7 +998,7 @@
         "type": "percent",
         "value": 0
       },
-      "extraction_notes": "ogłoszenie Prezydenta Miasta Łodzi z 6.11.2026 (PDF z BIP UMŁ, pdftotext) 2026-11-21; termin WYLICZONY: ogłoszenie podaje '21 dni od dnia ukazania się ogłoszenia' – od 6.11.2026 daje 27.11.2026; wymagany wpis na listę Wojewody Łódzkiego (art. 11d ustawy o NPP); QA 2026-11-25: scalono z duplikatem g_fd2129850945fa1e",
+      "extraction_notes": "ogłoszenie Prezydenta Miasta Łodzi z 6.11.2026 (PDF z BIP UMŁ, pdftotext) 2026-11-21; termin WYLICZONY: ogłoszenie podaje '21 dni od dnia ukazania się ogłoszenia' – od 6.11.2026 daje 27.11.2026; wymagany wpis na listę Wojewody Łódzkiego (art. 11d ustawy o NPP); QA 2026-11-26: scalono z duplikatem g_fd2129850945fa1e",
       "voivodeship": [
         "lodzkie"
       ],
@@ -6691,7 +6565,7 @@
       "max_project_duration": "2027",
       "own_contribution_required": null,
       "min_own_contribution": null,
-      "extraction_notes": "komunikat na oficjalnej stronie miasta 2026-11-22; BIP Ełku blokuje automatyczne zapytania (403 antybot) – podział kwot na zadania niezweryfikowany; QA 2026-11-25: scalono z duplikatem g_1100d55d5f71217a",
+      "extraction_notes": "komunikat na oficjalnej stronie miasta 2026-11-22; BIP Ełku blokuje automatyczne zapytania (403 antybot) – podział kwot na zadania niezweryfikowany; QA 2026-11-26: scalono z duplikatem g_1100d55d5f71217a",
       "voivodeship": [
         "warminsko-mazurskie"
       ],
@@ -27516,7 +27390,7 @@
       ],
       "source_url": "https://www.funduszeunijne.gov.pl/nabory/182-gotowosc-cywilna-w-szkolach-i-placowkach-oswiatowych-00126/",
       "collected_at": "2026-11-21",
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-26",
       "thematic_areas": [
         "nauka, edukacja, oświata i wychowanie",
         "ratownictwo, ochrona ludności i obrona cywilna"
@@ -27535,7 +27409,7 @@
         "type": "percent",
         "value": 0
       },
-      "extraction_notes": "weryfikacja na stronie oryginalnej 2026-11-21: nabór planowany 28.11–14.12.2026, pula 33 000 000 zł, dofinansowanie 100%",
+      "extraction_notes": "weryfikacja na stronie oryginalnej 2026-11-21: nabór planowany 28.11–14.12.2026, pula 33 000 000 zł, dofinansowanie 100%; weryfikacja ręczna 2026-11-26: bez zmian: nabór planowany 28.11–14.12.2026, pula 33 000 000 zł, dofinansowanie 100% (źródło: https://www.funduszeunijne.gov.pl/nabory/182-gotowosc-cywilna-w-szkolach-i-placowkach-oswiatowych-00126/)",
       "voivodeship": [
         "warminsko-mazurskie"
       ],
@@ -31206,61 +31080,6 @@
       ]
     },
     {
-      "id": "g_d04df3b638d7229d",
-      "title": "12.1 Rewitalizacja obszarów miejskich, Fundusze Europejskie dla Warmii i Mazur",
-      "funder": "Województwo Warmińsko-Mazurskie",
-      "source": "Urząd Marszałkowski Województwa Warmińsko-Mazurskiego",
-      "source_name": "Urząd Marszałkowski Województwa Warmińsko-Mazurskiego",
-      "description": "Urząd Marszałkowski Województwa Warmińsko-Mazurskiego ogłasza nabór wniosków: 12.1 Rewitalizacja obszarów miejskich, Fundusze Europejskie dla Warmii i Mazur. Wnioski/oferty można składać do 15.12.2026 r. Dostępne środki: pula środków 24 840 914 zł. Wśród uprawnionych wnioskodawców są organizacje pozarządowe (stowarzyszenia, fundacje).",
-      "voivodeships": [
-        "warminsko-mazurskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "JST i instytucje publiczne"
-      ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": 24840914,
-      "currency": "PLN",
-      "own_contribution": "Dofinansowanie 85%",
-      "deadline": "2026-12-15",
-      "start_date": "2026-12-01",
-      "status": "do_weryfikacji",
-      "category": [
-        "inne"
-      ],
-      "source_url": "https://www.funduszeunijne.gov.pl/nabory/121-rewitalizacja-obszarow-miejskich-2/",
-      "collected_at": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "thematic_areas": [
-        "rewitalizacja"
-      ],
-      "target_groups": [],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": null,
-      "own_contribution_required": null,
-      "min_own_contribution": null,
-      "extraction_notes": "weryfikacja na stronie oryginalnej 2026-11-21: nabór planowany 01.12–15.12.2026, pula 24 840 914 zł",
-      "voivodeship": [
-        "warminsko-mazurskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": null,
-      "scope": "wojewodzki",
-      "locality": []
-    },
-    {
       "id": "g_1ab7104fcfce0cee",
       "title": "Akademia rodziców nastolatka 2027–2028 (Warszawa)",
       "funder": "Miasto Stołeczne Warszawa",
@@ -31855,6 +31674,335 @@
       ]
     },
     {
+      "id": "g_b4a7e32d8d517ecb",
+      "title": "Mielec: dom dziennego pobytu dla 40 osób starszych przy ul. Sitki 5 w 2027 r.",
+      "funder": "Gmina Miejska Mielec",
+      "source": "Urząd Miejski w Mielcu",
+      "source_name": "Urząd Miejski w Mielcu",
+      "description": "Miasto Mielec wesprze w 2027 r. prowadzenie domu dziennego pobytu dla 40 seniorów (emerytów i rencistów) przy ul. Sitki 5. Organizacja musi mieć doświadczenie w podobnych zadaniach i wnieść co najmniej 10% wkładu własnego.",
+      "voivodeships": [
+        "podkarpackie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "300 000 zł (2027, planowane)",
+      "total_budget": 300000,
+      "currency": "PLN",
+      "own_contribution": "wkład własny osobowy lub rzeczowy min. 10% kosztu zadania (może być zastąpiony finansowym); dotacja do 90% kosztu",
+      "deadline": "2026-12-15",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://mielec.bip.gov.pl/ogloszenia-konkursow-ofert/1432632_og-oszenie-otwartego-konkursu-ofert.html",
+      "collected_at": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "thematic_areas": [
+        "seniorzy (osoby w wieku emerytalnym)",
+        "pomoc społeczna"
+      ],
+      "target_groups": [
+        "seniorzy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 10
+      },
+      "extraction_notes": "Zarządzenie nr 1185/2026 Prezydenta Miasta Mielca z 24.11.2026 (strona BIP + PDF, pdftotext → pdf_extracts/2026-11-26/mielec_fobj2388701.txt); forma wsparcia; termin składania ofert 15.12.2026; min_own_contribution wyliczony jako 100% - maks. poziom dofinansowania (90%)",
+      "voivodeship": [
+        "podkarpackie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "300 000 zł (2027, planowane)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Mielec"
+        }
+      ]
+    },
+    {
+      "id": "g_21a72a107bed7f66",
+      "title": "Mielec: jeden gorący posiłek dziennie dla potrzebujących mieszkańców w 2027 r. (2 punkty)",
+      "funder": "Gmina Miejska Mielec",
+      "source": "Urząd Miejski w Mielcu",
+      "source_name": "Urząd Miejski w Mielcu",
+      "description": "Konkurs Prezydenta Miasta Mielca na powierzenie w 2027 r. wydawania jednego gorącego posiłku dziennie osobom, które nie mogą go sobie zapewnić. Przewidziano dwa punkty wydawania posiłków obsługujące różne osiedla miasta.",
+      "voivodeships": [
+        "podkarpackie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "punkt 1: 40 560 zł; punkt 2: 60 840 zł (2027)",
+      "total_budget": 101400,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-15",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://mielec.bip.gov.pl/ogloszenia-konkursow-ofert/og-oszenie-otwartego-konkursu-ofert.html",
+      "collected_at": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "działalność charytatywna"
+      ],
+      "target_groups": [
+        "osoby zagrożone wykluczeniem społecznym",
+        "osoby w kryzysie bezdomności"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie nr 1182/2026 Prezydenta Miasta Mielca z 23.11.2026 (strona BIP + PDF, pdftotext → pdf_extracts/2026-11-26/mielec_fobj2388682.txt); forma powierzenia; termin składania ofert 15.12.2026; dotacja rozliczana wg liczby wydanych posiłków",
+      "voivodeship": [
+        "podkarpackie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "punkt 1: 40 560 zł; punkt 2: 60 840 zł (2027)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Mielec"
+        }
+      ]
+    },
+    {
+      "id": "g_8fae049a76947c2c",
+      "title": "Mielec: schronisko, schronisko z usługami opiekuńczymi, noclegownia i ogrzewalnia dla osób bezdomnych (I–VI 2027)",
+      "funder": "Gmina Miejska Mielec",
+      "source": "Urząd Miejski w Mielcu",
+      "source_name": "Urząd Miejski w Mielcu",
+      "description": "Konkurs Miasta Mielca na wsparcie w pierwszym półroczu 2027 r. schronienia dla bezdomnych mieszkańców w lokalu przy ul. Sandomierskiej 19 (schronisko, schronisko z usługami opiekuńczymi, noclegownia, ogrzewalnia). Placówka musi być wpisana do rejestru wojewody i spełniać standardy z rozporządzenia; wymagany wkład własny min. 10%.",
+      "voivodeships": [
+        "podkarpackie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "350 000 zł (I–VI 2027)",
+      "total_budget": 350000,
+      "currency": "PLN",
+      "own_contribution": "wkład własny osobowy lub rzeczowy min. 10% kosztu zadania (może być zastąpiony finansowym); dotacja do 90% kosztu",
+      "deadline": "2026-12-15",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://mielec.bip.gov.pl/ogloszenia-konkursow-ofert/1432634_og-oszenie-otwartego-konkursu-ofert.html",
+      "collected_at": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "potrzeby mieszkaniowe"
+      ],
+      "target_groups": [
+        "osoby w kryzysie bezdomności"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–30.06.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 10
+      },
+      "extraction_notes": "Zarządzenie nr 1186/2026 Prezydenta Miasta Mielca z 24.11.2026 (strona BIP + PDF, pdftotext → pdf_extracts/2026-11-26/mielec_fobj2388706.txt); forma wsparcia; termin składania ofert 15.12.2026; min_own_contribution wyliczony jako 100% - maks. poziom dofinansowania (90%)",
+      "voivodeship": [
+        "podkarpackie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "350 000 zł (I–VI 2027)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Mielec"
+        }
+      ]
+    },
+    {
+      "id": "g_9262b208c8b9a67e",
+      "title": "Mielec: trzy placówki wsparcia dziennego dla dzieci i młodzieży (I–VI 2027)",
+      "funder": "Gmina Miejska Mielec",
+      "source": "Urząd Miejski w Mielcu",
+      "source_name": "Urząd Miejski w Mielcu",
+      "description": "Miasto Mielec wesprze w pierwszym półroczu 2027 r. prowadzenie trzech placówek wsparcia dziennego: dwóch w formie opiekuńczej (os. Lotników, ul. Inwestorów) i jednej opiekuńczo-specjalistycznej przy ul. Chopina 8. Wymagany wkład własny min. 10% kosztu zadania.",
+      "voivodeships": [
+        "podkarpackie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "zadanie 1: 70 000 zł; zadanie 2: 91 500 zł; zadanie 3: 450 000 zł",
+      "total_budget": 611500,
+      "currency": "PLN",
+      "own_contribution": "wkład własny osobowy lub rzeczowy min. 10% kosztu zadania (może być zastąpiony finansowym); dotacja do 90% kosztu",
+      "deadline": "2026-12-15",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna",
+        "edukacja"
+      ],
+      "source_url": "https://mielec.bip.gov.pl/ogloszenia-konkursow-ofert/1432635_og-oszenie-otwartego-konkursu-ofert.html",
+      "collected_at": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "thematic_areas": [
+        "wspieranie rodziny i piecza zastępcza",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "rodziny"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–30.06.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 10
+      },
+      "extraction_notes": "Zarządzenie nr 1187/2026 Prezydenta Miasta Mielca z 24.11.2026 (strona BIP + PDF, pdftotext → pdf_extracts/2026-11-26/mielec_fobj2388708.txt); forma wsparcia; termin składania ofert 15.12.2026; min_own_contribution wyliczony jako 100% - maks. poziom dofinansowania (90%)",
+      "voivodeship": [
+        "podkarpackie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "zadanie 1: 70 000 zł; zadanie 2: 91 500 zł; zadanie 3: 450 000 zł",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Mielec"
+        }
+      ]
+    },
+    {
+      "id": "g_cbd4457ecccb0195",
+      "title": "Mielec: usługi opiekuńcze i specjalistyczne usługi opiekuńcze w miejscu zamieszkania w 2027 r.",
+      "funder": "Gmina Miejska Mielec",
+      "source": "Urząd Miejski w Mielcu",
+      "source_name": "Urząd Miejski w Mielcu",
+      "description": "Miasto Mielec powierzy organizacjom w 2027 r. świadczenie usług opiekuńczych (w tym specjalistycznych) oraz – jako drugie zadanie – specjalistycznych usług opiekuńczych dla osób z zaburzeniami psychicznymi. Wymagane jest co najmniej 2-letnie doświadczenie w podobnej działalności.",
+      "voivodeships": [
+        "podkarpackie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "zadanie 1: 1 500 000 zł (48 zł/godz.); zadanie 2: 567 000 zł (75 zł/godz.)",
+      "total_budget": 2067000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-15",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://mielec.bip.gov.pl/ogloszenia-konkursow-ofert/1432626_og-oszenie-otwartego-konkursu-ofert.html",
+      "collected_at": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "seniorzy (osoby w wieku emerytalnym)",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "seniorzy",
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": 2,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie nr 1183/2026 Prezydenta Miasta Mielca z 23.11.2026 (strona BIP + PDF, pdftotext → pdf_extracts/2026-11-26/mielec_fobj2388687.txt); forma powierzenia; termin składania ofert 15.12.2026; kwoty mogą się zmienić po uchwaleniu budżetu 2027",
+      "voivodeship": [
+        "podkarpackie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "zadanie 1: 1 500 000 zł (48 zł/godz.); zadanie 2: 567 000 zł (75 zł/godz.)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Mielec"
+        }
+      ]
+    },
+    {
       "id": "g_32a6e36d01c8ddae",
       "title": "Strzegom: gorące posiłki dla osób i rodzin w trudnej sytuacji materialnej w 2027 r.",
       "funder": "Gmina Strzegom",
@@ -32321,6 +32469,134 @@
       "locality": []
     },
     {
+      "id": "g_60e48d0294584b5a",
+      "title": "Ostrowiec Świętokrzyski: prowadzenie Centrum Integracji Społecznej (I–VI 2027)",
+      "funder": "Gmina Ostrowiec Świętokrzyski",
+      "source": "Centrum Usług Społecznych w Ostrowcu Świętokrzyskim",
+      "source_name": "Centrum Usług Społecznych w Ostrowcu Świętokrzyskim",
+      "description": "Konkurs CUS w Ostrowcu Świętokrzyskim na prowadzenie w pierwszym półroczu 2027 r. Centrum Integracji Społecznej dla mieszkańców gminy zagrożonych wykluczeniem, w szczególności osób uzależnionych od alkoholu. O dotację mogą ubiegać się wyłącznie organizacje posiadające status CIS nadany przez Wojewodę Świętokrzyskiego.",
+      "voivodeships": [
+        "swietokrzyskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "549 505 zł (I–VI 2027)",
+      "total_budget": 549505,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-16",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.um.ostrowiec.pl/otwarty-konkurs-ofert/33306/prowadzenie-centrum-integracji-spolecznej",
+      "collected_at": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "thematic_areas": [
+        "integracja osób zagrożonych wykluczeniem",
+        "przeciwdziałanie uzależnieniom i patologiom",
+        "aktywizacja zawodowa"
+      ],
+      "target_groups": [
+        "osoby zagrożone wykluczeniem społecznym",
+        "osoby uzależnione i zagrożone uzależnieniem"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–30.06.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie Nr 119/2026 Dyrektora CUS w Ostrowcu Świętokrzyskim z 24.11.2026, opublikowane w BIP Urzędu Miasta (PDF-skan z warstwą tekstową, pdftotext → pdf_extracts/2026-11-26/ostrowiec_CUS119_2026_CIS2027.txt); termin składania ofert 16.12.2026 godz. 9:00; wymagany status centrum integracji społecznej (decyzja Wojewody, ustawa o zatrudnieniu socjalnym); dotacja miesięczna wg uchwały RM Nr XLIX/161/2026",
+      "voivodeship": [
+        "swietokrzyskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "549 505 zł (I–VI 2027)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Ostrowiec Świętokrzyski"
+        }
+      ]
+    },
+    {
+      "id": "g_5e7790c05132767a",
+      "title": "Ostrowiec Świętokrzyski: prowadzenie Centrum Seniora w 2027 r.",
+      "funder": "Gmina Ostrowiec Świętokrzyski",
+      "source": "Centrum Usług Społecznych w Ostrowcu Świętokrzyskim",
+      "source_name": "Centrum Usług Społecznych w Ostrowcu Świętokrzyskim",
+      "description": "Centrum Usług Społecznych w Ostrowcu Świętokrzyskim szuka organizacji, która w 2027 r. poprowadzi Centrum Seniora dla co najmniej 50 nieaktywnych zawodowo osób 60+ w lokalu przy ul. Sienkiewicza 70. Zakres obejmuje m.in. zajęcia ruchowe, pomoc w sprawach urzędowych i podstawową pomoc przedmedyczną.",
+      "voivodeships": [
+        "swietokrzyskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "299 000 zł (2027)",
+      "total_budget": 299000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-16",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.um.ostrowiec.pl/otwarty-konkurs-ofert/33305/zarzadzenie-nr-120-2026-dyrektora-centrum-uslug-spolecznych-z-dnia-24-11-2026-r",
+      "collected_at": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "thematic_areas": [
+        "seniorzy (osoby w wieku emerytalnym)",
+        "pomoc społeczna"
+      ],
+      "target_groups": [
+        "seniorzy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie Nr 120/2026 Dyrektora CUS w Ostrowcu Świętokrzyskim z 24.11.2026, opublikowane w BIP Urzędu Miasta (PDF-skan z warstwą tekstową, pdftotext → pdf_extracts/2026-11-26/ostrowiec_CUS120_2026_centrum_seniora2027.txt); termin składania ofert 16.12.2026 godz. 9:00 w sekretariacie CUS, ul. Świętokrzyska 22; przy wsparciu – środki własne na poziomie z oferty",
+      "voivodeship": [
+        "swietokrzyskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "299 000 zł (2027)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Ostrowiec Świętokrzyski"
+        }
+      ]
+    },
+    {
       "id": "g_d302a3c1d0945191",
       "title": "Otwarty konkurs ofert dla organizacji pozarządowych na realizację zadania z zakresu pomocy społecznej - mieszkania treningowe i/lub wspomagane",
       "funder": "Prezydent Miasta Gorzowa Wielkopolskiego",
@@ -32367,7 +32643,7 @@
       "max_project_duration": "1.01.2027–31.12.2029",
       "own_contribution_required": null,
       "min_own_contribution": null,
-      "extraction_notes": "105 000 zł rocznie (2027, 2028, 2029); kwota na 2027 r. z prowizorium budżetowego. Ogłoszenie opublikowane w BIP 20.11.2026. Wkład własny nieobowiązkowy, punktowany.; QA 2026-11-25: scalono z duplikatem g_528d62a4dc3339d0",
+      "extraction_notes": "105 000 zł rocznie (2027, 2028, 2029); kwota na 2027 r. z prowizorium budżetowego. Ogłoszenie opublikowane w BIP 20.11.2026. Wkład własny nieobowiązkowy, punktowany.; QA 2026-11-26: scalono z duplikatem g_528d62a4dc3339d0",
       "voivodeship": [
         "lubuskie"
       ],
@@ -32532,6 +32808,70 @@
         {
           "type": "gmina",
           "name": "Ustrzyki Dolne"
+        }
+      ]
+    },
+    {
+      "id": "g_d4913e4e7104fdb8",
+      "title": "Ostrowiec Świętokrzyski: świetlice środowiskowe z elementami socjoterapii w szkołach (I–VI 2027)",
+      "funder": "Gmina Ostrowiec Świętokrzyski",
+      "source": "Urząd Miasta Ostrowca Świętokrzyskiego",
+      "source_name": "Urząd Miasta Ostrowca Świętokrzyskiego",
+      "description": "Konkurs Prezydenta Miasta Ostrowca Świętokrzyskiego na prowadzenie od stycznia do czerwca 2027 r. świetlic środowiskowych z socjoterapią w sześciu szkołach podstawowych, głównie dla dzieci z rodzin dysfunkcyjnych. Mogą startować organizacje działające statutowo w obszarze przeciwdziałania uzależnieniom.",
+      "voivodeships": [
+        "swietokrzyskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "234 000 zł (I–VI 2027)",
+      "total_budget": 234000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-17",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.um.ostrowiec.pl/otwarty-konkurs-ofert/33313/zarzadzenie-nr-vi-538-2026",
+      "collected_at": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "thematic_areas": [
+        "przeciwdziałanie uzależnieniom i patologiom",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "rodziny"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–30.06.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "Zarządzenie Nr VI/538/2026 Prezydenta Miasta Ostrowca Świętokrzyskiego z 25.11.2026 (strona BIP + PDF, pdftotext → pdf_extracts/2026-11-26/ostrowiec_zarz538_2026_swietlice2027.txt); termin składania ofert 17.12.2026 godz. 15:30 (papierowo w Urzędzie Miasta); forma wsparcia – udział środków własnych na poziomie z oferty, ogłoszenie nie określa minimalnego wkładu",
+      "voivodeship": [
+        "swietokrzyskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "234 000 zł (I–VI 2027)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Ostrowiec Świętokrzyski"
         }
       ]
     },
@@ -36063,6 +36403,61 @@
           "name": "nowosolski"
         }
       ]
+    },
+    {
+      "id": "g_d04df3b638d7229d",
+      "title": "12.1 Rewitalizacja obszarów miejskich, Fundusze Europejskie dla Warmii i Mazur",
+      "funder": "Województwo Warmińsko-Mazurskie",
+      "source": "Urząd Marszałkowski Województwa Warmińsko-Mazurskiego",
+      "source_name": "Urząd Marszałkowski Województwa Warmińsko-Mazurskiego",
+      "description": "Urząd Marszałkowski Województwa Warmińsko-Mazurskiego planuje nabór w działaniu 12.1 Rewitalizacja obszarów miejskich (FEWM.12.01-IZ.00-001/26) na przebudowę i remont budynków oraz zagospodarowanie przestrzeni publicznych na obszarach z gminnych programów rewitalizacji. Wnioski będzie można składać od 1.12.2026 do 11.01.2027 r. (termin wydłużony); pula 24 840 914 zł, a wśród uprawnionych są organizacje pozarządowe.",
+      "voivodeships": [
+        "warminsko-mazurskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "JST i instytucje publiczne"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": null,
+      "total_budget": 24840914,
+      "currency": "PLN",
+      "own_contribution": "Dofinansowanie 85%",
+      "deadline": "2027-01-11",
+      "start_date": "2026-12-01",
+      "status": "do_weryfikacji",
+      "category": [
+        "inne"
+      ],
+      "source_url": "https://www.funduszeunijne.gov.pl/nabory/121-rewitalizacja-obszarow-miejskich-2/",
+      "collected_at": "2026-11-21",
+      "last_checked": "2026-11-26",
+      "thematic_areas": [
+        "rewitalizacja"
+      ],
+      "target_groups": [],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": null,
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "weryfikacja na stronie oryginalnej 2026-11-21: nabór planowany 01.12–15.12.2026, pula 24 840 914 zł; weryfikacja ręczna 2026-11-26: komunikat z 23.11.2026 – termin składania wniosków wydłużony z 15.12.2026 do 11.01.2027, rozstrzygnięcie wrzesień 2027; nabór nadal oznaczony jako planowany (start 1.12.2026) (źródło: https://www.funduszeunijne.gov.pl/nabory/121-rewitalizacja-obszarow-miejskich-2/)",
+      "voivodeship": [
+        "warminsko-mazurskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": null,
+      "scope": "wojewodzki",
+      "locality": []
     },
     {
       "id": "g_5b877da729b4af00",
