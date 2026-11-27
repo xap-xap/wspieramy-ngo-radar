@@ -1,8 +1,8 @@
 {
   "schema_version": "2.2.0",
-  "last_updated": "2026-11-26T06:01:29+01:00",
-  "generated_at": "2026-11-26T06:01:29+01:00",
-  "count": 576,
+  "last_updated": "2026-11-27T06:08:31+01:00",
+  "generated_at": "2026-11-27T06:08:31+01:00",
+  "count": 584,
   "voivodeships": [
     {
       "code": "dolnoslaskie",
@@ -379,387 +379,6 @@
   ],
   "grants": [
     {
-      "id": "g_6bc280257dc032c1",
-      "title": "FEOP.05.03 Wyrównywanie szans kobiet i mężczyzn na rynku pracy — typ 1",
-      "funder": "Województwo Opolskie",
-      "source": "Urząd Marszałkowski Województwa Opolskiego",
-      "source_name": "Urząd Marszałkowski Województwa Opolskiego",
-      "description": "Urząd Marszałkowski Województwa Opolskiego ogłasza nabór wniosków: FEOP.05.03 Wyrównywanie szans kobiet i mężczyzn na rynku pracy — typ 1. Wnioski/oferty można składać do 26.11.2026 r. Wśród uprawnionych wnioskodawców są organizacje pozarządowe (stowarzyszenia, fundacje).",
-      "voivodeships": [
-        "opolskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "przedsiębiorcy",
-        "JST i instytucje publiczne",
-        "uczelnie i jednostki naukowe"
-      ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": null,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-26",
-      "start_date": "2026-11-12",
-      "status": "aktywny",
-      "category": [
-        "edukacja",
-        "pomoc_spoleczna"
-      ],
-      "source_url": "https://pw2021.opolskie.pl/Nabor",
-      "collected_at": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "thematic_areas": [
-        "aktywizacja zawodowa",
-        "równe prawa kobiet i mężczyzn"
-      ],
-      "target_groups": [
-        "kobiety"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": null,
-      "own_contribution_required": null,
-      "min_own_contribution": null,
-      "extraction_notes": "weryfikacja ręczna 2026-11-21: termin 26.11.2026 potwierdzony",
-      "voivodeship": [
-        "opolskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": null,
-      "scope": "wojewodzki",
-      "locality": []
-    },
-    {
-      "id": "g_ef5fbc09317eec78",
-      "title": "NOWEFIO 2027 – Priorytet 1: Mikro-inicjatywy (konkurs na operatorów regrantingu)",
-      "funder": "Narodowy Instytut Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego",
-      "source": "Narodowy Instytut Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego",
-      "source_name": "Narodowy Instytut Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego",
-      "description": "Konkurs na operatorów, którzy w latach 2027–2029 poprzez regranting będą wspierać małe, młode organizacje i grupy nieformalne w realizacji oddolnych inicjatyw lokalnych.",
-      "voivodeships": [
-        "ogolnopolski"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "kościelne osoby prawne",
-        "spółdzielnie socjalne",
-        "spółki non-profit",
-        "kluby sportowe (spółki non-profit)"
-      ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": null,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-26",
-      "start_date": "2026-11-04",
-      "status": "aktywny",
-      "category": [
-        "rozwoj_ngo"
-      ],
-      "source_url": "https://niw.gov.pl/nasze-programy/nowefio/edycja-2027/nabor-wnioskow/",
-      "collected_at": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "thematic_areas": [
-        "rozwój wspólnot i społeczności lokalnych",
-        "wsparcie organizacji pozarządowych"
-      ],
-      "target_groups": [
-        "organizacje pozarządowe",
-        "społeczności lokalne"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": "do 31.12.2029",
-      "own_contribution_required": null,
-      "min_own_contribution": null,
-      "extraction_notes": "Obligatoryjne kryterium: doświadczenie w realizacji min. 3 otwartych konkursów ofert w trybie art. 16a UoDPPiW lub regrantingu (liczba konkursów, nie lat).",
-      "voivodeship": [
-        "ogolnopolski"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": null,
-      "scope": "ogolnopolski",
-      "locality": []
-    },
-    {
-      "id": "g_853e8cb1cffba830",
-      "title": "Otwarty konkurs ofert 19/2027 – Sąsiedzkie Centrum Inicjatyw Lokalnych 2027 (Poznań)",
-      "funder": "Miasto Poznań",
-      "source": "Miasto Poznań",
-      "source_name": "Miasto Poznań",
-      "description": "Miasto Poznań ogłasza otwarty konkurs ofert: Otwarty konkurs ofert 19/2027 – Sąsiedzkie Centrum Inicjatyw Lokalnych 2027 (Poznań). Wnioski/oferty można składać do 26.11.2026 r. Wśród uprawnionych wnioskodawców są organizacje pozarządowe (stowarzyszenia, fundacje).",
-      "voivodeships": [
-        "wielkopolskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": null,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-26",
-      "start_date": "2026-11-05",
-      "status": "aktywny",
-      "category": [
-        "rozwoj_ngo"
-      ],
-      "source_url": "https://bip.poznan.pl/bip/wydzial-zdrowia-i-spraw-spolecznych,32/news/ogloszenie-otwartego-konkursu-ofert-nr-19-2027-sasiedzkie-centrum-inicjatyw-lokalnych,c,8020/ogloszenie-otwartego-konkursu-ofert-nr-19-2027-sasiedzkie-centrum-inicjatyw-lokalnych,289927.html",
-      "collected_at": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "thematic_areas": [
-        "rozwój wspólnot i społeczności lokalnych"
-      ],
-      "target_groups": [
-        "społeczności lokalne"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": null,
-      "own_contribution_required": null,
-      "min_own_contribution": null,
-      "extraction_notes": "termin 2026-11-26 potwierdzony automatycznie w treści oryginalnego ogłoszenia (2026-11-21)",
-      "voivodeship": [
-        "wielkopolskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": null,
-      "scope": "gminny",
-      "locality": [
-        {
-          "type": "gmina",
-          "name": "Poznań"
-        }
-      ]
-    },
-    {
-      "id": "g_979a495b95061511",
-      "title": "Powiat gorlicki: prowadzenie Środowiskowego Domu Samopomocy w Gorlicach z filią w Bobowej (65 miejsc) w 2027 r.",
-      "funder": "Zarząd Powiatu Gorlickiego",
-      "source": "Starostwo Powiatowe w Gorlicach",
-      "source_name": "Starostwo Powiatowe w Gorlicach",
-      "description": "Powierzenie prowadzenia dziennego ośrodka wsparcia dla 65 osób z zaburzeniami psychicznymi (Gorlice, ul. Michalusa 18, i filia w Bobowej). Oferty w zaklejonych kopertach w starostwie w ciągu 21 dni od ogłoszenia (5.11.2026), czyli do ok. 26.11.2026 r. Termin wyliczony; kwota w BIP powiatu.",
-      "voivodeships": [
-        "malopolskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
-      ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": null,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-26",
-      "start_date": null,
-      "status": "aktywny",
-      "category": [
-        "pomoc_spoleczna"
-      ],
-      "source_url": "https://samorzad.gov.pl/web/powiat-gorlicki/otwarty-konkurs-ofert-na-prowadzenie-srodowiskowego-domu-samopomocy-w-2027-roku",
-      "collected_at": "2026-11-22",
-      "last_checked": "2026-11-22",
-      "thematic_areas": [
-        "pomoc społeczna",
-        "osoby niepełnosprawne",
-        "ochrona i promocja zdrowia"
-      ],
-      "target_groups": [
-        "osoby z niepełnosprawnościami"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": "2027",
-      "own_contribution_required": false,
-      "min_own_contribution": {
-        "type": "percent",
-        "value": 0
-      },
-      "extraction_notes": "termin wyliczony: 21 dni od 5.11.2026; kwota nieustalona (null)",
-      "voivodeship": [
-        "malopolskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": null,
-      "scope": "powiatowy",
-      "locality": [
-        {
-          "type": "powiat",
-          "name": "gorlicki"
-        }
-      ]
-    },
-    {
-      "id": "g_661ee9de5a166f7a",
-      "title": "Powiat świdnicki: dwie całodobowe placówki opiekuńczo-wychowawcze typu rodzinnego 2027–2029",
-      "funder": "Zarząd Powiatu w Świdnicy",
-      "source": "Powiatowe Centrum Pomocy Rodzinie w Świdnicy",
-      "source_name": "Powiatowe Centrum Pomocy Rodzinie w Świdnicy",
-      "description": "Powierzenie prowadzenia dwóch placówek opiekuńczo-wychowawczych typu rodzinnego od 1.01.2027 do 31.12.2029 r. Na każdą placówkę przewidziano 844 800 zł rocznie. Każdy oferent może złożyć ofertę na jedno zadanie. Oferty w PCPR w Świdnicy do 26.11.2026 r.",
-      "voivodeships": [
-        "dolnoslaskie"
-      ],
-      "recipients": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "other_recipients": [
-        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
-      ],
-      "amount_min": null,
-      "amount_max": 2534400,
-      "amount_text": null,
-      "total_budget": 5068800,
-      "currency": "PLN",
-      "own_contribution": null,
-      "deadline": "2026-11-26",
-      "start_date": null,
-      "status": "aktywny",
-      "category": [
-        "pomoc_spoleczna"
-      ],
-      "source_url": "https://pcpr.swidnica.pl/public/index.php/artykul/aktualnosci/ogloszenie-otwarty-konkurs-ofert202611",
-      "collected_at": "2026-11-22",
-      "last_checked": "2026-11-22",
-      "thematic_areas": [
-        "wspieranie rodziny i piecza zastępcza",
-        "dzieci i młodzież"
-      ],
-      "target_groups": [
-        "dzieci i młodzież",
-        "rodziny"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": "2027-2029",
-      "own_contribution_required": false,
-      "min_own_contribution": {
-        "type": "percent",
-        "value": 0
-      },
-      "extraction_notes": "ogłoszenie z 3.11.2026; termin z OCR s.7",
-      "voivodeship": [
-        "dolnoslaskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie",
-        "fundacja"
-      ],
-      "amount": "do 2 534 400 zł",
-      "scope": "powiatowy",
-      "locality": [
-        {
-          "type": "powiat",
-          "name": "świdnicki"
-        }
-      ]
-    },
-    {
-      "id": "g_a772a03deb7f2914",
-      "title": "Rozwój sportu w Gminie Chrzanów w 2027 r. – dotacje dla klubów sportowych",
-      "funder": "Gmina Chrzanów",
-      "source": "Urząd Miejski w Chrzanowie",
-      "source_name": "Urząd Miejski w Chrzanowie",
-      "description": "Dotacje dla klubów sportowych z gminy Chrzanów na szkolenie zawodników, udział we współzawodnictwie oraz organizację rozgrywek i zawodów w 2027 r. Łączna pula 608 000 zł; dotacja pokrywa maksymalnie 95% kosztów zadania. Oferty elektronicznie do 26.11.2026, potwierdzenie papierowe do 27.11.2026 (godz. 13:00).",
-      "voivodeships": [
-        "malopolskie"
-      ],
-      "recipients": [
-        "stowarzyszenie"
-      ],
-      "other_recipients": [
-        "kluby sportowe działające w innej formie prawnej"
-      ],
-      "amount_min": null,
-      "amount_max": null,
-      "amount_text": null,
-      "total_budget": 608000,
-      "currency": "PLN",
-      "own_contribution": "min. 5% kosztów zadania (dotacja do 95%)",
-      "deadline": "2026-11-26",
-      "start_date": "2026-11-16",
-      "status": "aktywny",
-      "category": [
-        "sport"
-      ],
-      "source_url": "https://www.chrzanow.pl/aktualnosci/burmistrz-miasta-chrzanowa-oglasza-otwarty-konkurs-ofert-na-zlecenie-realizacji-zadan-publicznych-z-zakresu-rozwoju-spor,4675",
-      "collected_at": "2026-11-21",
-      "last_checked": "2026-11-21",
-      "thematic_areas": [
-        "kultura fizyczna i sport"
-      ],
-      "target_groups": [
-        "sportowcy",
-        "dzieci i młodzież"
-      ],
-      "min_experience_years": null,
-      "min_years_of_activity": null,
-      "min_revenue": null,
-      "requires_opp": false,
-      "max_project_duration": "w 2027 r.",
-      "own_contribution_required": true,
-      "min_own_contribution": {
-        "type": "percent",
-        "value": 5
-      },
-      "extraction_notes": "źródło: ogłoszenie stanowiące załącznik do zarządzenia nr ORG.0050.425.2026 Burmistrza Miasta Chrzanowa z 16.11.2026 (PDF na stronie urzędu), 2026-11-21; tryb uchwały o finansowaniu sportu; min_own_contribution wyliczony jako 100% - maks. poziom dofinansowania (95%)",
-      "voivodeship": [
-        "malopolskie"
-      ],
-      "eligible_entities": [
-        "stowarzyszenie"
-      ],
-      "amount": null,
-      "scope": "gminny",
-      "locality": [
-        {
-          "type": "gmina",
-          "name": "Chrzanów"
-        }
-      ]
-    },
-    {
       "id": "g_1c27b6a3aa6ee193",
       "title": "Budowa bazy lokalowej na rzecz osób z niepełnosprawnościami – otwarty konkurs ofert Województwa Dolnośląskiego",
       "funder": "Województwo Dolnośląskie",
@@ -998,7 +617,7 @@
         "type": "percent",
         "value": 0
       },
-      "extraction_notes": "ogłoszenie Prezydenta Miasta Łodzi z 6.11.2026 (PDF z BIP UMŁ, pdftotext) 2026-11-21; termin WYLICZONY: ogłoszenie podaje '21 dni od dnia ukazania się ogłoszenia' – od 6.11.2026 daje 27.11.2026; wymagany wpis na listę Wojewody Łódzkiego (art. 11d ustawy o NPP); QA 2026-11-26: scalono z duplikatem g_fd2129850945fa1e",
+      "extraction_notes": "ogłoszenie Prezydenta Miasta Łodzi z 6.11.2026 (PDF z BIP UMŁ, pdftotext) 2026-11-21; termin WYLICZONY: ogłoszenie podaje '21 dni od dnia ukazania się ogłoszenia' – od 6.11.2026 daje 27.11.2026; wymagany wpis na listę Wojewody Łódzkiego (art. 11d ustawy o NPP)",
       "voivodeship": [
         "lodzkie"
       ],
@@ -1006,7 +625,7 @@
         "stowarzyszenie",
         "fundacja"
       ],
-      "amount": "do 75 509 zł",
+      "amount": "75 508,68 zł na jeden punkt",
       "scope": "gminny",
       "locality": [
         {
@@ -6565,7 +6184,7 @@
       "max_project_duration": "2027",
       "own_contribution_required": null,
       "min_own_contribution": null,
-      "extraction_notes": "komunikat na oficjalnej stronie miasta 2026-11-22; BIP Ełku blokuje automatyczne zapytania (403 antybot) – podział kwot na zadania niezweryfikowany; QA 2026-11-26: scalono z duplikatem g_1100d55d5f71217a",
+      "extraction_notes": "komunikat na oficjalnej stronie miasta 2026-11-22; BIP Ełku blokuje automatyczne zapytania (403 antybot) – podział kwot na zadania niezweryfikowany; QA 2026-11-27: scalono z duplikatem g_1100d55d5f71217a",
       "voivodeship": [
         "warminsko-mazurskie"
       ],
@@ -27491,6 +27110,589 @@
       ]
     },
     {
+      "id": "g_b687bb3e4b20f66a",
+      "title": "Bydgoszcz – konkurs nr 20: chłopięce drużyny męskiej piłki nożnej, szkolenie (I–VI 2027)",
+      "funder": "Miasto Bydgoszcz",
+      "source": "Urząd Miasta Bydgoszczy",
+      "source_name": "Urząd Miasta Bydgoszczy",
+      "description": "Otwarty konkurs ofert nr 20 Prezydenta Miasta Bydgoszczy na wsparcie zadania z zakresu kultury fizycznej: szkolenie sportowe dzieci i młodzieży z bydgoskich drużyn męskiej piłki nożnej. Planowana pula na okres 1.01.2027 – 30.06.2027 wynosi 365 500 zł; kwota może zostać zmniejszona.",
+      "voivodeships": [
+        "kujawsko-pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym",
+        "kluby sportowe"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "365 500 zł (pula planowana)",
+      "total_budget": 365500,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.um.bydgoszcz.pl/artykul/985/11435/otwarty-konkurs-ofert-nr-20-na-realizacje-w-okresie-od-1-01-2027-r-do-30-06-2027-r-zadania-publicznego-w-zakresie-wspierania-i-upowszechniania-kultury-fizycznej-szkolenie-sportowe-dzieci-i-mlodziezy-wystepujacych-w-bydgoskich-druzynach-meskiej-pilki-noznej-przez-organizacje-pozarzadowe-oraz-inne-podmioty-prowadzace-dzialalnosc-pozytku-publicznego",
+      "collected_at": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "thematic_areas": [
+        "kultura fizyczna i sport",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "sportowcy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–30.06.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "BIP UM Bydgoszcz, sygn. WE-VII.524.36.2026, zarządzenie z 23.11.2026; termin składania ofert 14.12.2026 (strona BIP); załącznik nr 1 – ogłoszenie, skan PDF (OCR tesseract pol → pdf_extracts/2026-11-27/bydgoszcz_ko20_2027_OCR.txt); oferta elektroniczna w generatorze wskazanym w ogłoszeniu + wydruk papierowy; minimalny wkład własny nieokreślony w odczytanej części",
+      "voivodeship": [
+        "kujawsko-pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "365 500 zł (pula planowana)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Bydgoszcz"
+        }
+      ]
+    },
+    {
+      "id": "g_564f466e52e400f2",
+      "title": "Bydgoszcz – konkurs nr 21: dziewczęce zespoły kobiecego futbolu, szkolenie (I–VI 2027)",
+      "funder": "Miasto Bydgoszcz",
+      "source": "Urząd Miasta Bydgoszczy",
+      "source_name": "Urząd Miasta Bydgoszczy",
+      "description": "Otwarty konkurs ofert nr 21 Prezydenta Miasta Bydgoszczy na wsparcie zadania z zakresu kultury fizycznej: szkolenie sportowe dzieci i młodzieży z bydgoskich drużyn kobiecej piłki nożnej. Planowana pula na okres 1.01.2027 – 30.06.2027 wynosi 31 900 zł; kwota może zostać zmniejszona.",
+      "voivodeships": [
+        "kujawsko-pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym",
+        "kluby sportowe"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "31 900 zł (pula planowana)",
+      "total_budget": 31900,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.um.bydgoszcz.pl/artykul/985/11436/otwarty-konkurs-ofert-nr-21-na-realizacje-w-okresie-od-1-01-2027-r-do-30-06-2027-r-zadania-publicznego-w-zakresie-wspierania-i-upowszechniania-kultury-fizycznej-szkolenie-sportowe-dzieci-i-mlodziezy-wystepujacych-w-bydgoskich-druzynach-kobiecej-pilki-noznej-przez-organizacje-pozarzadowe-oraz-inne-podmioty-prowadzace-dzialalnosc-pozytku-publicznego",
+      "collected_at": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "thematic_areas": [
+        "kultura fizyczna i sport",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "kobiety",
+        "sportowcy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–30.06.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "BIP UM Bydgoszcz, sygn. WE-VII.524.37.2026, zarządzenie z 23.11.2026; termin składania ofert 14.12.2026 (strona BIP); załącznik nr 1 – ogłoszenie, skan PDF (OCR tesseract pol → pdf_extracts/2026-11-27/bydgoszcz_ko21_2027_OCR.txt); oferta elektroniczna w generatorze wskazanym w ogłoszeniu + wydruk papierowy; minimalny wkład własny nieokreślony w odczytanej części",
+      "voivodeship": [
+        "kujawsko-pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "31 900 zł (pula planowana)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Bydgoszcz"
+        }
+      ]
+    },
+    {
+      "id": "g_6aa9456c24972584",
+      "title": "Bydgoszcz: seniorskie drużyny koszykówki kobiet, piłki ręcznej mężczyzn i piłki nożnej kobiet (I–VII 2027, konkurs nr 19)",
+      "funder": "Miasto Bydgoszcz",
+      "source": "Urząd Miasta Bydgoszczy",
+      "source_name": "Urząd Miasta Bydgoszczy",
+      "description": "Otwarty konkurs ofert nr 19 Prezydenta Miasta Bydgoszczy na wsparcie zadania z zakresu kultury fizycznej: szkolenie sportowe bydgoskich drużyn seniorskich w koszykówce kobiet piłce ręcznej mężczyzn i piłce nożnej kobiet. Planowana pula na okres 1.01.2027 – 31.07.2027 wynosi 197 157 zł; kwota może zostać zmniejszona.",
+      "voivodeships": [
+        "kujawsko-pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym",
+        "kluby sportowe"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "197 157 zł (pula planowana)",
+      "total_budget": 197157,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.um.bydgoszcz.pl/artykul/985/11434/otwarty-konkurs-ofert-nr-19-na-realizacje-w-okresie-od-1-01-2027-r-do-31-07-2027-r-zadania-publicznego-w-zakresie-wspierania-i-upowszechniania-kultury-fizycznej-szkolenie-sportowe-bydgoskich-druzyn-seniorskich-w-koszykowce-kobiet-pilce-recznej-mezczyzn-i-pilce-noznej-kobiet-przez-organizacje-pozarzadowe-oraz-inne-podmioty-prowadzace-dzialalnosc-pozytku-publicznego",
+      "collected_at": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "thematic_areas": [
+        "kultura fizyczna i sport"
+      ],
+      "target_groups": [
+        "sportowcy",
+        "kobiety"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.07.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "BIP UM Bydgoszcz, sygn. WE-VII.524.35.2026, zarządzenie z 23.11.2026; termin składania ofert 14.12.2026 (strona BIP); załącznik nr 1 – ogłoszenie, skan PDF (OCR tesseract pol → pdf_extracts/2026-11-27/bydgoszcz_ko19_2027_OCR.txt); oferta elektroniczna w generatorze wskazanym w ogłoszeniu + wydruk papierowy; minimalny wkład własny nieokreślony w odczytanej części",
+      "voivodeship": [
+        "kujawsko-pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "197 157 zł (pula planowana)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Bydgoszcz"
+        }
+      ]
+    },
+    {
+      "id": "g_4eb6c3507e5adb92",
+      "title": "Bydgoszcz: szkolenie dzieci i młodzieży w miniżużlu w 2027 r. (konkurs nr 24)",
+      "funder": "Miasto Bydgoszcz",
+      "source": "Urząd Miasta Bydgoszczy",
+      "source_name": "Urząd Miasta Bydgoszczy",
+      "description": "Otwarty konkurs ofert nr 24 Prezydenta Miasta Bydgoszczy na wsparcie zadania z zakresu kultury fizycznej: szkolenie sportowe dzieci i młodzieży w miniżużlu w bydgoskich klubach sportowych. Planowana pula na okres 1.01.2027 – 31.12.2027 wynosi 33 000 zł; kwota może zostać zmniejszona.",
+      "voivodeships": [
+        "kujawsko-pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym",
+        "kluby sportowe"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "33 000 zł (pula planowana)",
+      "total_budget": 33000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.um.bydgoszcz.pl/artykul/985/11442/otwarty-konkurs-ofert-nr-24-na-realizacje-w-okresie-od-1-01-2027-r-do-31-12-2027-r-zadania-publicznego-w-zakresie-wspierania-i-upowszechniania-kultury-fizycznej-szkolenie-sportowe-dzieci-i-mlodziezy-w-minizuzlu-w-bydgoskich-klubach-sportowych-przez-organizacje-pozarzadowe-oraz-inne-podmioty-prowadzace-dzialalnosc-pozytku-publicznego",
+      "collected_at": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "thematic_areas": [
+        "kultura fizyczna i sport",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "sportowcy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "BIP UM Bydgoszcz, sygn. WE-VII.524.41.2026, zarządzenie z 23.11.2026; termin składania ofert 14.12.2026 (strona BIP); załącznik nr 1 – ogłoszenie, skan PDF (OCR tesseract pol → pdf_extracts/2026-11-27/bydgoszcz_ko24_2027_OCR.txt); oferta elektroniczna w generatorze wskazanym w ogłoszeniu + wydruk papierowy; minimalny wkład własny nieokreślony w odczytanej części",
+      "voivodeship": [
+        "kujawsko-pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "33 000 zł (pula planowana)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Bydgoszcz"
+        }
+      ]
+    },
+    {
+      "id": "g_293db3ffe7672f3e",
+      "title": "Bydgoszcz: szkolenie dzieci i młodzieży w siatkówce, piłce ręcznej i koszykówce w 2027 r. (konkurs nr 18)",
+      "funder": "Miasto Bydgoszcz",
+      "source": "Urząd Miasta Bydgoszczy",
+      "source_name": "Urząd Miasta Bydgoszczy",
+      "description": "Otwarty konkurs ofert nr 18 Prezydenta Miasta Bydgoszczy na wsparcie zadania z zakresu kultury fizycznej: szkolenie sportowe dzieci i młodzieży z bydgoskich drużyn piłki siatkowej piłki ręcznej i koszykówki. Planowana pula na okres 1.01.2027 – 31.12.2027 wynosi 990 000 zł; kwota może zostać zmniejszona.",
+      "voivodeships": [
+        "kujawsko-pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym",
+        "kluby sportowe"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "990 000 zł (pula planowana)",
+      "total_budget": 990000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.um.bydgoszcz.pl/artykul/985/11433/otwarty-konkurs-ofert-nr-18-na-realizacje-w-okresie-od-1-01-2027-r-do-31-12-2027-r-zadania-publicznego-w-zakresie-wspierania-i-upowszechniania-kultury-fizycznej-szkolenie-sportowe-dzieci-i-mlodziezy-wystepujacych-w-bydgoskich-druzynach-pilki-siatkowej-pilki-recznej-i-koszykowki-przez-organizacje-pozarzadowe-oraz-inne-podmioty-prowadzace-dzialalnosc-pozytku-publicznego",
+      "collected_at": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "thematic_areas": [
+        "kultura fizyczna i sport",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "dzieci i młodzież",
+        "sportowcy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "BIP UM Bydgoszcz, sygn. WE-VII.524.34.2026, zarządzenie z 23.11.2026; termin składania ofert 14.12.2026 (strona BIP); załącznik nr 1 – ogłoszenie, skan PDF (OCR tesseract pol → pdf_extracts/2026-11-27/bydgoszcz_ko18_2027_OCR.txt); oferta elektroniczna w generatorze wskazanym w ogłoszeniu + wydruk papierowy; minimalny wkład własny nieokreślony w odczytanej części",
+      "voivodeship": [
+        "kujawsko-pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "990 000 zł (pula planowana)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Bydgoszcz"
+        }
+      ]
+    },
+    {
+      "id": "g_440e7e9e30b19f30",
+      "title": "Bydgoszcz: szkolenie seniorskich drużyn piłki nożnej (I–VII 2027, konkurs nr 23)",
+      "funder": "Miasto Bydgoszcz",
+      "source": "Urząd Miasta Bydgoszczy",
+      "source_name": "Urząd Miasta Bydgoszczy",
+      "description": "Otwarty konkurs ofert nr 23 Prezydenta Miasta Bydgoszczy na wsparcie zadania z zakresu kultury fizycznej: szkolenie sportowe bydgoskich seniorskich drużyn piłki nożnej. Planowana pula na okres 1.01.2027 – 31.07.2027 wynosi 186 087 zł; kwota może zostać zmniejszona.",
+      "voivodeships": [
+        "kujawsko-pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym",
+        "kluby sportowe"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "186 087 zł (pula planowana)",
+      "total_budget": 186087,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.um.bydgoszcz.pl/artykul/985/11441/otwarty-konkurs-ofert-nr-23-na-realizacje-w-okresie-od-1-01-2027-r-do-31-07-2027-r-zadania-publicznego-w-zakresie-wspierania-i-upowszechniania-kultury-fizycznej-szkolenie-sportowe-bydgoskich-druzyn-seniorskich-w-pilce-noznej-przez-organizacje-pozarzadowe-oraz-inne-podmioty-prowadzace-dzialalnosc-pozytku-publicznego",
+      "collected_at": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "thematic_areas": [
+        "kultura fizyczna i sport"
+      ],
+      "target_groups": [
+        "sportowcy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.07.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "BIP UM Bydgoszcz, sygn. WE-VII.524.40.2026, zarządzenie z 23.11.2026; termin składania ofert 14.12.2026 (strona BIP); załącznik nr 1 – ogłoszenie, skan PDF (OCR tesseract pol → pdf_extracts/2026-11-27/bydgoszcz_ko23_2027_OCR.txt); oferta elektroniczna w generatorze wskazanym w ogłoszeniu + wydruk papierowy; minimalny wkład własny nieokreślony w odczytanej części",
+      "voivodeship": [
+        "kujawsko-pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "186 087 zł (pula planowana)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Bydgoszcz"
+        }
+      ]
+    },
+    {
+      "id": "g_a31a5b1dcdf7f676",
+      "title": "Bydgoszcz: szkolenie sportowe osób z niepełnosprawnościami w 2027 r. (konkurs nr 22)",
+      "funder": "Miasto Bydgoszcz",
+      "source": "Urząd Miasta Bydgoszczy",
+      "source_name": "Urząd Miasta Bydgoszczy",
+      "description": "Otwarty konkurs ofert nr 22 Prezydenta Miasta Bydgoszczy na wsparcie zadania z zakresu kultury fizycznej: szkolenie sportowe osób z niepełnosprawnościami w bydgoskich klubach. Planowana pula na okres 1.01.2027 – 31.12.2027 wynosi 166 500 zł; kwota może zostać zmniejszona.",
+      "voivodeships": [
+        "kujawsko-pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym",
+        "kluby sportowe"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "166 500 zł (pula planowana)",
+      "total_budget": 166500,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.um.bydgoszcz.pl/artykul/985/11439/otwarty-konkurs-ofert-nr-22-na-realizacje-w-okresie-od-1-01-2027-r-do-31-12-2027-r-zadania-publicznego-w-zakresie-wspierania-i-upowszechniania-kultury-fizycznej-szkolenie-sportowe-osob-z-niepelnosprawnosciami-w-bydgoskich-klubach-przez-organizacje-pozarzadowe-oraz-inne-podmioty-prowadzace-dzialalnosc-pozytku-publicznego",
+      "collected_at": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "thematic_areas": [
+        "kultura fizyczna i sport",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "osoby z niepełnosprawnościami",
+        "sportowcy"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "BIP UM Bydgoszcz, sygn. WE-VII.524.39.2026, zarządzenie z 23.11.2026; termin składania ofert 14.12.2026 (strona BIP); załącznik nr 1 – ogłoszenie, skan PDF (OCR tesseract pol → pdf_extracts/2026-11-27/bydgoszcz_ko22_2027_OCR.txt); oferta elektroniczna w generatorze wskazanym w ogłoszeniu + wydruk papierowy; minimalny wkład własny nieokreślony w odczytanej części",
+      "voivodeship": [
+        "kujawsko-pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "166 500 zł (pula planowana)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Bydgoszcz"
+        }
+      ]
+    },
+    {
+      "id": "g_4c4ee0dd3d66daf5",
+      "title": "Bydgoszcz: szkolenie sportowe w amp futbolu w 2027 r. (konkurs nr 25)",
+      "funder": "Miasto Bydgoszcz",
+      "source": "Urząd Miasta Bydgoszczy",
+      "source_name": "Urząd Miasta Bydgoszczy",
+      "description": "Otwarty konkurs ofert nr 25 Prezydenta Miasta Bydgoszczy na wsparcie zadania z zakresu kultury fizycznej: szkolenie sportowe zawodników amp futbolu (piłki nożnej osób po amputacjach) w bydgoskich klubach. Planowana pula na okres 1.01.2027 – 31.12.2027 wynosi 50 000 zł; kwota może zostać zmniejszona.",
+      "voivodeships": [
+        "kujawsko-pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym",
+        "kluby sportowe"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "50 000 zł (pula planowana)",
+      "total_budget": 50000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.um.bydgoszcz.pl/artykul/985/11443/otwarty-konkurs-ofert-nr-25-na-realizacje-w-okresie-od-1-01-2027-r-do-31-12-2027-r-zadania-publicznego-w-zakresie-wspierania-i-upowszechniania-kultury-fizycznej-szkolenie-sportowe-w-amp-futbolu-w-bydgoskich-klubach-przez-organizacje-pozarzadowe-oraz-inne-podmioty-prowadzace-dzialalnosc-pozytku-publicznego",
+      "collected_at": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "thematic_areas": [
+        "kultura fizyczna i sport",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "sportowcy",
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "BIP UM Bydgoszcz, sygn. WE-VII.524.42.2026, zarządzenie z 23.11.2026; termin składania ofert 14.12.2026 (strona BIP); załącznik nr 1 – ogłoszenie, skan PDF (OCR tesseract pol → pdf_extracts/2026-11-27/bydgoszcz_ko25_2027_OCR.txt); oferta elektroniczna w generatorze wskazanym w ogłoszeniu + wydruk papierowy; minimalny wkład własny nieokreślony w odczytanej części",
+      "voivodeship": [
+        "kujawsko-pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "50 000 zł (pula planowana)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Bydgoszcz"
+        }
+      ]
+    },
+    {
+      "id": "g_34876f87eb05e1db",
+      "title": "Bydgoszcz: szkolenie w indywidualnych dyscyplinach olimpijskich i Systemie Sportu Młodzieżowego w 2027 r. (konkurs nr 17)",
+      "funder": "Miasto Bydgoszcz",
+      "source": "Urząd Miasta Bydgoszczy",
+      "source_name": "Urząd Miasta Bydgoszczy",
+      "description": "Otwarty konkurs ofert nr 17 Prezydenta Miasta Bydgoszczy na wsparcie zadania z zakresu kultury fizycznej: szkolenie sportowe seniorów w indywidualnych dyscyplinach olimpijskich oraz dzieci i młodzieży w dyscyplinach indywidualnych objętych Systemem Sportu Młodzieżowego. Planowana pula na okres 1.01.2027 – 31.12.2027 wynosi 3 905 000 zł; kwota może zostać zmniejszona.",
+      "voivodeships": [
+        "kujawsko-pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym",
+        "kluby sportowe"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "3 905 000 zł (pula planowana)",
+      "total_budget": 3905000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport"
+      ],
+      "source_url": "https://bip.um.bydgoszcz.pl/artykul/985/11438/otwarty-konkurs-ofert-nr-17-na-realizacje-w-okresie-od-1-01-2027-r-do-31-12-2027-r-zadania-publicznego-w-zakresie-wspierania-i-upowszechniania-kultury-fizycznej-dla-bydgoskich-klubow-sportowych-prowadzacych-szkolenie-sportowe-seniorow-w-indywidualnych-dyscyplinach-olimpijskich-szkolenie-sportowe-dzieci-i-mlodziezy-w-indywidualnych-dyscyplinach-sportu-objetych-systemem-sportu-mlodziezowego-w-obszarze-wspolzawodnictwa-sportowego-dzieci-i-mlodziezy",
+      "collected_at": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "thematic_areas": [
+        "kultura fizyczna i sport",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "sportowcy",
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": null,
+      "min_own_contribution": null,
+      "extraction_notes": "BIP UM Bydgoszcz, sygn. WE-VII.524.38.2026, zarządzenie z 23.11.2026; termin składania ofert 14.12.2026 (strona BIP); załącznik nr 1 – ogłoszenie, skan PDF (OCR tesseract pol → pdf_extracts/2026-11-27/bydgoszcz_ko17_2027_OCR.txt); oferta elektroniczna w generatorze wskazanym w ogłoszeniu + wydruk papierowy; minimalny wkład własny nieokreślony w odczytanej części",
+      "voivodeship": [
+        "kujawsko-pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "3 905 000 zł (pula planowana)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Bydgoszcz"
+        }
+      ]
+    },
+    {
       "id": "g_8cf8f06a44ad59c7",
       "title": "Centrum Wsparcia dla rodziców dzieci w wieku szkolnym i starszych ze sprzężonymi niepełnosprawnościami (Kraków, 2027–2028)",
       "funder": "Gmina Miejska Kraków",
@@ -28270,6 +28472,71 @@
         {
           "type": "gmina",
           "name": "Kraków"
+        }
+      ]
+    },
+    {
+      "id": "g_f4f6b264bfbf1215",
+      "title": "Kluczbork: ciepły posiłek dla podopiecznych OPS w 2027 r.",
+      "funder": "Gmina Kluczbork",
+      "source": "Urząd Miejski w Kluczborku",
+      "source_name": "Urząd Miejski w Kluczborku",
+      "description": "Dotacja Gminy Kluczbork na zapewnienie jednego ciepłego posiłku dziennie (do ok. 10 000 posiłków w roku) osobom, którym Ośrodek Pomocy Społecznej przyznał taką pomoc. Oferent pokrywa co najmniej 5% kosztów zadania i musi mieć odpowiednio wyposażone pomieszczenia.",
+      "voivodeships": [
+        "opolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "200 000 zł (kwota prognozowana)",
+      "total_budget": 200000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-14",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.bip.kluczbork.eu/plik,24048,ogloszenie-konkursowe-zapewnienie-posilku-podpiecznym-ops-w-2027-r-pdf.pdf",
+      "collected_at": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "thematic_areas": [
+        "pomoc społeczna"
+      ],
+      "target_groups": [
+        "osoby zagrożone wykluczeniem społecznym"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 5
+      },
+      "extraction_notes": "Ogłoszenie Burmistrza Miasta Kluczborka z 23.11.2026 (PRO.8122.2.2026), PDF z BIP UM Kluczbork (pdftotext → pdf_extracts/2026-11-27/kluczbork_24048.txt); forma wsparcia do 95% kosztów; oferty do 14.12.2026 godz. 16:00 (wersja elektroniczna i papierowa)",
+      "voivodeship": [
+        "opolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "200 000 zł (kwota prognozowana)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Kluczbork"
         }
       ]
     },
@@ -32398,6 +32665,143 @@
       ]
     },
     {
+      "id": "g_6833e63a0e98ff22",
+      "title": "Kluczbork: pomoc społeczna dla mieszkańców – opieka domowa, pielęgniarstwo, posiłki (2027)",
+      "funder": "Gmina Kluczbork",
+      "source": "Urząd Miejski w Kluczborku",
+      "source_name": "Urząd Miejski w Kluczborku",
+      "description": "Dotacje na usługi pomocy społecznej dla mieszkańców gminy Kluczbork w 2027 r., m.in. opiekę domową nad chorymi i starszymi, pielęgniarstwo środowiskowe, rehabilitację, dowóz posiłków i wypożyczanie sprzętu medycznego. Wymagany wkład własny min. 5% oraz baza lokalowa w Kluczborku.",
+      "voivodeships": [
+        "opolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "450 000 zł (kwota prognozowana)",
+      "total_budget": 450000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-16",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.bip.kluczbork.eu/plik,24058,ogloszenie-konkursowe-pomoc-spoleczna-w-2027-pdf.pdf",
+      "collected_at": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "ochrona i promocja zdrowia",
+        "seniorzy (osoby w wieku emerytalnym)"
+      ],
+      "target_groups": [
+        "seniorzy",
+        "osoby z niepełnosprawnościami",
+        "osoby w kryzysie bezdomności"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 5
+      },
+      "extraction_notes": "Ogłoszenie Burmistrza Miasta Kluczborka (pomoc społeczna 2027), PDF z BIP UM Kluczbork (pdftotext → pdf_extracts/2026-11-27/kluczbork_24058.txt); forma wsparcia do 95% kosztów; oferty do 16.12.2026 godz. 15:00",
+      "voivodeship": [
+        "opolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "450 000 zł (kwota prognozowana)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Kluczbork"
+        }
+      ]
+    },
+    {
+      "id": "g_8bad3bb833240513",
+      "title": "Kluczbork: pozalekcyjne zajęcia sportowe dla dzieci i młodzieży jako profilaktyka uzależnień (I półrocze 2027)",
+      "funder": "Gmina Kluczbork",
+      "source": "Urząd Miejski w Kluczborku",
+      "source_name": "Urząd Miejski w Kluczborku",
+      "description": "Konkurs na pozalekcyjne i pozaszkolne zajęcia sportowe dla dzieci i młodzieży z gminy Kluczbork, służące zapobieganiu problemom alkoholowym i narkomanii. Dotacja do 95% kosztów, z dotacji wyłączone m.in. organizowanie zawodów.",
+      "voivodeships": [
+        "opolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "180 000 zł (kwota prognozowana)",
+      "total_budget": 180000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-16",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "sport",
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.bip.kluczbork.eu/plik,24057,ogloszenie-konkursowe-sportowe-zajecia-pozalekcyjne-2027-pdf.pdf",
+      "collected_at": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "thematic_areas": [
+        "przeciwdziałanie uzależnieniom i patologiom",
+        "kultura fizyczna i sport",
+        "dzieci i młodzież"
+      ],
+      "target_groups": [
+        "dzieci i młodzież"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "11.01.2027–30.06.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 5
+      },
+      "extraction_notes": "Ogłoszenie Burmistrza Miasta Kluczborka z 25.11.2026 (PRO.524.8.2026), PDF z BIP UM Kluczbork (pdftotext → pdf_extracts/2026-11-27/kluczbork_24057.txt); forma wsparcia do 95% kosztów; oferty do 16.12.2026 godz. 15:00; min_own_contribution wyliczony jako 100% - maks. poziom dofinansowania (95%)",
+      "voivodeship": [
+        "opolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "180 000 zł (kwota prognozowana)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Kluczbork"
+        }
+      ]
+    },
+    {
       "id": "g_16e06eadd06932bd",
       "title": "NOWEFIO 2027 – Priorytety 2–4 (dobro wspólne, życie publiczne, kompetencje organizacji)",
       "funder": "Narodowy Instytut Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego",
@@ -32643,7 +33047,7 @@
       "max_project_duration": "1.01.2027–31.12.2029",
       "own_contribution_required": null,
       "min_own_contribution": null,
-      "extraction_notes": "105 000 zł rocznie (2027, 2028, 2029); kwota na 2027 r. z prowizorium budżetowego. Ogłoszenie opublikowane w BIP 20.11.2026. Wkład własny nieobowiązkowy, punktowany.; QA 2026-11-26: scalono z duplikatem g_528d62a4dc3339d0",
+      "extraction_notes": "105 000 zł rocznie (2027, 2028, 2029); kwota na 2027 r. z prowizorium budżetowego. Ogłoszenie opublikowane w BIP 20.11.2026. Wkład własny nieobowiązkowy, punktowany.; QA 2026-11-27: scalono z duplikatem g_528d62a4dc3339d0",
       "voivodeship": [
         "lubuskie"
       ],
@@ -32721,6 +33125,74 @@
       "amount": "od 30 000 zł do 500 000 zł",
       "scope": "ogolnopolski",
       "locality": []
+    },
+    {
+      "id": "g_1bc55699a549edc2",
+      "title": "Toruń: prowadzenie dwóch dziennych domów pomocy dla 60 osób w 2027 r. (konkurs nr 6/2027)",
+      "funder": "Miasto Toruń",
+      "source": "Urząd Miasta Torunia",
+      "source_name": "Urząd Miasta Torunia",
+      "description": "Konkurs Prezydenta Miasta Torunia na powierzenie w 2027 r. prowadzenia dwóch ośrodków wsparcia – dziennych domów pomocy po 30 miejsc – dla mieszkańców Torunia, którzy ze względu na wiek, chorobę lub niepełnosprawność potrzebują częściowej opieki. Oferent musi zapewnić odpowiedni, dostosowany lokal i kadrę.",
+      "voivodeships": [
+        "kujawsko-pomorskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "1 499 760 zł (pula na 2027 r.)",
+      "total_budget": 1499760,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-16",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://bip.torun.pl/otwarty-konkurs-ofert/64495/konkurs-nr-6-2027",
+      "collected_at": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "seniorzy (osoby w wieku emerytalnym)",
+        "osoby niepełnosprawne"
+      ],
+      "target_groups": [
+        "seniorzy",
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": false,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 0
+      },
+      "extraction_notes": "BIP UM Toruń, konkurs nr 6/2027 opublikowany 25.11.2026; treść ogłoszenia DOCX (pdf_extracts/2026-11-27/torun_konkurs6_2027_ddp.txt); forma powierzenia; oferty elektronicznie do 16.12.2026 godz. 23:59; organizator: Toruńskie Centrum Usług Społecznych",
+      "voivodeship": [
+        "kujawsko-pomorskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "1 499 760 zł (pula na 2027 r.)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Toruń"
+        }
+      ]
     },
     {
       "id": "g_2337e9733e42f3c3",
@@ -33300,6 +33772,73 @@
       "amount": null,
       "scope": "wojewodzki",
       "locality": []
+    },
+    {
+      "id": "g_b6c66f691157cae9",
+      "title": "Kluczbork: wsparcie opieki paliatywnej i hospicyjnej w 2027 r.",
+      "funder": "Gmina Kluczbork",
+      "source": "Urząd Miejski w Kluczborku",
+      "source_name": "Urząd Miejski w Kluczborku",
+      "description": "Konkurs na wsparcie działania placówek opieki paliatywnej i hospicyjnej w gminie Kluczbork oraz poprawę komfortu ich usług w 2027 r. Dotacja do 95% kosztów zadania, oferent może złożyć jedną ofertę.",
+      "voivodeships": [
+        "opolskie"
+      ],
+      "recipients": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "other_recipients": [
+        "podmioty z art. 3 ust. 3 ustawy o pożytku publicznym"
+      ],
+      "amount_min": null,
+      "amount_max": null,
+      "amount_text": "170 000 zł (kwota prognozowana)",
+      "total_budget": 170000,
+      "currency": "PLN",
+      "own_contribution": null,
+      "deadline": "2026-12-18",
+      "start_date": null,
+      "status": "aktywny",
+      "category": [
+        "pomoc_spoleczna"
+      ],
+      "source_url": "https://www.bip.kluczbork.eu/plik,24069,ogloszenie-konkursowe-opieka-paliatywna-2027-pdf.pdf",
+      "collected_at": "2026-11-27",
+      "last_checked": "2026-11-27",
+      "thematic_areas": [
+        "pomoc społeczna",
+        "ochrona i promocja zdrowia"
+      ],
+      "target_groups": [
+        "seniorzy",
+        "osoby z niepełnosprawnościami"
+      ],
+      "min_experience_years": null,
+      "min_years_of_activity": null,
+      "min_revenue": null,
+      "requires_opp": false,
+      "max_project_duration": "1.01.2027–31.12.2027",
+      "own_contribution_required": true,
+      "min_own_contribution": {
+        "type": "percent",
+        "value": 5
+      },
+      "extraction_notes": "Ogłoszenie Burmistrza Miasta Kluczborka (opieka paliatywna 2027), PDF z BIP UM Kluczbork (pdftotext → pdf_extracts/2026-11-27/kluczbork_24069.txt; termin potwierdzony OCR tesseract pol: 18.12.2026 (piątek) godz. 15:00); forma wsparcia do 95% kosztów; min_own_contribution wyliczony jako 100% - maks. poziom dofinansowania (95%)",
+      "voivodeship": [
+        "opolskie"
+      ],
+      "eligible_entities": [
+        "stowarzyszenie",
+        "fundacja"
+      ],
+      "amount": "170 000 zł (kwota prognozowana)",
+      "scope": "gminny",
+      "locality": [
+        {
+          "type": "gmina",
+          "name": "Kluczbork"
+        }
+      ]
     },
     {
       "id": "g_c0a2bbb1c2694ddd",
